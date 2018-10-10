@@ -1,0 +1,43 @@
+From 0c8e3094f37b22d0b360703f8fecf6b83d8f6b19 Mon Sep 17 00:00:00 2001
+From: gonzalo2099 <gonzalo2099@gmail.com>
+Date: Wed, 10 Oct 2018 02:43:56 +0200
+Subject: [PATCH 2/2] patch
+
+---
+ src/main.cpp | 17 +----------------
+ 1 file changed, 1 insertion(+), 16 deletions(-)
+
+diff --git a/src/main.cpp b/src/main.cpp
+index a46b5e2..ce7e2d5 100755
+--- a/src/main.cpp
++++ b/src/main.cpp
+@@ -35,25 +35,10 @@
+ #include <QApplication>
+ #include <QCommandLineParser>
+ 
+-#ifndef Q_OS_WIN
+-#include <unistd.h>
+-#endif
+-#include <iostream>
++
+ 
+ extern "C" Q_DECL_EXPORT int kdemain(int argc, char **argv)
+ {
+-#ifndef Q_OS_WIN
+-    // Prohibit using sudo or kdesu (but allow using the root user directly)
+-    if (getuid() == 0) {
+-        if (!qEnvironmentVariableIsEmpty("SUDO_USER")) {
+-            std::cout << "Executing Dolphin with sudo is not possible due to unfixable security vulnerabilities." << std::endl;
+-            return EXIT_FAILURE;
+-        } else if (!qEnvironmentVariableIsEmpty("KDESU_USER")) {
+-            std::cout << "Executing Dolphin with kdesu is not possible due to unfixable security vulnerabilities." << std::endl;
+-            return EXIT_FAILURE;
+-        }
+-    }
+-#endif
+ 
+     QApplication app(argc, argv);
+     app.setAttribute(Qt::AA_UseHighDpiPixmaps, true);
+-- 
+2.19.1
+
