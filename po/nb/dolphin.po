@@ -1,0 +1,3247 @@
+# Translation of dolphin to Norwegian Bokmål
+#
+# Bjørn Kvisli <bjorn.kvisli@gmail.com>, 2007.
+# Nils Kristian Tomren <slx@nilsk.net>, 2007.
+# Bjørn Steensrud <bjornst@skogkatt.homelinux.org>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016.
+# Kjetil Kilhavn <kjetil@kilhavn.no>, 2011, 2012.
+# Øystein Steffensen-Alværvik <ystein@posteo.net>, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-08-05 06:08+0200\n"
+"PO-Revision-Date: 2018-06-23 00:47+0100\n"
+"Last-Translator: Øystein Steffensen-Alværvik <ystein@posteo.net>\n"
+"Language-Team: Norwegian Bokmål <i18n-nb@lister.ping.uio.no>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Bjørn Kvisli,Nils Kristian Tomren,Bjørn Steensrud,Kjetil Kilhavn"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"bjorn.kvisli@gmail.com,slx@nilsk.net,bjornst@skogkatt.homelinux.org,"
+"kjetil@kilhavn.no"
+
+#: dolphincontextmenu.cpp:144 panels/places/placespanel.cpp:198
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Empty Trash"
+msgstr "Tøm papirkurven"
+
+#: dolphincontextmenu.cpp:165
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Restore"
+msgstr "Gjenopprett"
+
+#: dolphincontextmenu.cpp:214
+#, kde-format
+msgctxt "@action:inmenu Add selected folder to places"
+msgid "Add to Places"
+msgstr "Legg til i Steder"
+
+#: dolphincontextmenu.cpp:230 dolphinmainwindow.cpp:1070
+#, kde-format
+msgctxt "@title:menu Create new folder, file, link, etc."
+msgid "Create New"
+msgstr "Lag ny"
+
+#: dolphincontextmenu.cpp:240
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path"
+msgstr "Åpne sti"
+
+#: dolphincontextmenu.cpp:246
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path in New Window"
+msgstr "Åpne sti i nytt vindu"
+
+#: dolphincontextmenu.cpp:252
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path in New Tab"
+msgstr "Åpne sti i ny fane"
+
+#: dolphincontextmenu.cpp:359
+#, kde-format
+msgctxt "@action:inmenu Add current folder to places"
+msgid "Add to Places"
+msgstr "Legg til i Steder"
+
+#: dolphinmainwindow.cpp:203
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully copied."
+msgstr "Vellykket kopiert."
+
+#: dolphinmainwindow.cpp:206
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully moved."
+msgstr "Flytting ferdig."
+
+#: dolphinmainwindow.cpp:209
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully linked."
+msgstr "Lenking ferdig."
+
+#: dolphinmainwindow.cpp:212
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully moved to trash."
+msgstr "Flyttet til papirkurven."
+
+#: dolphinmainwindow.cpp:215
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully renamed."
+msgstr "Navnet er endret."
+
+#: dolphinmainwindow.cpp:219
+#, kde-format
+msgctxt "@info:status"
+msgid "Created folder."
+msgstr "Opprettet mappe."
+
+#: dolphinmainwindow.cpp:292
+#, kde-format
+msgctxt "@info"
+msgid "Go back"
+msgstr "Gå tilbake"
+
+#: dolphinmainwindow.cpp:298
+#, kde-format
+msgctxt "@info"
+msgid "Go forward"
+msgstr "Gå fram"
+
+#: dolphinmainwindow.cpp:372
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not access <filename>%1</filename>."
+msgstr "Fikk ikke tilgang til <filename>%1</filename>."
+
+#: dolphinmainwindow.cpp:402
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirmation"
+msgstr "Bekreftelse"
+
+#: dolphinmainwindow.cpp:405
+#, kde-format
+msgctxt "@action:button 'Quit Dolphin' button"
+msgid "&Quit %1"
+msgstr "&Avslutt %1"
+
+#: dolphinmainwindow.cpp:406
+#, kde-format
+msgid "C&lose Current Tab"
+msgstr "&Lukk gjeldende fane"
+
+#: dolphinmainwindow.cpp:415
+#, kde-format
+msgid ""
+"You have multiple tabs open in this window, are you sure you want to quit?"
+msgstr ""
+"Du har flere faner åpne i dette vinduet. Er du sikker på at du vil avslutte?"
+
+#: dolphinmainwindow.cpp:417
+#, kde-format
+msgid "Do not ask again"
+msgstr "Ikke spør igjen"
+
+#: dolphinmainwindow.cpp:899
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Location Bar"
+msgstr "Stedslinje"
+
+#: dolphinmainwindow.cpp:907
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Go"
+msgstr "Gå"
+
+#: dolphinmainwindow.cpp:916
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Tools"
+msgstr "Verktøy"
+
+#: dolphinmainwindow.cpp:1035
+#, kde-format
+msgid "Search"
+msgstr "Søk"
+
+#: dolphinmainwindow.cpp:1037
+#, kde-format
+msgid "Search for %1"
+msgstr "Søk etter %1"
+
+#: dolphinmainwindow.cpp:1077
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "New &Window"
+msgstr "Nytt &vindu"
+
+#: dolphinmainwindow.cpp:1081
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "New Tab"
+msgstr "Ny fane"
+
+#: dolphinmainwindow.cpp:1087
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Close Tab"
+msgstr "Lukk fane"
+
+#: dolphinmainwindow.cpp:1104
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Paste"
+msgstr "Lim inn"
+
+#: dolphinmainwindow.cpp:1111 dolphinpart.cpp:190
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Invert Selection"
+msgstr "Omvend merking"
+
+#: dolphinmainwindow.cpp:1125
+#, kde-format
+msgctxt "@action:intoolbar Stash"
+msgid "Stash"
+msgstr "Hylle"
+
+#: dolphinmainwindow.cpp:1126
+#, kde-format
+msgctxt "@info"
+msgid "Opens the stash virtual directory in a split window"
+msgstr "Åpner hyllen – en virtuell mappe – i et delt vindu."
+
+#: dolphinmainwindow.cpp:1135
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Stop"
+msgstr "Stopp"
+
+#: dolphinmainwindow.cpp:1136
+#, kde-format
+msgctxt "@info"
+msgid "Stop loading"
+msgstr "Stopp lasting"
+
+#: dolphinmainwindow.cpp:1141
+#, kde-format
+msgctxt "@action:inmenu Navigation Bar"
+msgid "Editable Location"
+msgstr "Redigerbar adresse"
+
+#: dolphinmainwindow.cpp:1146
+#, kde-format
+msgctxt "@action:inmenu Navigation Bar"
+msgid "Replace Location"
+msgstr "Erstatt adresse"
+
+#: dolphinmainwindow.cpp:1166
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Undo close tab"
+msgstr "Angre fanelukking"
+
+#: dolphinmainwindow.cpp:1181
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Show Filter Bar"
+msgstr "Vis filterlinje"
+
+#: dolphinmainwindow.cpp:1187
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Compare Files"
+msgstr "Sammenligne filer"
+
+#: dolphinmainwindow.cpp:1195
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Open Terminal"
+msgstr "Åpne terminal"
+
+#: dolphinmainwindow.cpp:1216
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Next Tab"
+msgstr "Neste fane"
+
+#: dolphinmainwindow.cpp:1217
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Activate Next Tab"
+msgstr "Gå til neste fane"
+
+#: dolphinmainwindow.cpp:1223
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Previous Tab"
+msgstr "Forrige fane"
+
+#: dolphinmainwindow.cpp:1224
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Activate Previous Tab"
+msgstr "Gå til forrige fane"
+
+#: dolphinmainwindow.cpp:1231
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Target"
+msgstr "Vis mål"
+
+#: dolphinmainwindow.cpp:1237
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Tab"
+msgstr "Åpne i ny fane"
+
+#: dolphinmainwindow.cpp:1242
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Tabs"
+msgstr "Åpne i nye faner"
+
+#: dolphinmainwindow.cpp:1247
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Window"
+msgstr "Åpne i nytt vindu"
+
+#: dolphinmainwindow.cpp:1257
+#, kde-format
+msgctxt "@action:inmenu Panels"
+msgid "Unlock Panels"
+msgstr "Lås opp paneler"
+
+#: dolphinmainwindow.cpp:1259
+#, kde-format
+msgctxt "@action:inmenu Panels"
+msgid "Lock Panels"
+msgstr "Lås paneler"
+
+#: dolphinmainwindow.cpp:1265
+#, kde-format
+msgctxt "@title:window"
+msgid "Information"
+msgstr "Informasjon"
+
+#: dolphinmainwindow.cpp:1286
+#, kde-format
+msgctxt "@title:window"
+msgid "Folders"
+msgstr "Mapper"
+
+#: dolphinmainwindow.cpp:1310
+#, kde-format
+msgctxt "@title:window Shell terminal"
+msgid "Terminal"
+msgstr "Terminal"
+
+#: dolphinmainwindow.cpp:1343
+#, kde-format
+msgctxt "@title:window"
+msgid "Places"
+msgstr "Steder"
+
+#: dolphinmainwindow.cpp:1375
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Panels"
+msgstr "Paneler"
+
+#: dolphinmainwindow.cpp:1445
+#, kde-format
+msgctxt "@action"
+msgid "Control"
+msgstr "Styring"
+
+#: dolphinmainwindow.cpp:1561
+#, kde-format
+msgctxt "@action:intoolbar Close left view"
+msgid "Close"
+msgstr "Lukk"
+
+#: dolphinmainwindow.cpp:1562
+#, kde-format
+msgctxt "@info"
+msgid "Close left view"
+msgstr "Lukk venstre visning"
+
+#: dolphinmainwindow.cpp:1565
+#, kde-format
+msgctxt "@action:intoolbar Close right view"
+msgid "Close"
+msgstr "Lukk"
+
+#: dolphinmainwindow.cpp:1566
+#, kde-format
+msgctxt "@info"
+msgid "Close right view"
+msgstr "Lukk høyre visning"
+
+#: dolphinmainwindow.cpp:1570
+#, kde-format
+msgctxt "@action:intoolbar Split view"
+msgid "Split"
+msgstr "Del"
+
+#: dolphinmainwindow.cpp:1571
+#, kde-format
+msgctxt "@info"
+msgid "Split view"
+msgstr "Delt visning"
+
+#: dolphinpart.cpp:171
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr "&Rediger filtype …"
+
+#: dolphinpart.cpp:175
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Select Items Matching..."
+msgstr "Velg elementer som passer med …"
+
+#: dolphinpart.cpp:180
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Unselect Items Matching..."
+msgstr "Fravelg elementer som passer med …"
+
+#: dolphinpart.cpp:186
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Unselect All"
+msgstr "Fravelg alt"
+
+#: dolphinpart.cpp:203
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "App&lications"
+msgstr "&Programmer"
+
+#: dolphinpart.cpp:206
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "&Network Folders"
+msgstr "&Nettverksmapper"
+
+#: dolphinpart.cpp:209
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Sett&ings"
+msgstr "&Innstillinger"
+
+#: dolphinpart.cpp:212
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Trash"
+msgstr "Papirkurv"
+
+#: dolphinpart.cpp:215
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Autostart"
+msgstr "Autostart"
+
+#: dolphinpart.cpp:220
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Find File..."
+msgstr "Finn fil …"
+
+#: dolphinpart.cpp:226
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Open &Terminal"
+msgstr "Åpne &terminal"
+
+#: dolphinpart.cpp:296
+#, kde-format
+msgctxt "@title"
+msgid "Dolphin Part"
+msgstr "Dolphin-del"
+
+#: dolphinpart.cpp:490
+#, kde-format
+msgctxt "@title:window"
+msgid "Select"
+msgstr "Velg"
+
+#: dolphinpart.cpp:491
+#, kde-format
+msgid "Select all items matching this pattern:"
+msgstr "Velg alle elementer som passer med dette mønsteret:"
+
+#: dolphinpart.cpp:497
+#, kde-format
+msgctxt "@title:window"
+msgid "Unselect"
+msgstr "Fravelg"
+
+#: dolphinpart.cpp:498
+#, kde-format
+msgid "Unselect all items matching this pattern:"
+msgstr "Fravelg alle elementer som passer med dette mønsteret:"
+
+#. i18n: ectx: Menu (edit)
+#: dolphinpart.rc:4
+#, kde-format
+msgid "&Edit"
+msgstr "&Rediger"
+
+#. i18n: ectx: Menu (selection)
+#: dolphinpart.rc:14
+#, kde-format
+msgctxt "@title:menu"
+msgid "Selection"
+msgstr "Utvalg"
+
+#. i18n: ectx: Menu (view)
+#: dolphinpart.rc:23
+#, kde-format
+msgid "&View"
+msgstr "&Vis"
+
+#. i18n: ectx: Menu (go)
+#: dolphinpart.rc:32
+#, kde-format
+msgid "&Go"
+msgstr "&Gå til"
+
+#. i18n: ectx: Menu (tools)
+#: dolphinpart.rc:40
+#, kde-format
+msgctxt "@title:menu"
+msgid "Tools"
+msgstr "Verktøy"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: dolphinpart.rc:48
+#, kde-format
+msgctxt "@title:menu"
+msgid "Dolphin Toolbar"
+msgstr "Dolphin-verktøylinje"
+
+#: dolphinrecenttabsmenu.cpp:29
+#, kde-format
+msgid "Recently Closed Tabs"
+msgstr "Nylig lukkede faner"
+
+#: dolphinrecenttabsmenu.cpp:34
+#, kde-format
+msgid "Empty Recently Closed Tabs"
+msgstr "Tøm nylig lukkede faner"
+
+#: dolphintabbar.cpp:141
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Tab"
+msgstr "Ny fane"
+
+#: dolphintabbar.cpp:142
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Detach Tab"
+msgstr "Koble fra fane"
+
+#: dolphintabbar.cpp:143
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Other Tabs"
+msgstr "Lukk andre faner"
+
+#: dolphintabbar.cpp:144
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Tab"
+msgstr "Lukk fane"
+
+#. i18n: ectx: Menu (location_bar)
+#: dolphinui.rc:38
+#, kde-format
+msgctxt "@title:menu"
+msgid "Location Bar"
+msgstr "Adresselinje"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: dolphinui.rc:92
+#, kde-format
+msgctxt "@title:menu"
+msgid "Main Toolbar"
+msgstr "Hovedverktøylinje"
+
+#: dolphinviewcontainer.cpp:93
+#, kde-format
+msgctxt "@action:button"
+msgid "Empty Trash"
+msgstr "Tøm papirkurven"
+
+#: dolphinviewcontainer.cpp:115
+#, kde-format
+msgid "Running Dolphin as root can be dangerous. Please be careful."
+msgstr "Det kan være farlig å kjøre Dolphin som rotbruker. Vær forsiktig."
+
+#: dolphinviewcontainer.cpp:392 search/dolphinsearchbox.cpp:311
+#, kde-format
+msgid "Search for %1 in %2"
+msgstr "Søk etter %1 i %2"
+
+#: dolphinviewcontainer.cpp:462
+#, kde-format
+msgctxt "@info:progress"
+msgid "Loading folder..."
+msgstr "Laster inn mappe …"
+
+#: dolphinviewcontainer.cpp:470
+#, kde-format
+msgctxt "@info:progress"
+msgid "Sorting..."
+msgstr "Sorterer …"
+
+#: dolphinviewcontainer.cpp:481
+#, kde-format
+msgctxt "@info"
+msgid "Searching..."
+msgstr "Søker …"
+
+#: dolphinviewcontainer.cpp:501
+#, kde-format
+msgctxt "@info:status"
+msgid "No items found."
+msgstr "Fant ingen elementer."
+
+#: dolphinviewcontainer.cpp:608
+#, kde-format
+msgctxt "@info:status"
+msgid "Dolphin does not support web pages, the web browser has been launched"
+msgstr "Dolphin støtter ikke nettsider, så nettleseren ble startet"
+
+#: dolphinviewcontainer.cpp:622
+#, kde-format
+msgctxt "@info:status"
+msgid "Protocol not supported by Dolphin, Konqueror has been launched"
+msgstr "Protokollen støttes ikke av Dolphin, så Konqueror ble startet"
+
+#: dolphinviewcontainer.cpp:630
+#, kde-format
+msgctxt "@info:status"
+msgid "Invalid protocol"
+msgstr "Ugyldig protokoll"
+
+#: filterbar/filterbar.cpp:39
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Hide Filter Bar"
+msgstr "Skjul filterlinja"
+
+#: filterbar/filterbar.cpp:47
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Keep Filter When Changing Folders"
+msgstr "Behold filter når det byttes mappe"
+
+#: filterbar/filterbar.cpp:51
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Filter:"
+msgstr "Filter:"
+
+#: kitemviews/kfileitemlistwidget.cpp:72
+#, kde-format
+msgctxt "@item:intable"
+msgid "Unknown"
+msgstr "Ukjent"
+
+#: kitemviews/kfileitemlistwidget.cpp:74
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 element"
+msgstr[1] "%1 elementer"
+
+#: kitemviews/kfileitemmodel.cpp:1929
+#, kde-format
+msgctxt "@title:group Groups that start with a digit"
+msgid "0 - 9"
+msgstr "0–9"
+
+#: kitemviews/kfileitemmodel.cpp:1931
+#, kde-format
+msgctxt "@title:group"
+msgid "Others"
+msgstr "Andre"
+
+#: kitemviews/kfileitemmodel.cpp:1962
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Folders"
+msgstr "Mapper"
+
+#: kitemviews/kfileitemmodel.cpp:1964
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Small"
+msgstr "Liten"
+
+#: kitemviews/kfileitemmodel.cpp:1966
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Medium"
+msgstr "Middels"
+
+#: kitemviews/kfileitemmodel.cpp:1968
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Big"
+msgstr "Stor"
+
+#: kitemviews/kfileitemmodel.cpp:2013
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Today"
+msgstr "I dag"
+
+#: kitemviews/kfileitemmodel.cpp:2014
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Yesterday"
+msgstr "I går"
+
+#: kitemviews/kfileitemmodel.cpp:2017
+#, kde-format
+msgctxt "@title:group Date: The week day name: dddd"
+msgid "dddd"
+msgstr "dddd"
+
+#: kitemviews/kfileitemmodel.cpp:2019
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"dddd\"with context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2023
+#, kde-format
+msgctxt "@title:group Date"
+msgid "One Week Ago"
+msgstr "Én uke siden"
+
+#: kitemviews/kfileitemmodel.cpp:2026
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Two Weeks Ago"
+msgstr "To uker siden"
+
+#: kitemviews/kfileitemmodel.cpp:2029
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Three Weeks Ago"
+msgstr "Tre uker siden"
+
+#: kitemviews/kfileitemmodel.cpp:2033
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Earlier this Month"
+msgstr "Tidligere denne måneden"
+
+#: kitemviews/kfileitemmodel.cpp:2046
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Yesterday' (MMMM, yyyy)"
+msgstr "'I går' (MMMM yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2049
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Yesterday' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2054
+#, kde-format
+msgctxt ""
+"@title:group Date: The week day name: dddd, MMMM is full month name in "
+"current locale, and yyyy is full year number"
+msgid "dddd (MMMM, yyyy)"
+msgstr "dddd (MMMM yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2057
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"dddd (MMMM, yyyy)\" with context "
+"@title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2061
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'One Week Ago' (MMMM, yyyy)"
+msgstr "'Én uke siden' (MMMM yyyy))"
+
+#: kitemviews/kfileitemmodel.cpp:2064
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'One Week Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2068
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Two Weeks Ago' (MMMM, yyyy)"
+msgstr "'To uker siden' (MMMM yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2071
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Two Weeks Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2075
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Three Weeks Ago' (MMMM, yyyy)"
+msgstr "'Tre uker siden' (MMMM yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2078
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Three Weeks Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2082
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Earlier on' MMMM, yyyy"
+msgstr "'Tidligere i' MMMM yyyy"
+
+#: kitemviews/kfileitemmodel.cpp:2085
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Earlier on' MMMM, yyyy\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2090
+#, kde-format
+msgctxt ""
+"@title:group The month and year: MMMM is full month name in current locale, "
+"and yyyy is full year number"
+msgid "MMMM, yyyy"
+msgstr "MMMM yyyy"
+
+#: kitemviews/kfileitemmodel.cpp:2093
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"MMMM, yyyy\" with context @title:"
+"group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2132 kitemviews/kfileitemmodel.cpp:2145
+#: kitemviews/kfileitemmodel.cpp:2158
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Read, "
+msgstr "Lese, "
+
+#: kitemviews/kfileitemmodel.cpp:2135 kitemviews/kfileitemmodel.cpp:2148
+#: kitemviews/kfileitemmodel.cpp:2161
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Write, "
+msgstr "Skrive, "
+
+#: kitemviews/kfileitemmodel.cpp:2138 kitemviews/kfileitemmodel.cpp:2151
+#: kitemviews/kfileitemmodel.cpp:2164
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Execute, "
+msgstr "Kjøre, "
+
+#: kitemviews/kfileitemmodel.cpp:2140 kitemviews/kfileitemmodel.cpp:2153
+#: kitemviews/kfileitemmodel.cpp:2166
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Forbidden"
+msgstr "Forbudt"
+
+#: kitemviews/kfileitemmodel.cpp:2168
+#, kde-format
+msgctxt "@title:group Files and folders by permissions"
+msgid "User: %1 | Group: %2 | Others: %3"
+msgstr "Bruker: %1 | Gruppe: %2 | Andre: %3"
+
+#: kitemviews/kfileitemmodel.cpp:2257
+#, kde-format
+msgctxt "@label"
+msgid "Name"
+msgstr "Navn"
+
+#: kitemviews/kfileitemmodel.cpp:2258
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "Størrelse"
+
+#: kitemviews/kfileitemmodel.cpp:2259
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr "Endret"
+
+#: kitemviews/kfileitemmodel.cpp:2260
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr "Opprettet"
+
+#: kitemviews/kfileitemmodel.cpp:2261
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr "Brukt"
+
+#: kitemviews/kfileitemmodel.cpp:2262
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "Type"
+
+#: kitemviews/kfileitemmodel.cpp:2263
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "Karakter"
+
+#: kitemviews/kfileitemmodel.cpp:2264
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "Merkelapper"
+
+#: kitemviews/kfileitemmodel.cpp:2265
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "Kommentar"
+
+#: kitemviews/kfileitemmodel.cpp:2266
+#, kde-format
+msgctxt "@label"
+msgid "Title"
+msgstr "Tittel"
+
+#: kitemviews/kfileitemmodel.cpp:2266 kitemviews/kfileitemmodel.cpp:2267
+#: kitemviews/kfileitemmodel.cpp:2268
+#, kde-format
+msgctxt "@label"
+msgid "Document"
+msgstr "Dokument"
+
+#: kitemviews/kfileitemmodel.cpp:2267
+#, kde-format
+msgctxt "@label"
+msgid "Word Count"
+msgstr "Antall ord"
+
+#: kitemviews/kfileitemmodel.cpp:2268
+#, kde-format
+msgctxt "@label"
+msgid "Line Count"
+msgstr "Antall linjer"
+
+#: kitemviews/kfileitemmodel.cpp:2269
+#, kde-format
+msgctxt "@label"
+msgid "Date Photographed"
+msgstr "Foto tatt"
+
+#: kitemviews/kfileitemmodel.cpp:2269 kitemviews/kfileitemmodel.cpp:2270
+#: kitemviews/kfileitemmodel.cpp:2271 kitemviews/kfileitemmodel.cpp:2272
+#, kde-format
+msgctxt "@label"
+msgid "Image"
+msgstr "Bilde"
+
+#: kitemviews/kfileitemmodel.cpp:2270
+#, kde-format
+msgctxt "@label"
+msgid "Width"
+msgstr "Bredde"
+
+#: kitemviews/kfileitemmodel.cpp:2271
+#, kde-format
+msgctxt "@label"
+msgid "Height"
+msgstr "Høyde"
+
+#: kitemviews/kfileitemmodel.cpp:2272
+#, kde-format
+msgctxt "@label"
+msgid "Orientation"
+msgstr "Retning"
+
+#: kitemviews/kfileitemmodel.cpp:2273
+#, kde-format
+msgctxt "@label"
+msgid "Artist"
+msgstr "Artist"
+
+#: kitemviews/kfileitemmodel.cpp:2273 kitemviews/kfileitemmodel.cpp:2274
+#: kitemviews/kfileitemmodel.cpp:2275 kitemviews/kfileitemmodel.cpp:2276
+#: kitemviews/kfileitemmodel.cpp:2277 kitemviews/kfileitemmodel.cpp:2278
+#: kitemviews/kfileitemmodel.cpp:2279
+#, kde-format
+msgctxt "@label"
+msgid "Audio"
+msgstr "Lyd"
+
+#: kitemviews/kfileitemmodel.cpp:2274
+#, kde-format
+msgctxt "@label"
+msgid "Genre"
+msgstr "Sjanger"
+
+#: kitemviews/kfileitemmodel.cpp:2275
+#, kde-format
+msgctxt "@label"
+msgid "Album"
+msgstr "Album"
+
+#: kitemviews/kfileitemmodel.cpp:2276
+#, kde-format
+msgctxt "@label"
+msgid "Duration"
+msgstr "Varighet"
+
+#: kitemviews/kfileitemmodel.cpp:2277
+#, kde-format
+msgctxt "@label"
+msgid "Bitrate"
+msgstr "Bitrate"
+
+#: kitemviews/kfileitemmodel.cpp:2278
+#, kde-format
+msgctxt "@label"
+msgid "Track"
+msgstr "Spor"
+
+#: kitemviews/kfileitemmodel.cpp:2279
+#, kde-format
+msgctxt "@label"
+msgid "Release Year"
+msgstr "Utgivelsesår"
+
+#: kitemviews/kfileitemmodel.cpp:2280
+#, kde-format
+msgctxt "@label"
+msgid "Path"
+msgstr "Sti"
+
+#: kitemviews/kfileitemmodel.cpp:2280 kitemviews/kfileitemmodel.cpp:2281
+#: kitemviews/kfileitemmodel.cpp:2282 kitemviews/kfileitemmodel.cpp:2283
+#: kitemviews/kfileitemmodel.cpp:2284 kitemviews/kfileitemmodel.cpp:2285
+#: kitemviews/kfileitemmodel.cpp:2286
+#, kde-format
+msgctxt "@label"
+msgid "Other"
+msgstr "Andre"
+
+#: kitemviews/kfileitemmodel.cpp:2281
+#, kde-format
+msgctxt "@label"
+msgid "Deletion Time"
+msgstr "Slettetidspunkt"
+
+#: kitemviews/kfileitemmodel.cpp:2282
+#, kde-format
+msgctxt "@label"
+msgid "Link Destination"
+msgstr "Lenkemål"
+
+#: kitemviews/kfileitemmodel.cpp:2283
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "Nedlastet fra"
+
+#: kitemviews/kfileitemmodel.cpp:2284
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "Rettigheter"
+
+#: kitemviews/kfileitemmodel.cpp:2285
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "Eier"
+
+#: kitemviews/kfileitemmodel.cpp:2286
+#, kde-format
+msgctxt "@label"
+msgid "User Group"
+msgstr "Brukergruppe"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:162
+#, kde-format
+msgctxt "@item:intable Image orientation"
+msgid "Unchanged"
+msgstr "Uendret"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:163
+#, kde-format
+msgctxt "@item:intable Image orientation"
+msgid "Horizontally flipped"
+msgstr "Snudd vannrett"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:164
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "180° rotated"
+msgstr "Rotert 180° "
+
+#: kitemviews/private/kbaloorolesprovider.cpp:165
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Vertically flipped"
+msgstr "Snudd loddrett"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:166
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Transposed"
+msgstr "Transponert"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:167
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "90° rotated"
+msgstr "Rotert 90°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:168
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Transversed"
+msgstr "Snudd"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:169
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "270° rotated"
+msgstr "Rotert 270°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:187
+#, kde-format
+msgctxt "@label bitrate (per second)"
+msgid "%1/s"
+msgstr "%1/s"
+
+#: kitemviews/private/kfileitemmodeldirlister.cpp:42
+#, kde-format
+msgctxt "@info:status"
+msgid "Unknown error."
+msgstr "Ukjent feil."
+
+#: main.cpp:71
+#, kde-format
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: main.cpp:72
+#, kde-format
+msgctxt "@title"
+msgid "File Manager"
+msgstr "Filbehandler"
+
+#: main.cpp:74
+#, kde-format
+msgctxt "@info:credit"
+msgid "(C) 2006-2016 Peter Penz, Frank Reininghaus, and Emmanuel Pescosta"
+msgstr "© 2006–2016 Peter Penz, Frank Reininghaus og Emmanuel Pescosta"
+
+#: main.cpp:76
+#, kde-format
+msgctxt "@info:credit"
+msgid "Emmanuel Pescosta"
+msgstr "Emmanuel Pescosta"
+
+#: main.cpp:77
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer (since 2014) and developer"
+msgstr "Vedlikeholder (siden 2014) og utvikler"
+
+#: main.cpp:79
+#, kde-format
+msgctxt "@info:credit"
+msgid "Frank Reininghaus"
+msgstr "Frank Reininghaus"
+
+#: main.cpp:80
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer (2012-2014) and developer"
+msgstr "Vedlikeholder (2012-2014) og utvikler"
+
+#: main.cpp:82
+#, kde-format
+msgctxt "@info:credit"
+msgid "Peter Penz"
+msgstr "Peter Penz"
+
+#: main.cpp:83
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer and developer (2006-2012)"
+msgstr "Utvikler og vedlikeholder (2006-2012)"
+
+#: main.cpp:85
+#, kde-format
+msgctxt "@info:credit"
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: main.cpp:86 main.cpp:89 main.cpp:92 main.cpp:95 main.cpp:98 main.cpp:101
+#: main.cpp:104
+#, kde-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr "Utvikler"
+
+#: main.cpp:88
+#, kde-format
+msgctxt "@info:credit"
+msgid "David Faure"
+msgstr "David Faure"
+
+#: main.cpp:91
+#, kde-format
+msgctxt "@info:credit"
+msgid "Aaron J. Seigo"
+msgstr "Aaron J. Seigo"
+
+#: main.cpp:94
+#, kde-format
+msgctxt "@info:credit"
+msgid "Rafael Fernández López"
+msgstr "Rafael Fernández López"
+
+#: main.cpp:97
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kevin Ottens"
+msgstr "Kevin Ottens"
+
+#: main.cpp:100
+#, kde-format
+msgctxt "@info:credit"
+msgid "Holger Freyther"
+msgstr "Holger Freyther"
+
+#: main.cpp:103
+#, kde-format
+msgctxt "@info:credit"
+msgid "Max Blazejak"
+msgstr "Max Blazejak"
+
+#: main.cpp:106
+#, kde-format
+msgctxt "@info:credit"
+msgid "Michael Austin"
+msgstr "Michael Austin"
+
+#: main.cpp:107
+#, kde-format
+msgctxt "@info:credit"
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+#: main.cpp:119
+#, kde-format
+msgctxt "@info:shell"
+msgid "The files and folders passed as arguments will be selected."
+msgstr "Filene og mappene som er sendt som argumenter blir markerte."
+
+#: main.cpp:121
+#, kde-format
+msgctxt "@info:shell"
+msgid "Dolphin will get started with a split view."
+msgstr "Dolphin vil starte med delt visning."
+
+#: main.cpp:122
+#, kde-format
+msgctxt "@info:shell"
+msgid "Start Dolphin Daemon (only required for DBus Interface)"
+msgstr "Start Dolphin-teneste (bare nødvendig for DBus-grensesnittet)"
+
+#: main.cpp:123
+#, kde-format
+msgctxt "@info:shell"
+msgid "Document to open"
+msgstr "Dokument som skal åpnes"
+
+#. i18n: ectx: label, entry (HiddenFilesShown), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:10
+#, kde-format
+msgid "Hidden files shown"
+msgstr "Skjulte filer vises"
+
+#. i18n: ectx: label, entry (LimitFoldersPanelToHome), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:14
+#, kde-format
+msgid "Limit folders panel to home directory if inside home"
+msgstr "Avgrens mapperuta til hjemmemappa når du er i hjemmemappa"
+
+#. i18n: ectx: label, entry (AutoScrolling), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:18
+#, kde-format
+msgid "Automatic scrolling"
+msgstr "Automatisk rulling"
+
+#: panels/folders/treeviewcontextmenu.cpp:66
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Cut"
+msgstr "Klipp ut"
+
+#: panels/folders/treeviewcontextmenu.cpp:70
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy"
+msgstr "Kopier"
+
+#: panels/folders/treeviewcontextmenu.cpp:86
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rename..."
+msgstr "Endre navn …"
+
+#: panels/folders/treeviewcontextmenu.cpp:100
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Move to Trash"
+msgstr "Flytt til papirkurven"
+
+#: panels/folders/treeviewcontextmenu.cpp:110
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "Slett"
+
+#: panels/folders/treeviewcontextmenu.cpp:120
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Hidden Files"
+msgstr "Vis skjulte filer"
+
+#: panels/folders/treeviewcontextmenu.cpp:129
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Limit to Home Directory"
+msgstr "Avgrens til hjemmemappa"
+
+#: panels/folders/treeviewcontextmenu.cpp:137
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatic Scrolling"
+msgstr "Automatisk rulling"
+
+#: panels/folders/treeviewcontextmenu.cpp:147
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "Egenskaper"
+
+#. i18n: ectx: label, entry (previewsShown), group (InformationPanel)
+#: panels/information/dolphin_informationpanelsettings.kcfg:10
+#, kde-format
+msgid "Previews shown"
+msgstr "Forhåndsvisninger vises"
+
+#. i18n: ectx: label, entry (dateFormat), group (InformationPanel)
+#: panels/information/dolphin_informationpanelsettings.kcfg:14
+#, kde-format
+msgid "Date display format"
+msgstr "Datoformat"
+
+#: panels/information/filemetadataconfigurationdialog.cpp:43
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Shown Data"
+msgstr "Sett opp viste data"
+
+#: panels/information/filemetadataconfigurationdialog.cpp:55
+#, kde-format
+msgctxt "@label::textbox"
+msgid "Select which data should be shown:"
+msgstr "Velg hvilke data som skal vises:"
+
+#: panels/information/informationpanelcontent.cpp:235
+#, kde-format
+msgctxt "@label"
+msgid "%1 item selected"
+msgid_plural "%1 items selected"
+msgstr[0] "%1 element valgt"
+msgstr[1] "%1 elementer valgt"
+
+#: panels/information/informationpanelcontent.cpp:280
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: panels/information/informationpanelcontent.cpp:285
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Configure..."
+msgstr "Sett opp …"
+
+#: panels/information/informationpanelcontent.cpp:289
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Condensed Date"
+msgstr "Kort dato"
+
+#: panels/information/informationpanelcontent.cpp:313
+#, kde-format
+msgctxt "@label::textbox"
+msgid "Select which data should be shown in the information panel:"
+msgstr "Velg hvilke data som skal vises i informasjonsruten:"
+
+#: panels/information/phononwidget.cpp:126
+#, kde-format
+msgid "play"
+msgstr "spill"
+
+#: panels/information/phononwidget.cpp:132
+#, kde-format
+msgid "stop"
+msgstr "stopp"
+
+#. i18n: ectx: label, entry (IconSize), group (PlacesPanel)
+#: panels/places/dolphin_placespanelsettings.kcfg:10
+#, kde-format
+msgid ""
+"Size of icons in the Places Panel (-1 means \"use the style's small size\")"
+msgstr ""
+"Størrelse for ikoner i Steder-panelet («-1» betyr «bruk stilens lille "
+"størrelse»)"
+
+#: panels/places/placesitemeditdialog.cpp:136
+#, kde-format
+msgctxt "@label"
+msgid "Label:"
+msgstr "Etikett:"
+
+#: panels/places/placesitemeditdialog.cpp:138
+#, kde-format
+msgid "Enter descriptive label here"
+msgstr "Skriv inn et beskrivende navn her"
+
+#: panels/places/placesitemeditdialog.cpp:142
+#, kde-format
+msgctxt "@label"
+msgid "Location:"
+msgstr "Plassering:"
+
+#: panels/places/placesitemeditdialog.cpp:149
+#, kde-format
+msgctxt "@label"
+msgid "Choose an icon:"
+msgstr "Velg et ikon:"
+
+#: panels/places/placesitemeditdialog.cpp:162
+#, kde-format
+msgid "&Only show when using this application (%1)"
+msgstr "&Vis bare når dette programmet brukes (%1)"
+
+#: panels/places/placesitemmodel.cpp:212
+#, kde-format
+msgctxt "@item"
+msgid "Eject"
+msgstr "Løs ut"
+
+#: panels/places/placesitemmodel.cpp:247
+#, kde-format
+msgctxt "@item"
+msgid "Release"
+msgstr "Løs ut"
+
+#: panels/places/placesitemmodel.cpp:249
+#, kde-format
+msgctxt "@item"
+msgid "Safely Remove"
+msgstr "Fjern trygt"
+
+#: panels/places/placesitemmodel.cpp:252
+#, kde-format
+msgctxt "@item"
+msgid "Unmount"
+msgstr "Avmonter"
+
+#: panels/places/placesitemmodel.cpp:274
+#, kde-format
+msgctxt "@info"
+msgid "The device '%1' is not a disk and cannot be ejected."
+msgstr "Enheten «%1» er ikke en plate og kan ikke løses ut."
+
+#: panels/places/placesitemmodel.cpp:505
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while accessing '%1', the system responded: %2"
+msgstr "En feil oppsto under forsøk på tilgang til «%1». Systemet sa: %2"
+
+#: panels/places/placesitemmodel.cpp:509
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while accessing '%1'"
+msgstr "En feil oppsto under forsøk på tilgang til «%1»"
+
+#: panels/places/placespanel.cpp:204
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Open in New Window"
+msgstr "Åpne i nytt vindu"
+
+#: panels/places/placespanel.cpp:205
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Open in New Tab"
+msgstr "Åpne i ny fane"
+
+#: panels/places/placespanel.cpp:211
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Edit..."
+msgstr "Rediger …"
+
+#: panels/places/placespanel.cpp:216
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Remove"
+msgstr "Fjern"
+
+#: panels/places/placespanel.cpp:219
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Hide"
+msgstr "Skjul"
+
+#: panels/places/placespanel.cpp:266
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Add Entry..."
+msgstr "Legg til oppføring …"
+
+#: panels/places/placespanel.cpp:270
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Show All Entries"
+msgstr "Vis alle oppføringer"
+
+#: panels/places/placespanel.cpp:277
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Icon Size"
+msgstr "Ikonstørrelse"
+
+#: panels/places/placespanel.cpp:288
+#, kde-format
+msgctxt "Small icon size"
+msgid "Small (%1x%2)"
+msgstr "Små (%1x%2)"
+
+#: panels/places/placespanel.cpp:289
+#, kde-format
+msgctxt "Medium icon size"
+msgid "Medium (%1x%2)"
+msgstr "Middels (%1x%2)"
+
+#: panels/places/placespanel.cpp:290
+#, kde-format
+msgctxt "Large icon size"
+msgid "Large (%1x%2)"
+msgstr "Store (%1x%2)"
+
+#: panels/places/placespanel.cpp:291
+#, kde-format
+msgctxt "Huge icon size"
+msgid "Huge (%1x%2)"
+msgstr "Enorme (%1x%2)"
+
+#: panels/places/placespanel.cpp:337
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Hide Section '%1'"
+msgstr "Skjul inndelinga «%1»"
+
+#: panels/places/placespanel.cpp:452
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Places Entry"
+msgstr "Legg til Steder-oppføring"
+
+#: panels/places/placespanel.cpp:467
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Places Entry"
+msgstr "Rediger Steder-oppføring"
+
+#: panels/terminal/terminalpanel.cpp:149
+#, kde-format
+msgid ""
+"Terminal cannot be shown because Konsole is not installed. Please install it "
+"and then reopen the panel."
+msgstr ""
+"Kan ikke vise terminalen fordi programmet Konsole ikke er installert. "
+"Installer programmet og åpne panelet på nytt."
+
+#: panels/terminal/terminalpanel.cpp:155
+#, kde-format
+msgid "Install Konsole"
+msgstr "Installer Konsole"
+
+#. i18n: ectx: label, entry (Location), group (Search)
+#: search/dolphin_searchsettings.kcfg:10
+#, kde-format
+msgid "Location"
+msgstr "Sted"
+
+#. i18n: ectx: label, entry (What), group (Search)
+#: search/dolphin_searchsettings.kcfg:14
+#, kde-format
+msgid "What"
+msgstr "Hva"
+
+#. i18n: ectx: label, entry (ShowFacetsWidget), group (Search)
+#: search/dolphin_searchsettings.kcfg:18
+#, kde-format
+msgid "Show facets widget"
+msgstr "Vis fasetter-element"
+
+#: search/dolphinfacetswidget.cpp:51
+#, kde-format
+msgctxt "@option:check"
+msgid "Any"
+msgstr "Alle"
+
+#: search/dolphinfacetswidget.cpp:52
+#, kde-format
+msgctxt "@option:check"
+msgid "Folders"
+msgstr "Mapper"
+
+#: search/dolphinfacetswidget.cpp:53
+#, kde-format
+msgctxt "@option:check"
+msgid "Documents"
+msgstr "Dokumenter"
+
+#: search/dolphinfacetswidget.cpp:54
+#, kde-format
+msgctxt "@option:check"
+msgid "Images"
+msgstr "Bilder"
+
+#: search/dolphinfacetswidget.cpp:55
+#, kde-format
+msgctxt "@option:check"
+msgid "Audio Files"
+msgstr "Lydfiler"
+
+#: search/dolphinfacetswidget.cpp:56
+#, kde-format
+msgctxt "@option:check"
+msgid "Videos"
+msgstr "Videoer"
+
+#: search/dolphinfacetswidget.cpp:69
+#, kde-format
+msgctxt "@option:option"
+msgid "Anytime"
+msgstr "Når som helst"
+
+#: search/dolphinfacetswidget.cpp:70
+#, kde-format
+msgctxt "@option:option"
+msgid "Today"
+msgstr "I dag"
+
+#: search/dolphinfacetswidget.cpp:71
+#, kde-format
+msgctxt "@option:option"
+msgid "Yesterday"
+msgstr "I går"
+
+#: search/dolphinfacetswidget.cpp:72
+#, kde-format
+msgctxt "@option:option"
+msgid "This Week"
+msgstr "Denne uken"
+
+#: search/dolphinfacetswidget.cpp:73
+#, kde-format
+msgctxt "@option:option"
+msgid "This Month"
+msgstr "Denne måneden"
+
+#: search/dolphinfacetswidget.cpp:74
+#, kde-format
+msgctxt "@option:option"
+msgid "This Year"
+msgstr "I år"
+
+#: search/dolphinfacetswidget.cpp:87
+#, kde-format
+msgctxt "@option:option"
+msgid "Any Rating"
+msgstr "Vilkårlig karakter"
+
+#: search/dolphinfacetswidget.cpp:88
+#, kde-format
+msgctxt "@option:option"
+msgid "1 or more"
+msgstr "1 eller høyere"
+
+#: search/dolphinfacetswidget.cpp:89
+#, kde-format
+msgctxt "@option:option"
+msgid "2 or more"
+msgstr "2 eller høyere"
+
+#: search/dolphinfacetswidget.cpp:90
+#, kde-format
+msgctxt "@option:option"
+msgid "3 or more"
+msgstr "3 eller høyere"
+
+#: search/dolphinfacetswidget.cpp:91
+#, kde-format
+msgctxt "@option:option"
+msgid "4 or more"
+msgstr "4 eller høyere"
+
+#: search/dolphinfacetswidget.cpp:92
+#, kde-format
+msgctxt "@option:option"
+msgid "Highest Rating"
+msgstr "Høyeste karakter"
+
+#: search/dolphinsearchbox.cpp:100
+#, kde-format
+msgctxt "action:button"
+msgid "From Here (%1)"
+msgstr "Herfra (%1)"
+
+#: search/dolphinsearchbox.cpp:358
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Quit searching"
+msgstr "Avslutt søking"
+
+#: search/dolphinsearchbox.cpp:378
+#, kde-format
+msgctxt "action:button"
+msgid "Save this search to quickly access it again in the future"
+msgstr "Lagre dette søket for rask tilgang i framtiden"
+
+#: search/dolphinsearchbox.cpp:392
+#, kde-format
+msgctxt "action:button"
+msgid "Filename"
+msgstr "Filnavn"
+
+#: search/dolphinsearchbox.cpp:396
+#, kde-format
+msgctxt "action:button"
+msgid "Content"
+msgstr "Innhold"
+
+#: search/dolphinsearchbox.cpp:407
+#, kde-format
+msgctxt "action:button"
+msgid "From Here"
+msgstr "Herfra"
+
+#: search/dolphinsearchbox.cpp:411
+#, kde-format
+msgctxt "action:button"
+msgid "Everywhere"
+msgstr "Overalt"
+
+#: search/dolphinsearchbox.cpp:423
+#, kde-format
+msgid "More Search Tools"
+msgstr "Flere søkeverktøy"
+
+#: search/dolphinsearchbox.cpp:515
+#, kde-format
+msgctxt ""
+"@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
+"user entered."
+msgid "Query Results from '%1'"
+msgstr "Spørreresultater fra «%1»"
+
+#: search/dolphinsearchbox.cpp:566
+#, kde-format
+msgctxt "action:button"
+msgid "Fewer Options"
+msgstr "Færre valg"
+
+#: search/dolphinsearchbox.cpp:566
+#, kde-format
+msgctxt "action:button"
+msgid "More Options"
+msgstr "Flere alternativer"
+
+#. i18n: ectx: label, entry (UseSystemFont), group (CompactMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (DetailsMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:12
+#: settings/dolphin_detailsmodesettings.kcfg:16
+#: settings/dolphin_iconsmodesettings.kcfg:12
+#, kde-format
+msgid "Use system font"
+msgstr "Bruk systemskrift"
+
+#. i18n: ectx: label, entry (FontFamily), group (CompactMode)
+#. i18n: ectx: label, entry (FontFamily), group (DetailsMode)
+#. i18n: ectx: label, entry (FontFamily), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:16
+#: settings/dolphin_detailsmodesettings.kcfg:12
+#: settings/dolphin_iconsmodesettings.kcfg:16
+#, kde-format
+msgid "Font family"
+msgstr "Skriftfamilie"
+
+#. i18n: ectx: label, entry (FontSize), group (CompactMode)
+#. i18n: ectx: label, entry (FontSize), group (DetailsMode)
+#. i18n: ectx: label, entry (FontSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:20
+#: settings/dolphin_detailsmodesettings.kcfg:20
+#: settings/dolphin_iconsmodesettings.kcfg:20
+#, kde-format
+msgid "Font size"
+msgstr "Skriftstørrelse"
+
+#. i18n: ectx: label, entry (ItalicFont), group (CompactMode)
+#. i18n: ectx: label, entry (ItalicFont), group (DetailsMode)
+#. i18n: ectx: label, entry (ItalicFont), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:24
+#: settings/dolphin_detailsmodesettings.kcfg:24
+#: settings/dolphin_iconsmodesettings.kcfg:24
+#, kde-format
+msgid "Italic"
+msgstr "Kursiv"
+
+#. i18n: ectx: label, entry (FontWeight), group (CompactMode)
+#. i18n: ectx: label, entry (FontWeight), group (DetailsMode)
+#. i18n: ectx: label, entry (FontWeight), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:28
+#: settings/dolphin_detailsmodesettings.kcfg:28
+#: settings/dolphin_iconsmodesettings.kcfg:28
+#, kde-format
+msgid "Font weight"
+msgstr "Skriftbredde"
+
+#. i18n: ectx: label, entry (IconSize), group (CompactMode)
+#. i18n: ectx: label, entry (IconSize), group (DetailsMode)
+#. i18n: ectx: label, entry (IconSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:32
+#: settings/dolphin_detailsmodesettings.kcfg:32
+#: settings/dolphin_iconsmodesettings.kcfg:32
+#, kde-format
+msgid "Icon size"
+msgstr "Ikonstørrelse"
+
+#. i18n: ectx: label, entry (PreviewSize), group (CompactMode)
+#. i18n: ectx: label, entry (PreviewSize), group (DetailsMode)
+#. i18n: ectx: label, entry (PreviewSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:36
+#: settings/dolphin_detailsmodesettings.kcfg:36
+#: settings/dolphin_iconsmodesettings.kcfg:36
+#, kde-format
+msgid "Preview size"
+msgstr "Forhåndsvisningens størrelse"
+
+#. i18n: ectx: label, entry (MaximumTextWidthIndex), group (CompactMode)
+#: settings/dolphin_compactmodesettings.kcfg:40
+#, kde-format
+msgid "Maximum text width index (0 means unlimited)"
+msgstr "Høyeste tekstbreddeindeks (0 = ingen grense)"
+
+#. i18n: ectx: label, entry (ColumnPositions), group (DetailsMode)
+#: settings/dolphin_detailsmodesettings.kcfg:40
+#, kde-format
+msgid "Position of columns"
+msgstr "Plassering av kolonner"
+
+#. i18n: ectx: label, entry (ExpandableFolders), group (DetailsMode)
+#: settings/dolphin_detailsmodesettings.kcfg:44
+#, kde-format
+msgid "Expandable folders"
+msgstr "Utfoldbare mapper"
+
+#. i18n: ectx: label, entry (HiddenFilesShown), group (Settings)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:11
+#, kde-format
+msgctxt "@label"
+msgid "Hidden files shown"
+msgstr "Skjulte filer vises"
+
+#. i18n: ectx: whatsthis, entry (HiddenFilesShown), group (Settings)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:12
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled hidden files, such as those starting with a '.', "
+"will be shown in the file view."
+msgstr ""
+"Når dette alternativet er valgt, vises skjulte filer (slike som begynner med "
+"et punktum) i filvisningen."
+
+#. i18n: ectx: label, entry (Version), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:19
+#, kde-format
+msgctxt "@label"
+msgid "Version"
+msgstr "Versjon"
+
+#. i18n: ectx: whatsthis, entry (Version), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:20
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "This option defines the used version of the view properties."
+msgstr "Dette valget definerer brukt versjon av visningsegenskapene."
+
+#. i18n: ectx: label, entry (ViewMode), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:25
+#, kde-format
+msgctxt "@label"
+msgid "View Mode"
+msgstr "Visningsmodus"
+
+#. i18n: ectx: whatsthis, entry (ViewMode), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:26
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This option controls the style of the view. Currently supported values "
+"include icons (0), details (1) and column (2) views."
+msgstr ""
+"Dette valget styrer hvilken stil visningen skal ha. Verdiene som støttes er "
+"ikonvisning (0), detaljvisning (1) og kolonnevisning (2)."
+
+#. i18n: ectx: label, entry (PreviewsShown), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:31
+#, kde-format
+msgctxt "@label"
+msgid "Previews shown"
+msgstr "Forhåndsvisninger vises"
+
+#. i18n: ectx: whatsthis, entry (PreviewsShown), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:32
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled, a preview of the file content is shown as an "
+"icon."
+msgstr ""
+"Når dette alternativet er valgt, blir forhåndsvisningen av filinnholdet vist "
+"som et ikon."
+
+#. i18n: ectx: label, entry (GroupedSorting), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:37
+#, kde-format
+msgctxt "@label"
+msgid "Grouped Sorting"
+msgstr "Gruppert sortering"
+
+#. i18n: ectx: whatsthis, entry (GroupedSorting), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:38
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled, the sorted items are categorized into groups."
+msgstr ""
+"Når dette alternativet er valgt, kategoriseres de sorterte elementene i "
+"grupper."
+
+#. i18n: ectx: label, entry (SortRole), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:43
+#, kde-format
+msgctxt "@label"
+msgid "Sort files by"
+msgstr "Sorter filer etter"
+
+#. i18n: ectx: whatsthis, entry (SortRole), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:44
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This option defines which attribute (text, size, date, etc.) sorting is "
+"performed on."
+msgstr ""
+"Dette alternativet sier hvilke kjennetegn (tekst, størrelse, dato, osv.) det "
+"skal sorteres på."
+
+#. i18n: ectx: label, entry (SortOrder), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:49
+#, kde-format
+msgctxt "@label"
+msgid "Order in which to sort files"
+msgstr "Rekkefølgen filene skal sorteres i"
+
+#. i18n: ectx: label, entry (SortFoldersFirst), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:56
+#, kde-format
+msgctxt "@label"
+msgid "Show folders first when sorting files and folders"
+msgstr "Vis mapper først når filer og mapper sorteres"
+
+#. i18n: ectx: label, entry (VisibleRoles), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:61
+#, kde-format
+msgctxt "@label"
+msgid "Visible roles"
+msgstr "Synlige roller"
+
+#. i18n: ectx: label, entry (HeaderColumnWidths), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:66
+#, kde-format
+msgctxt "@label"
+msgid "Header column widths"
+msgstr "Kolonnebredde for overskrifter"
+
+#. i18n: ectx: label, entry (Timestamp), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:71
+#, kde-format
+msgctxt "@label"
+msgid "Properties last changed"
+msgstr "De sist endrede egenskapene"
+
+#. i18n: ectx: whatsthis, entry (Timestamp), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:72
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "The last time these properties were changed by the user."
+msgstr "Forrige gang brukeren endret disse egenskapene."
+
+#. i18n: ectx: label, entry (AdditionalInfo), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:77
+#, kde-format
+msgctxt "@label"
+msgid "Additional Information"
+msgstr "Tilleggsinformasjon"
+
+#. i18n: ectx: label, entry (EditableUrl), group (General)
+#: settings/dolphin_generalsettings.kcfg:14
+#, kde-format
+msgid "Should the URL be editable for the user"
+msgstr "Skal brukeren kunne redigere adressen"
+
+#. i18n: ectx: label, entry (UrlCompletionMode), group (General)
+#: settings/dolphin_generalsettings.kcfg:18
+#, kde-format
+msgid "Text completion mode of the URL Navigator"
+msgstr "Tekstfullføringsmodus for adressenavigering"
+
+#. i18n: ectx: label, entry (ShowFullPath), group (General)
+#: settings/dolphin_generalsettings.kcfg:22
+#, kde-format
+msgid "Should the full path be shown inside the location bar"
+msgstr "Skal hele stien vises i adresselinja"
+
+#. i18n: ectx: label, entry (ShowFullPathInTitlebar), group (General)
+#: settings/dolphin_generalsettings.kcfg:26
+#, kde-format
+msgid "Should the full path be shown in the title bar"
+msgstr "Skal hele stien vises i tittellinja"
+
+#. i18n: ectx: label, entry (Version), group (General)
+#: settings/dolphin_generalsettings.kcfg:30
+#, kde-format
+msgid ""
+"Internal version of Dolphin, containing 3 digits for major, minor, bugfix"
+msgstr ""
+"Internt versjonsnummer for Dolphin, med tre sifre for hoved- og delversjon, "
+"samt feilfiks"
+
+#. i18n: ectx: label, entry (ModifiedStartupSettings), group (General)
+#: settings/dolphin_generalsettings.kcfg:34
+#, kde-format
+msgid ""
+"Have the startup settings been modified (internal setting not shown in the "
+"UI)"
+msgstr ""
+"Er oppstartsinnstillingene endret (intern innstilling, ikke vist i "
+"brukerflaten)"
+
+#. i18n: ectx: label, entry (HomeUrl), group (General)
+#: settings/dolphin_generalsettings.kcfg:38
+#, kde-format
+msgid "Home URL"
+msgstr "Hjemmeadresse"
+
+#. i18n: ectx: label, entry (SplitView), group (General)
+#: settings/dolphin_generalsettings.kcfg:42
+#, kde-format
+msgid "Split the view into two panes"
+msgstr "Del visningen i to felt"
+
+#. i18n: ectx: label, entry (FilterBar), group (General)
+#: settings/dolphin_generalsettings.kcfg:46
+#, kde-format
+msgid "Should the filter bar be shown"
+msgstr "Skal filterlinja vises"
+
+#. i18n: ectx: label, entry (GlobalViewProps), group (General)
+#: settings/dolphin_generalsettings.kcfg:50
+#, kde-format
+msgid "Should the view properties be used for all folders"
+msgstr "Skal visningsegenskapene brukes på alle mappene"
+
+#. i18n: ectx: label, entry (BrowseThroughArchives), group (General)
+#: settings/dolphin_generalsettings.kcfg:54
+#, kde-format
+msgid "Browse through archives"
+msgstr "Bla gjennom arkiver"
+
+#. i18n: ectx: label, entry (ConfirmClosingMultipleTabs), group (General)
+#: settings/dolphin_generalsettings.kcfg:58
+#, kde-format
+msgid "Ask for confirmation when closing windows with multiple tabs."
+msgstr "Be om bekreftelse når vinduer med flere faner lukkes."
+
+#. i18n: ectx: label, entry (RenameInline), group (General)
+#: settings/dolphin_generalsettings.kcfg:62
+#, kde-format
+msgid "Rename inline"
+msgstr "Endre navn direkte"
+
+#. i18n: ectx: label, entry (ShowSelectionToggle), group (General)
+#: settings/dolphin_generalsettings.kcfg:66
+#, kde-format
+msgid "Show selection toggle"
+msgstr "Vis utvalgsvender"
+
+#. i18n: ectx: label, entry (UseTabForSwitchingSplitView), group (General)
+#: settings/dolphin_generalsettings.kcfg:70
+#, kde-format
+msgid "Use tab for switching between right and left split"
+msgstr "Bruk tabulatortast for å bytte mellom høyre og venstre rute"
+
+#. i18n: ectx: label, entry (ShowToolTips), group (General)
+#: settings/dolphin_generalsettings.kcfg:74
+#, kde-format
+msgid "Show tooltips"
+msgstr "Vis hjelpebobler"
+
+#. i18n: ectx: label, entry (ShowCopyMoveMenu), group (General)
+#: settings/dolphin_generalsettings.kcfg:78
+#, kde-format
+msgid "Show 'Copy To' and 'Move To' commands in context menu"
+msgstr "Vis «Kopier til»- og «Flytt til»-kommandoene i sprettoppmenyen"
+
+#. i18n: ectx: label, entry (ViewPropsTimestamp), group (General)
+#: settings/dolphin_generalsettings.kcfg:82
+#, kde-format
+msgid "Timestamp since when the view properties are valid"
+msgstr "Tidspunktet da visningsegenskapene ble gyldige"
+
+#. i18n: ectx: label, entry (AutoExpandFolders), group (General)
+#: settings/dolphin_generalsettings.kcfg:85
+#, kde-format
+msgid "Use auto-expanding folders for all view types"
+msgstr "Bruk automatisk utvidelse av mapper for alle visningstyper"
+
+#. i18n: ectx: label, entry (ShowZoomSlider), group (General)
+#: settings/dolphin_generalsettings.kcfg:89
+#, kde-format
+msgid "Show zoom slider in the statusbar"
+msgstr "Vis forstørringsglider i statuslinja"
+
+#. i18n: ectx: label, entry (ShowSpaceInfo), group (General)
+#: settings/dolphin_generalsettings.kcfg:93
+#, kde-format
+msgid "Show the space information in the statusbar"
+msgstr "Vis plassinformasjon i statuslinja"
+
+#. i18n: ectx: label, entry (LockPanels), group (General)
+#: settings/dolphin_generalsettings.kcfg:97
+#, kde-format
+msgid "Lock the layout of the panels"
+msgstr "Lås panelutformingen"
+
+#. i18n: ectx: label, entry (EnlargeSmallPreviews), group (General)
+#: settings/dolphin_generalsettings.kcfg:101
+#, kde-format
+msgid "Enlarge Small Previews"
+msgstr "Forstørr små forhåndsvisninger"
+
+#. i18n: ectx: label, entry (SortingChoice), group (General)
+#: settings/dolphin_generalsettings.kcfg:110
+#, kde-format
+msgid ""
+"Choose Natural, Case Sensitive, or Case Insensitive order of sorting the "
+"items"
+msgstr ""
+"Velg elementsortering – naturlig, eller med eller uten hensyn til store/små "
+"bokstaver"
+
+#. i18n: ectx: label, entry (TextWidthIndex), group (IconsMode)
+#: settings/dolphin_iconsmodesettings.kcfg:40
+#, kde-format
+msgid "Text width index"
+msgstr "Indeks for tekstbredde"
+
+#. i18n: ectx: label, entry (MaximumTextLines), group (IconsMode)
+#: settings/dolphin_iconsmodesettings.kcfg:44
+#, kde-format
+msgid "Maximum textlines (0 means unlimited)"
+msgstr "Største antall tekstlinjer (0 = ingen grense)"
+
+#. i18n: ectx: label, entry (enabledPlugins), group (VersionControl)
+#: settings/dolphin_versioncontrolsettings.kcfg:10
+#, kde-format
+msgid "Enabled plugins"
+msgstr "Programtillegg som er slått på"
+
+#: settings/dolphinsettingsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Dolphin Preferences"
+msgstr "Oppsett av Dolphin"
+
+#: settings/dolphinsettingsdialog.cpp:61
+#, kde-format
+msgctxt "@title:group General settings"
+msgid "General"
+msgstr "Generelt"
+
+#: settings/dolphinsettingsdialog.cpp:68
+#, kde-format
+msgctxt "@title:group"
+msgid "Startup"
+msgstr "Oppstart"
+
+#: settings/dolphinsettingsdialog.cpp:75
+#, kde-format
+msgctxt "@title:group"
+msgid "View Modes"
+msgstr "Visningsmåter"
+
+#: settings/dolphinsettingsdialog.cpp:82
+#, kde-format
+msgctxt "@title:group"
+msgid "Navigation"
+msgstr "Navigasjon"
+
+#: settings/dolphinsettingsdialog.cpp:89
+#, kde-format
+msgctxt "@title:group"
+msgid "Services"
+msgstr "Tjenester"
+
+#: settings/dolphinsettingsdialog.cpp:97
+#, kde-format
+msgctxt "@title:group"
+msgid "Trash"
+msgstr "Papirkurv"
+
+#: settings/general/behaviorsettingspage.cpp:51
+#, kde-format
+msgctxt "@option:radio"
+msgid "Remember properties for each folder"
+msgstr "Husk egenskapene for hver mappe"
+
+#: settings/general/behaviorsettingspage.cpp:52
+#, kde-format
+msgctxt "@option:radio"
+msgid "Use common properties for all folders"
+msgstr "Bruk felles egenskaper for alle mapper"
+
+#: settings/general/behaviorsettingspage.cpp:57
+#, kde-format
+msgctxt "@title:group"
+msgid "View: "
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:65
+#, kde-format
+msgctxt "option:radio"
+msgid "Natural"
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:66
+#, kde-format
+msgctxt "option:radio"
+msgid "Alphabetical, case insensitive"
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:67
+#, kde-format
+msgctxt "option:radio"
+msgid "Alphabetical, case sensitive"
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:73
+#, kde-format
+msgctxt "@title:group"
+msgid "Sorting mode: "
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:82
+#, kde-format
+msgctxt "@option:check"
+msgid "Show tooltips"
+msgstr "Vis hjelpebobler"
+
+#: settings/general/behaviorsettingspage.cpp:83
+#, kde-format
+msgctxt "@title:group"
+msgid "Miscellaneous: "
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:86
+#, kde-format
+msgctxt "@option:check"
+msgid "Show selection marker"
+msgstr "Vis utvalgsmarkør"
+
+#: settings/general/behaviorsettingspage.cpp:90
+#, kde-format
+msgctxt "option:check"
+msgid "Rename inline"
+msgstr "Endre navn direkte"
+
+#: settings/general/behaviorsettingspage.cpp:94
+#, kde-format
+msgctxt "option:check"
+msgid "Switch between split views with tab key"
+msgstr ""
+
+#: settings/general/configurepreviewplugindialog.cpp:49
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Preview for %1"
+msgstr "Sett opp forhåndsvisning for %1"
+
+#: settings/general/confirmationssettingspage.cpp:47
+#, kde-format
+msgctxt "@title:group"
+msgid "Ask for confirmation in all KDE applications when:"
+msgstr "Spør etter bekreftelse i alle KDE-programmer ved:"
+
+#: settings/general/confirmationssettingspage.cpp:51
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Moving files or folders to trash"
+msgstr "Flytting av filer eller mapper til papirkurven"
+
+#: settings/general/confirmationssettingspage.cpp:53
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Emptying trash"
+msgstr "Tømming av papirkurven"
+
+#: settings/general/confirmationssettingspage.cpp:55
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Deleting files or folders"
+msgstr "Sletting av filer eller mapper"
+
+#: settings/general/confirmationssettingspage.cpp:57
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Executing scripts or desktop files"
+msgstr "Kjøring av skript eller skrivebordsfiler"
+
+#: settings/general/confirmationssettingspage.cpp:59
+#, kde-format
+msgctxt "@title:group"
+msgid "Ask for confirmation in Dolphin when:"
+msgstr ""
+
+#: settings/general/confirmationssettingspage.cpp:63
+#, kde-format
+msgctxt "@option:check Ask for confirmation in Dolphin when"
+msgid "Closing windows with multiple tabs"
+msgstr ""
+
+#: settings/general/generalsettingspage.cpp:44
+#: settings/kcm/kcmdolphingeneral.cpp:50
+#, kde-format
+msgctxt "@title:tab Behavior settings"
+msgid "Behavior"
+msgstr "Oppførsel"
+
+#: settings/general/generalsettingspage.cpp:49
+#: settings/kcm/kcmdolphingeneral.cpp:55
+#, kde-format
+msgctxt "@title:tab Previews settings"
+msgid "Previews"
+msgstr "Forhåndsvisninger"
+
+#: settings/general/generalsettingspage.cpp:54
+#: settings/kcm/kcmdolphingeneral.cpp:60
+#, kde-format
+msgctxt "@title:tab Confirmations settings"
+msgid "Confirmations"
+msgstr "Bekreftelser"
+
+#: settings/general/generalsettingspage.cpp:59
+#, kde-format
+msgctxt "@title:tab Status Bar settings"
+msgid "Status Bar"
+msgstr "Statuslinje"
+
+#: settings/general/previewssettingspage.cpp:52
+#, kde-format
+msgctxt "@title:group"
+msgid "Show previews for:"
+msgstr "Vis forhåndsvisning for:"
+
+#: settings/general/previewssettingspage.cpp:69
+#, kde-format
+msgctxt "@label"
+msgid "Skip previews for remote files above:"
+msgstr "Hopp over forhåndsvisning for nettverksfiler over:"
+
+#: settings/general/statusbarsettingspage.cpp:34
+#, kde-format
+msgctxt "@option:check"
+msgid "Show zoom slider"
+msgstr "Vis glidebryter for forstørring/forminsking"
+
+#: settings/general/statusbarsettingspage.cpp:35
+#, kde-format
+msgctxt "@option:check"
+msgid "Show space information"
+msgstr "Vis plassinformasjon"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:51
+#: settings/viewmodes/viewsettingspage.cpp:42
+#, kde-format
+msgctxt "@title:tab"
+msgid "Icons"
+msgstr "Ikoner"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:56
+#: settings/viewmodes/viewsettingspage.cpp:47
+#, kde-format
+msgctxt "@title:tab"
+msgid "Compact"
+msgstr "Kompakt"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:61
+#: settings/viewmodes/viewsettingspage.cpp:52
+#, kde-format
+msgctxt "@title:tab"
+msgid "Details"
+msgstr "Detaljer"
+
+#: settings/navigation/navigationsettingspage.cpp:40
+#, kde-format
+msgctxt "@option:check"
+msgid "Open archives as folder"
+msgstr "Åpne arkiver som mappe"
+
+#: settings/navigation/navigationsettingspage.cpp:43
+#, kde-format
+msgctxt "option:check"
+msgid "Open folders during drag operations"
+msgstr "Åpne mapper under dra-operasjoner"
+
+#: settings/services/servicessettingspage.cpp:60
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Select which services should be shown in the context menu:"
+msgstr "Velg hvilke tjenester som skal vises i sprettoppmenyen:"
+
+#: settings/services/servicessettingspage.cpp:75
+#, kde-format
+msgctxt "@action:button"
+msgid "Download New Services..."
+msgstr "Last ned nye tjenester …"
+
+#: settings/services/servicessettingspage.cpp:133
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Dolphin must be restarted to apply the updated version control systems "
+"settings."
+msgstr ""
+"Dolphin må startes på nytt for å bruke de oppdaterte innstillingene for "
+"versjonskontroll."
+
+#: settings/services/servicessettingspage.cpp:165
+#, kde-format
+msgctxt "@option:check"
+msgid "Delete"
+msgstr "Slett"
+
+#: settings/services/servicessettingspage.cpp:171
+#, kde-format
+msgctxt "@option:check"
+msgid "'Copy To' and 'Move To' commands"
+msgstr "«Kopier til» og «Flytt til»-kommandoene"
+
+#: settings/services/servicessettingspage.cpp:206
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: settings/startup/startupsettingspage.cpp:63
+#, kde-format
+msgctxt "@action:button"
+msgid "Select Home Location"
+msgstr "Velg hjemmested"
+
+#: settings/startup/startupsettingspage.cpp:72
+#, kde-format
+msgctxt "@action:button"
+msgid "Use Current Location"
+msgstr "Bruk gjeldende plassering"
+
+#: settings/startup/startupsettingspage.cpp:76
+#, kde-format
+msgctxt "@action:button"
+msgid "Use Default Location"
+msgstr "Bruk standardplassering"
+
+#: settings/startup/startupsettingspage.cpp:86
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Start in:"
+msgstr ""
+
+#: settings/startup/startupsettingspage.cpp:93
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Split view mode"
+msgstr "Delt visning"
+
+#: settings/startup/startupsettingspage.cpp:94
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "Window options:"
+msgstr ""
+
+#: settings/startup/startupsettingspage.cpp:95
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Editable location bar"
+msgstr "Redigerbar adresselinje"
+
+#: settings/startup/startupsettingspage.cpp:97
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show full path inside location bar"
+msgstr "Vis hele stien i adresselinja"
+
+#: settings/startup/startupsettingspage.cpp:99
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show filter bar"
+msgstr "Vis filterlinja"
+
+#: settings/startup/startupsettingspage.cpp:101
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show full path in title bar"
+msgstr "Vis hele stien i tittellinja"
+
+#: settings/startup/startupsettingspage.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The location for the home folder is invalid or does not exist, it will not "
+"be applied."
+msgstr ""
+"Adressen til hjemmemappa er ugyldig eller finnes ikke, den vil ikke bli tatt "
+"i bruk."
+
+#: settings/viewmodes/dolphinfontrequester.cpp:41
+#, kde-format
+msgctxt "@item:inlistbox Font"
+msgid "System Font"
+msgstr "Systemskrift"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:42
+#, kde-format
+msgctxt "@item:inlistbox Font"
+msgid "Custom Font"
+msgstr "Selvvalgt skrift"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:46
+#, kde-format
+msgctxt "@action:button Choose font"
+msgid "Choose..."
+msgstr "Velg …"
+
+#: settings/viewmodes/viewsettingstab.cpp:60
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Default icon size:"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:68
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Preview icon size:"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:76
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Label font:"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:82
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Small"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:83
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Medium"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:84
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Large"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:85
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Huge"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:86
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Label width:"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:89
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "Unlimited"
+msgstr "Ubegrenset"
+
+#: settings/viewmodes/viewsettingstab.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "1"
+msgstr "1"
+
+#: settings/viewmodes/viewsettingstab.cpp:91
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "2"
+msgstr "2"
+
+#: settings/viewmodes/viewsettingstab.cpp:92
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "3"
+msgstr "3"
+
+#: settings/viewmodes/viewsettingstab.cpp:93
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "4"
+msgstr "4"
+
+#: settings/viewmodes/viewsettingstab.cpp:94
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "5"
+msgstr "5"
+
+#: settings/viewmodes/viewsettingstab.cpp:95
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Maximum lines:"
+msgstr "Største antall linjer:"
+
+#: settings/viewmodes/viewsettingstab.cpp:100
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Unlimited"
+msgstr "Ubegrenset"
+
+#: settings/viewmodes/viewsettingstab.cpp:101
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Small"
+msgstr "Liten"
+
+#: settings/viewmodes/viewsettingstab.cpp:102
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Medium"
+msgstr "Middels"
+
+#: settings/viewmodes/viewsettingstab.cpp:103
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Large"
+msgstr "Stor"
+
+#: settings/viewmodes/viewsettingstab.cpp:104
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Maximum width:"
+msgstr "Største bredde:"
+
+#: settings/viewmodes/viewsettingstab.cpp:108
+#, kde-format
+msgctxt "@option:check"
+msgid "Expandable"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:109
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "Folders:"
+msgstr ""
+
+#: settings/viewmodes/viewsettingstab.cpp:258
+#: statusbar/dolphinstatusbar.cpp:323
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Size: 1 pixel"
+msgid_plural "Size: %1 pixels"
+msgstr[0] "Størrelse: 1 piksel"
+msgstr[1] "Størrelse: %1 piksler"
+
+#: settings/viewpropertiesdialog.cpp:71
+#, kde-format
+msgctxt "@title:window"
+msgid "View Properties"
+msgstr "Visningsegenskaper"
+
+#: settings/viewpropertiesdialog.cpp:84
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Icons"
+msgstr "Ikoner"
+
+#: settings/viewpropertiesdialog.cpp:85
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Compact"
+msgstr "Kompakt"
+
+#: settings/viewpropertiesdialog.cpp:86
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Details"
+msgstr "Detaljer"
+
+#: settings/viewpropertiesdialog.cpp:89
+#, kde-format
+msgctxt "@item:inlistbox Sort"
+msgid "Ascending"
+msgstr "Stigende"
+
+#: settings/viewpropertiesdialog.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Sort"
+msgid "Descending"
+msgstr "Synkende"
+
+#: settings/viewpropertiesdialog.cpp:98
+#, kde-format
+msgctxt "@option:check"
+msgid "Show folders first"
+msgstr "Vis mapper først"
+
+#: settings/viewpropertiesdialog.cpp:99
+#, kde-format
+msgctxt "@option:check"
+msgid "Show preview"
+msgstr "Forhåndsvisning"
+
+#: settings/viewpropertiesdialog.cpp:100
+#, kde-format
+msgctxt "@option:check"
+msgid "Show in groups"
+msgstr "Vis i grupper"
+
+#: settings/viewpropertiesdialog.cpp:101
+#, kde-format
+msgctxt "@option:check"
+msgid "Show hidden files"
+msgstr "Vis skjulte filer"
+
+#: settings/viewpropertiesdialog.cpp:104
+#, kde-format
+msgctxt "@title:group"
+msgid "Additional Information"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:144
+#, kde-format
+msgid "Choose what to see on each file or folder:"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:156
+#, kde-format
+msgctxt "@label:listbox"
+msgid "View mode:"
+msgstr "Visningsmåte:"
+
+#: settings/viewpropertiesdialog.cpp:157
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Sorting:"
+msgstr "Sortering:"
+
+#: settings/viewpropertiesdialog.cpp:161
+#, kde-format
+msgid "View options:"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:186
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "Current folder"
+msgstr "gjeldende mappe"
+
+#: settings/viewpropertiesdialog.cpp:189
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "Current folder and sub-folders"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:191
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "All folders"
+msgstr "Alle mapper"
+
+#: settings/viewpropertiesdialog.cpp:200
+#, kde-format
+msgctxt "@title:group"
+msgid "Apply to:"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:205
+#, kde-format
+msgctxt "@option:check"
+msgid "Use as default view settings"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:354
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The view properties of all sub-folders will be changed. Do you want to "
+"continue?"
+msgstr ""
+"Visningsegenskapene for alle undermapper blir endret. Vil du gå videre?"
+
+#: settings/viewpropertiesdialog.cpp:386
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The view properties of all folders will be changed. Do you want to continue?"
+msgstr "Visningsegenskapene for alle mapper blir endret. Vil du gå videre?"
+
+#: settings/viewpropsprogressinfo.cpp:50
+#, kde-format
+msgctxt "@title:window"
+msgid "Applying View Properties"
+msgstr "Bruk visningsegenskapene"
+
+#: settings/viewpropsprogressinfo.cpp:63 settings/viewpropsprogressinfo.cpp:127
+#, kde-format
+msgctxt "@info:progress"
+msgid "Counting folders: %1"
+msgstr "Teller mapper: %1"
+
+#: settings/viewpropsprogressinfo.cpp:143
+#, kde-format
+msgctxt "@info:progress"
+msgid "Folders: %1"
+msgstr "Mapper: %1"
+
+#: statusbar/dolphinstatusbar.cpp:66
+#, kde-format
+msgid "Zoom"
+msgstr "Forstørre/-minske"
+
+#: statusbar/dolphinstatusbar.cpp:67
+#, kde-format
+msgctxt "Description for zoom-slider (accessibility)"
+msgid "Sets the size of the file icons."
+msgstr "Bestemmer størrelsen på fil-ikonene."
+
+#: statusbar/dolphinstatusbar.cpp:81
+#, kde-format
+msgid "Stop"
+msgstr "Stopp"
+
+#: statusbar/dolphinstatusbar.cpp:83
+#, kde-format
+msgctxt "@tooltip"
+msgid "Stop loading"
+msgstr "Stopp lasting"
+
+#: statusbar/dolphinstatusbar.cpp:261
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Zoom Slider"
+msgstr "Vis glidebryter for forstørring/forminsking"
+
+#: statusbar/dolphinstatusbar.cpp:265
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Space Information"
+msgstr "Vis plassinformasjon"
+
+#: statusbar/statusbarspaceinfo.cpp:93
+#, kde-format
+msgctxt "@info:status"
+msgid "Unknown size"
+msgstr "Ukjent størrelse"
+
+#: statusbar/statusbarspaceinfo.cpp:101
+#, kde-format
+msgctxt "@info:status Free disk space"
+msgid "%1 free"
+msgstr "%1 ledig"
+
+#: views/dolphinremoteencoding.cpp:51
+#, kde-format
+msgid "Select Remote Charset"
+msgstr "Velg fjerntegnsett"
+
+#: views/dolphinremoteencoding.cpp:115
+#, kde-format
+msgid "Reload"
+msgstr "Last på nytt"
+
+#: views/dolphinremoteencoding.cpp:116
+#, kde-format
+msgid "Default"
+msgstr "Standard"
+
+#: views/dolphinview.cpp:534
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder selected"
+msgid_plural "%1 Folders selected"
+msgstr[0] "1 mappe er valgt"
+msgstr[1] "%1 mapper er valgt"
+
+#: views/dolphinview.cpp:535
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File selected"
+msgid_plural "%1 Files selected"
+msgstr[0] "1 fil er valgt"
+msgstr[1] "%1 filer er valgt"
+
+#: views/dolphinview.cpp:539
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder"
+msgid_plural "%1 Folders"
+msgstr[0] "1 mappe"
+msgstr[1] "%1 mapper"
+
+#: views/dolphinview.cpp:540
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File"
+msgid_plural "%1 Files"
+msgstr[0] "1 fil"
+msgstr[1] "%1 filer"
+
+#: views/dolphinview.cpp:544
+#, kde-format
+msgctxt "@info:status folders, files (size)"
+msgid "%1, %2 (%3)"
+msgstr "%1, %2 (%3)"
+
+#: views/dolphinview.cpp:548
+#, kde-format
+msgctxt "@info:status files (size)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: views/dolphinview.cpp:554
+#, kde-format
+msgctxt "@info:status"
+msgid "0 Folders, 0 Files"
+msgstr "0 mapper, 0 filer"
+
+#: views/dolphinview.cpp:834
+#, kde-format
+msgid "Are you sure you want to open 1 item?"
+msgid_plural "Are you sure you want to open %1 items?"
+msgstr[0] "Er du sikker på at du vil åpne ett element?"
+msgstr[1] "Er du sikker på at du vil åpne %1 elementer?"
+
+#: views/dolphinview.cpp:944
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatic Column Widths"
+msgstr "Automatiske kolonnebredder"
+
+#: views/dolphinview.cpp:949
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Custom Column Widths"
+msgstr "Tilpassede kolonnebredder"
+
+#: views/dolphinview.cpp:1450
+#, kde-format
+msgctxt "@info:status"
+msgid "Trash operation completed."
+msgstr "Søppelkurv-handlingen er fullført."
+
+#: views/dolphinview.cpp:1459
+#, kde-format
+msgctxt "@info:status"
+msgid "Delete operation completed."
+msgstr "Slettingen er fullført."
+
+#: views/dolphinview.cpp:1604
+#, kde-format
+msgctxt "@info:status"
+msgid "The location is empty."
+msgstr "Dette stedet er tomt."
+
+#: views/dolphinview.cpp:1606
+#, kde-format
+msgctxt "@info:status"
+msgid "The location '%1' is invalid."
+msgstr "Plasseringa «%1» er ugyldig."
+
+#: views/dolphinviewactionhandler.cpp:94
+#, kde-format
+msgctxt "@action"
+msgid "Create Folder..."
+msgstr "Lag mappe …"
+
+#: views/dolphinviewactionhandler.cpp:124
+#, kde-format
+msgctxt "@action \"Move to Trash\" for non-local files, etc."
+msgid "Delete (using shortcut for Trash)"
+msgstr "Slett (bruker snarvei til Søppel)"
+
+#: views/dolphinviewactionhandler.cpp:131
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr "Egenskaper"
+
+#: views/dolphinviewactionhandler.cpp:142
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "View Mode"
+msgstr "Visningsmodus"
+
+#: views/dolphinviewactionhandler.cpp:158
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: views/dolphinviewactionhandler.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid "Show preview of files and folders"
+msgstr "Vis forhåndsvisning av filer og mapper"
+
+#: views/dolphinviewactionhandler.cpp:164
+#, kde-format
+msgctxt "@action:inmenu Sort"
+msgid "Descending"
+msgstr "Synkende"
+
+#: views/dolphinviewactionhandler.cpp:168
+#, kde-format
+msgctxt "@action:inmenu Sort"
+msgid "Folders First"
+msgstr "Mapper først"
+
+#: views/dolphinviewactionhandler.cpp:175
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Sort By"
+msgstr "Sorter etter"
+
+#: views/dolphinviewactionhandler.cpp:189
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Additional Information"
+msgstr "Tilleggsinformasjon"
+
+#: views/dolphinviewactionhandler.cpp:198
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Show in Groups"
+msgstr "Vis i grupper"
+
+#: views/dolphinviewactionhandler.cpp:202
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Hidden Files"
+msgstr "Skjulte filer"
+
+#: views/dolphinviewactionhandler.cpp:203
+#, kde-format
+msgctxt "@info"
+msgid "Visibility of hidden files and folders"
+msgstr "Synlighet for skjulte filer og mapper"
+
+#: views/dolphinviewactionhandler.cpp:208
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Adjust View Properties..."
+msgstr "Juster visningsegenskapene …"
+
+#: views/dolphinviewactionhandler.cpp:492
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Icons"
+msgstr "Ikoner"
+
+#: views/dolphinviewactionhandler.cpp:493
+#, kde-format
+msgctxt "@info"
+msgid "Icons view mode"
+msgstr "Ikonvisning"
+
+#: views/dolphinviewactionhandler.cpp:503
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Compact"
+msgstr "Kompakt"
+
+#: views/dolphinviewactionhandler.cpp:504
+#, kde-format
+msgctxt "@info"
+msgid "Compact view mode"
+msgstr "Kompakt visningsmåte"
+
+#: views/dolphinviewactionhandler.cpp:514
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Details"
+msgstr "Detaljer"
+
+#: views/dolphinviewactionhandler.cpp:515
+#, kde-format
+msgctxt "@info"
+msgid "Details view mode"
+msgstr "Detaljert visning"
+
+#: views/renamedialog.cpp:55
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Item"
+msgstr "Endre navn på element"
+
+#: views/renamedialog.cpp:56
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Items"
+msgstr "Gi elementene nye navn"
+
+#: views/renamedialog.cpp:68
+#, kde-format
+msgctxt "@action:button"
+msgid "&Rename"
+msgstr "Gi &nytt navn"
+
+#: views/renamedialog.cpp:79
+#, kde-kuit-format
+msgctxt "@label:textbox"
+msgid "Rename the item <filename>%1</filename> to:"
+msgstr "Elementet  <filename>%1</filename> endrer navn til:"
+
+#: views/renamedialog.cpp:83
+#, kde-format
+msgctxt "@info:status"
+msgid "New name #"
+msgstr "Nytt navn #"
+
+#: views/renamedialog.cpp:85
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Rename the %1 selected item to:"
+msgid_plural "Rename the %1 selected items to:"
+msgstr[0] "Gi det %1 valgte elementet nytt navn:"
+msgstr[1] "Gi de %1 valgte elementene nye navn:"
+
+#: views/renamedialog.cpp:130
+#, kde-format
+msgctxt "@info"
+msgid "# will be replaced by ascending numbers starting with:"
+msgstr "# erstattes av stigende tall som begynner med:"
+
+#: views/versioncontrol/versioncontrolobserver.cpp:212
+#, kde-format
+msgctxt "@info:status"
+msgid "Updating version information..."
+msgstr "Oppdaterer versjonsinformasjon …"

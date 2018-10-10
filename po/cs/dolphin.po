@@ -1,0 +1,3244 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Vít Pelčák <vit@pelcak.org>, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017.
+# Lukáš Tinkl <lukas@kde.org>, 2010, 2011, 2012.
+# Jan Holíček <jan.holicek@gmail.com>, 2010.
+# Tomáš Chvátal <tomas.chvatal@gmail.com>, 2012.
+# Vit Pelcak <vpelcak@suse.cz>, 2017, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-08-05 06:08+0200\n"
+"PO-Revision-Date: 2018-07-20 14:34+0100\n"
+"Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
+"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Klára Cihlářová,Lukáš Tinkl,David Kolibáč,Vít Pelčák,Marián Kyral"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr ""
+"koty@seznam.cz,lukas@kde.org,david@kolibac.cz,vit@pelcak.org,mkyral@email.cz"
+
+#: dolphincontextmenu.cpp:144 panels/places/placespanel.cpp:198
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Empty Trash"
+msgstr "Vyprázdnit koš"
+
+#: dolphincontextmenu.cpp:165
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Restore"
+msgstr "Obnovit"
+
+#: dolphincontextmenu.cpp:214
+#, kde-format
+msgctxt "@action:inmenu Add selected folder to places"
+msgid "Add to Places"
+msgstr "Přidat do míst"
+
+#: dolphincontextmenu.cpp:230 dolphinmainwindow.cpp:1070
+#, kde-format
+msgctxt "@title:menu Create new folder, file, link, etc."
+msgid "Create New"
+msgstr "Vytvořit nový"
+
+#: dolphincontextmenu.cpp:240
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path"
+msgstr "Otevřít cestu"
+
+#: dolphincontextmenu.cpp:246
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path in New Window"
+msgstr "Otevřít cestu v novém okně"
+
+#: dolphincontextmenu.cpp:252
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path in New Tab"
+msgstr "Otevřít cestu v nové kartě"
+
+#: dolphincontextmenu.cpp:359
+#, kde-format
+msgctxt "@action:inmenu Add current folder to places"
+msgid "Add to Places"
+msgstr "Přidat do míst"
+
+#: dolphinmainwindow.cpp:203
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully copied."
+msgstr "Úspěšně zkopírováno."
+
+#: dolphinmainwindow.cpp:206
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully moved."
+msgstr "Úspěšně přesunuto."
+
+#: dolphinmainwindow.cpp:209
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully linked."
+msgstr "Úspěšně propojeno."
+
+#: dolphinmainwindow.cpp:212
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully moved to trash."
+msgstr "Úspěšně přesunuto do koše."
+
+#: dolphinmainwindow.cpp:215
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully renamed."
+msgstr "Úspěšně přejmenováno."
+
+#: dolphinmainwindow.cpp:219
+#, kde-format
+msgctxt "@info:status"
+msgid "Created folder."
+msgstr "Složka vytvořena."
+
+#: dolphinmainwindow.cpp:292
+#, kde-format
+msgctxt "@info"
+msgid "Go back"
+msgstr "Přejít zpět"
+
+#: dolphinmainwindow.cpp:298
+#, kde-format
+msgctxt "@info"
+msgid "Go forward"
+msgstr "Přejít vpřed"
+
+#: dolphinmainwindow.cpp:372
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not access <filename>%1</filename>."
+msgstr "Nelze přistupovat k <filename>%1</filename>."
+
+#: dolphinmainwindow.cpp:402
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirmation"
+msgstr "Potvrzení"
+
+#: dolphinmainwindow.cpp:405
+#, kde-format
+msgctxt "@action:button 'Quit Dolphin' button"
+msgid "&Quit %1"
+msgstr "U&končit %1"
+
+#: dolphinmainwindow.cpp:406
+#, kde-format
+msgid "C&lose Current Tab"
+msgstr "Zavřít současnou &kartu"
+
+#: dolphinmainwindow.cpp:415
+#, kde-format
+msgid ""
+"You have multiple tabs open in this window, are you sure you want to quit?"
+msgstr "V tomto okně máte otevřeno několik karet, přejete si opravdu skončit?"
+
+#: dolphinmainwindow.cpp:417
+#, kde-format
+msgid "Do not ask again"
+msgstr "Znovu se nedotazovat"
+
+#: dolphinmainwindow.cpp:899
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Location Bar"
+msgstr "Panel umístění"
+
+#: dolphinmainwindow.cpp:907
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Go"
+msgstr "Přejít"
+
+#: dolphinmainwindow.cpp:916
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Tools"
+msgstr "Nástroje"
+
+#: dolphinmainwindow.cpp:1035
+#, kde-format
+msgid "Search"
+msgstr "Hledat"
+
+#: dolphinmainwindow.cpp:1037
+#, kde-format
+msgid "Search for %1"
+msgstr "Vyhledávám %1"
+
+#: dolphinmainwindow.cpp:1077
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "New &Window"
+msgstr "Nové &okno"
+
+#: dolphinmainwindow.cpp:1081
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "New Tab"
+msgstr "Nová karta"
+
+#: dolphinmainwindow.cpp:1087
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Close Tab"
+msgstr "Zavřít kartu"
+
+#: dolphinmainwindow.cpp:1104
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Paste"
+msgstr "Vložit"
+
+#: dolphinmainwindow.cpp:1111 dolphinpart.cpp:190
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Invert Selection"
+msgstr "Invertovat výběr"
+
+#: dolphinmainwindow.cpp:1125
+#, kde-format
+msgctxt "@action:intoolbar Stash"
+msgid "Stash"
+msgstr "Úschovna"
+
+#: dolphinmainwindow.cpp:1126
+#, kde-format
+msgctxt "@info"
+msgid "Opens the stash virtual directory in a split window"
+msgstr "Otevře virtuální adresář úschovna v rozděleném okně"
+
+#: dolphinmainwindow.cpp:1135
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Stop"
+msgstr "Stop"
+
+#: dolphinmainwindow.cpp:1136
+#, kde-format
+msgctxt "@info"
+msgid "Stop loading"
+msgstr "Zastavit načítání"
+
+#: dolphinmainwindow.cpp:1141
+#, kde-format
+msgctxt "@action:inmenu Navigation Bar"
+msgid "Editable Location"
+msgstr "Upravitelné umístění"
+
+#: dolphinmainwindow.cpp:1146
+#, kde-format
+msgctxt "@action:inmenu Navigation Bar"
+msgid "Replace Location"
+msgstr "Nahradit umístění"
+
+#: dolphinmainwindow.cpp:1166
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Undo close tab"
+msgstr "Vrátit zpět zavření karty"
+
+#: dolphinmainwindow.cpp:1181
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Show Filter Bar"
+msgstr "Zobrazit panel pro filtrování"
+
+#: dolphinmainwindow.cpp:1187
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Compare Files"
+msgstr "Porovnat soubory"
+
+#: dolphinmainwindow.cpp:1195
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Open Terminal"
+msgstr "Otevřít terminál"
+
+#: dolphinmainwindow.cpp:1216
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Next Tab"
+msgstr "Následující karta"
+
+#: dolphinmainwindow.cpp:1217
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Activate Next Tab"
+msgstr "Aktivovat následující kartu"
+
+#: dolphinmainwindow.cpp:1223
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Previous Tab"
+msgstr "Předchozí karta"
+
+#: dolphinmainwindow.cpp:1224
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Activate Previous Tab"
+msgstr "Aktivovat předchozí kartu"
+
+#: dolphinmainwindow.cpp:1231
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Target"
+msgstr "Zobrazit cíl"
+
+#: dolphinmainwindow.cpp:1237
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Tab"
+msgstr "Otevřít v nové kartě"
+
+#: dolphinmainwindow.cpp:1242
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Tabs"
+msgstr "Otevřít v nových kartách"
+
+#: dolphinmainwindow.cpp:1247
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Window"
+msgstr "Otevřít v novém okně"
+
+#: dolphinmainwindow.cpp:1257
+#, kde-format
+msgctxt "@action:inmenu Panels"
+msgid "Unlock Panels"
+msgstr "Odemknout panely"
+
+#: dolphinmainwindow.cpp:1259
+#, kde-format
+msgctxt "@action:inmenu Panels"
+msgid "Lock Panels"
+msgstr "Zamknout panely"
+
+#: dolphinmainwindow.cpp:1265
+#, kde-format
+msgctxt "@title:window"
+msgid "Information"
+msgstr "Informace"
+
+#: dolphinmainwindow.cpp:1286
+#, kde-format
+msgctxt "@title:window"
+msgid "Folders"
+msgstr "Složky"
+
+#: dolphinmainwindow.cpp:1310
+#, kde-format
+msgctxt "@title:window Shell terminal"
+msgid "Terminal"
+msgstr "Terminál"
+
+#: dolphinmainwindow.cpp:1343
+#, kde-format
+msgctxt "@title:window"
+msgid "Places"
+msgstr "Místa"
+
+#: dolphinmainwindow.cpp:1375
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Panels"
+msgstr "Panely"
+
+#: dolphinmainwindow.cpp:1445
+#, kde-format
+msgctxt "@action"
+msgid "Control"
+msgstr "Ovládání"
+
+#: dolphinmainwindow.cpp:1561
+#, kde-format
+msgctxt "@action:intoolbar Close left view"
+msgid "Close"
+msgstr "Zavřít"
+
+#: dolphinmainwindow.cpp:1562
+#, kde-format
+msgctxt "@info"
+msgid "Close left view"
+msgstr "Zavřít levý pohled"
+
+#: dolphinmainwindow.cpp:1565
+#, kde-format
+msgctxt "@action:intoolbar Close right view"
+msgid "Close"
+msgstr "Zavřít"
+
+#: dolphinmainwindow.cpp:1566
+#, kde-format
+msgctxt "@info"
+msgid "Close right view"
+msgstr "Zavřít pravý pohled"
+
+#: dolphinmainwindow.cpp:1570
+#, kde-format
+msgctxt "@action:intoolbar Split view"
+msgid "Split"
+msgstr "Rozdělit"
+
+#: dolphinmainwindow.cpp:1571
+#, kde-format
+msgctxt "@info"
+msgid "Split view"
+msgstr "Rozdělit pohled"
+
+#: dolphinpart.cpp:171
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr "U&pravit typ souboru..."
+
+#: dolphinpart.cpp:175
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Select Items Matching..."
+msgstr "Vybrat odpovídající položky..."
+
+#: dolphinpart.cpp:180
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Unselect Items Matching..."
+msgstr "Odznačit odpovídající položky..."
+
+#: dolphinpart.cpp:186
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Unselect All"
+msgstr "Odznačit vše"
+
+#: dolphinpart.cpp:203
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "App&lications"
+msgstr "Ap&likace"
+
+#: dolphinpart.cpp:206
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "&Network Folders"
+msgstr "Síťo&vé složky"
+
+#: dolphinpart.cpp:209
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Sett&ings"
+msgstr "N&astavení"
+
+#: dolphinpart.cpp:212
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Trash"
+msgstr "Koš"
+
+#: dolphinpart.cpp:215
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Autostart"
+msgstr "Automatické spuštění"
+
+#: dolphinpart.cpp:220
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Find File..."
+msgstr "Najít soubor..."
+
+#: dolphinpart.cpp:226
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Open &Terminal"
+msgstr "Otevřít &Terminál"
+
+#: dolphinpart.cpp:296
+#, kde-format
+msgctxt "@title"
+msgid "Dolphin Part"
+msgstr "Komponenta Dolphin"
+
+#: dolphinpart.cpp:490
+#, kde-format
+msgctxt "@title:window"
+msgid "Select"
+msgstr "Vybrat"
+
+#: dolphinpart.cpp:491
+#, kde-format
+msgid "Select all items matching this pattern:"
+msgstr "Vybrat všechny položky odpovídající tomuto vzoru:"
+
+#: dolphinpart.cpp:497
+#, kde-format
+msgctxt "@title:window"
+msgid "Unselect"
+msgstr "Odznačit"
+
+#: dolphinpart.cpp:498
+#, kde-format
+msgid "Unselect all items matching this pattern:"
+msgstr "Odznačit všechny položky odpovídající tomuto vzoru:"
+
+#. i18n: ectx: Menu (edit)
+#: dolphinpart.rc:4
+#, kde-format
+msgid "&Edit"
+msgstr "U&pravit"
+
+#. i18n: ectx: Menu (selection)
+#: dolphinpart.rc:14
+#, kde-format
+msgctxt "@title:menu"
+msgid "Selection"
+msgstr "Výběr"
+
+#. i18n: ectx: Menu (view)
+#: dolphinpart.rc:23
+#, kde-format
+msgid "&View"
+msgstr "Po&hled"
+
+#. i18n: ectx: Menu (go)
+#: dolphinpart.rc:32
+#, kde-format
+msgid "&Go"
+msgstr "Pře&jít"
+
+#. i18n: ectx: Menu (tools)
+#: dolphinpart.rc:40
+#, kde-format
+msgctxt "@title:menu"
+msgid "Tools"
+msgstr "Nástroje"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: dolphinpart.rc:48
+#, kde-format
+msgctxt "@title:menu"
+msgid "Dolphin Toolbar"
+msgstr "Panel nástrojů"
+
+#: dolphinrecenttabsmenu.cpp:29
+#, kde-format
+msgid "Recently Closed Tabs"
+msgstr "Naposledy zavřené karty"
+
+#: dolphinrecenttabsmenu.cpp:34
+#, kde-format
+msgid "Empty Recently Closed Tabs"
+msgstr "Vyprázdnit naposledy zavřené karty"
+
+#: dolphintabbar.cpp:141
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Tab"
+msgstr "Nová karta"
+
+#: dolphintabbar.cpp:142
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Detach Tab"
+msgstr "Vytrhnout kartu"
+
+#: dolphintabbar.cpp:143
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Other Tabs"
+msgstr "Zavřít ostatní karty"
+
+#: dolphintabbar.cpp:144
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Tab"
+msgstr "Zavřít kartu"
+
+#. i18n: ectx: Menu (location_bar)
+#: dolphinui.rc:38
+#, kde-format
+msgctxt "@title:menu"
+msgid "Location Bar"
+msgstr "Panel umístění"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: dolphinui.rc:92
+#, kde-format
+msgctxt "@title:menu"
+msgid "Main Toolbar"
+msgstr "Hlavní panel nástrojů"
+
+#: dolphinviewcontainer.cpp:93
+#, kde-format
+msgctxt "@action:button"
+msgid "Empty Trash"
+msgstr "Vyprázdnit koš"
+
+#: dolphinviewcontainer.cpp:115
+#, kde-format
+msgid "Running Dolphin as root can be dangerous. Please be careful."
+msgstr ""
+"Spuštění Dolphinu jako root může být nebezpečné. Prosím, buďte opatrní."
+
+#: dolphinviewcontainer.cpp:392 search/dolphinsearchbox.cpp:311
+#, kde-format
+msgid "Search for %1 in %2"
+msgstr "Hledat %1 v %2"
+
+#: dolphinviewcontainer.cpp:462
+#, kde-format
+msgctxt "@info:progress"
+msgid "Loading folder..."
+msgstr "Načítá se složka..."
+
+#: dolphinviewcontainer.cpp:470
+#, kde-format
+msgctxt "@info:progress"
+msgid "Sorting..."
+msgstr "Třídění..."
+
+#: dolphinviewcontainer.cpp:481
+#, kde-format
+msgctxt "@info"
+msgid "Searching..."
+msgstr "Vyhledávám..."
+
+#: dolphinviewcontainer.cpp:501
+#, kde-format
+msgctxt "@info:status"
+msgid "No items found."
+msgstr "Nenalezeny žádné položky."
+
+#: dolphinviewcontainer.cpp:608
+#, kde-format
+msgctxt "@info:status"
+msgid "Dolphin does not support web pages, the web browser has been launched"
+msgstr "Dolphin nepodporuje webové stránky. Byl spuštěn webový prohlížeč"
+
+#: dolphinviewcontainer.cpp:622
+#, kde-format
+msgctxt "@info:status"
+msgid "Protocol not supported by Dolphin, Konqueror has been launched"
+msgstr "Dolphinem nepodporovaný protokol. Byl spuštěn Konqueror"
+
+#: dolphinviewcontainer.cpp:630
+#, kde-format
+msgctxt "@info:status"
+msgid "Invalid protocol"
+msgstr "Neplatný protokol"
+
+#: filterbar/filterbar.cpp:39
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Hide Filter Bar"
+msgstr "Skrýt filtrovací panel"
+
+#: filterbar/filterbar.cpp:47
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Keep Filter When Changing Folders"
+msgstr "Ponechat filtr při změně složek"
+
+#: filterbar/filterbar.cpp:51
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Filter:"
+msgstr "Filtr:"
+
+#: kitemviews/kfileitemlistwidget.cpp:72
+#, kde-format
+msgctxt "@item:intable"
+msgid "Unknown"
+msgstr "Neznámé"
+
+#: kitemviews/kfileitemlistwidget.cpp:74
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 položka"
+msgstr[1] "%1 položky"
+msgstr[2] "%1 položek"
+
+#: kitemviews/kfileitemmodel.cpp:1929
+#, kde-format
+msgctxt "@title:group Groups that start with a digit"
+msgid "0 - 9"
+msgstr "0 - 9"
+
+#: kitemviews/kfileitemmodel.cpp:1931
+#, kde-format
+msgctxt "@title:group"
+msgid "Others"
+msgstr "Ostatní"
+
+#: kitemviews/kfileitemmodel.cpp:1962
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Folders"
+msgstr "Složky"
+
+#: kitemviews/kfileitemmodel.cpp:1964
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Small"
+msgstr "Malá"
+
+#: kitemviews/kfileitemmodel.cpp:1966
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Medium"
+msgstr "Střední"
+
+#: kitemviews/kfileitemmodel.cpp:1968
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Big"
+msgstr "Velká"
+
+#: kitemviews/kfileitemmodel.cpp:2013
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Today"
+msgstr "Dnes"
+
+#: kitemviews/kfileitemmodel.cpp:2014
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Yesterday"
+msgstr "Včera"
+
+#: kitemviews/kfileitemmodel.cpp:2017
+#, kde-format
+msgctxt "@title:group Date: The week day name: dddd"
+msgid "dddd"
+msgstr "dddd"
+
+#: kitemviews/kfileitemmodel.cpp:2019
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"dddd\"with context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2023
+#, kde-format
+msgctxt "@title:group Date"
+msgid "One Week Ago"
+msgstr "Před týdnem"
+
+#: kitemviews/kfileitemmodel.cpp:2026
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Two Weeks Ago"
+msgstr "Před 2 týdny"
+
+#: kitemviews/kfileitemmodel.cpp:2029
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Three Weeks Ago"
+msgstr "Před 3 týdny"
+
+#: kitemviews/kfileitemmodel.cpp:2033
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Earlier this Month"
+msgstr "Dříve tento měsíc"
+
+#: kitemviews/kfileitemmodel.cpp:2046
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Yesterday' (MMMM, yyyy)"
+msgstr "'Včera' (MMMM, rrrr)"
+
+#: kitemviews/kfileitemmodel.cpp:2049
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Yesterday' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2054
+#, kde-format
+msgctxt ""
+"@title:group Date: The week day name: dddd, MMMM is full month name in "
+"current locale, and yyyy is full year number"
+msgid "dddd (MMMM, yyyy)"
+msgstr "dddd (MMMM, rrrr)"
+
+#: kitemviews/kfileitemmodel.cpp:2057
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"dddd (MMMM, yyyy)\" with context "
+"@title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2061
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'One Week Ago' (MMMM, yyyy)"
+msgstr "'Před týdnem' (MMMM, rrrr)"
+
+#: kitemviews/kfileitemmodel.cpp:2064
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'One Week Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2068
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Two Weeks Ago' (MMMM, yyyy)"
+msgstr "'Před 2 týdny' (MMMM, rrrr)"
+
+#: kitemviews/kfileitemmodel.cpp:2071
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Two Weeks Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2075
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Three Weeks Ago' (MMMM, yyyy)"
+msgstr "'Před 3 týdny' (MMMM, rrrr)"
+
+#: kitemviews/kfileitemmodel.cpp:2078
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Three Weeks Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2082
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Earlier on' MMMM, yyyy"
+msgstr "'Dříve' MMMM, rrrr"
+
+#: kitemviews/kfileitemmodel.cpp:2085
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Earlier on' MMMM, yyyy\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2090
+#, kde-format
+msgctxt ""
+"@title:group The month and year: MMMM is full month name in current locale, "
+"and yyyy is full year number"
+msgid "MMMM, yyyy"
+msgstr "MMMM, rrrr"
+
+#: kitemviews/kfileitemmodel.cpp:2093
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"MMMM, yyyy\" with context @title:"
+"group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2132 kitemviews/kfileitemmodel.cpp:2145
+#: kitemviews/kfileitemmodel.cpp:2158
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Read, "
+msgstr "Čtení, "
+
+#: kitemviews/kfileitemmodel.cpp:2135 kitemviews/kfileitemmodel.cpp:2148
+#: kitemviews/kfileitemmodel.cpp:2161
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Write, "
+msgstr "Zápis, "
+
+#: kitemviews/kfileitemmodel.cpp:2138 kitemviews/kfileitemmodel.cpp:2151
+#: kitemviews/kfileitemmodel.cpp:2164
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Execute, "
+msgstr "Spuštění, "
+
+#: kitemviews/kfileitemmodel.cpp:2140 kitemviews/kfileitemmodel.cpp:2153
+#: kitemviews/kfileitemmodel.cpp:2166
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Forbidden"
+msgstr "Zakázáno"
+
+#: kitemviews/kfileitemmodel.cpp:2168
+#, kde-format
+msgctxt "@title:group Files and folders by permissions"
+msgid "User: %1 | Group: %2 | Others: %3"
+msgstr "Uživatel: %1 | Skupina: %2 | Ostatní: %3"
+
+#: kitemviews/kfileitemmodel.cpp:2257
+#, kde-format
+msgctxt "@label"
+msgid "Name"
+msgstr "Název"
+
+#: kitemviews/kfileitemmodel.cpp:2258
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "Velikost"
+
+#: kitemviews/kfileitemmodel.cpp:2259
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr "Změněno"
+
+#: kitemviews/kfileitemmodel.cpp:2260
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr "Vytvořeno"
+
+#: kitemviews/kfileitemmodel.cpp:2261
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr "Poslední přístup"
+
+#: kitemviews/kfileitemmodel.cpp:2262
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "Typ"
+
+#: kitemviews/kfileitemmodel.cpp:2263
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "Hodnocení"
+
+#: kitemviews/kfileitemmodel.cpp:2264
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "Značky"
+
+#: kitemviews/kfileitemmodel.cpp:2265
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "Komentář"
+
+#: kitemviews/kfileitemmodel.cpp:2266
+#, kde-format
+msgctxt "@label"
+msgid "Title"
+msgstr "Název"
+
+#: kitemviews/kfileitemmodel.cpp:2266 kitemviews/kfileitemmodel.cpp:2267
+#: kitemviews/kfileitemmodel.cpp:2268
+#, kde-format
+msgctxt "@label"
+msgid "Document"
+msgstr "Dokument"
+
+#: kitemviews/kfileitemmodel.cpp:2267
+#, kde-format
+msgctxt "@label"
+msgid "Word Count"
+msgstr "Počet slov"
+
+#: kitemviews/kfileitemmodel.cpp:2268
+#, kde-format
+msgctxt "@label"
+msgid "Line Count"
+msgstr "Počet řádků"
+
+#: kitemviews/kfileitemmodel.cpp:2269
+#, kde-format
+msgctxt "@label"
+msgid "Date Photographed"
+msgstr "Datum pořízení fotografie"
+
+#: kitemviews/kfileitemmodel.cpp:2269 kitemviews/kfileitemmodel.cpp:2270
+#: kitemviews/kfileitemmodel.cpp:2271 kitemviews/kfileitemmodel.cpp:2272
+#, kde-format
+msgctxt "@label"
+msgid "Image"
+msgstr "Obrázek"
+
+#: kitemviews/kfileitemmodel.cpp:2270
+#, kde-format
+msgctxt "@label"
+msgid "Width"
+msgstr "Šířka"
+
+#: kitemviews/kfileitemmodel.cpp:2271
+#, kde-format
+msgctxt "@label"
+msgid "Height"
+msgstr "Výška"
+
+#: kitemviews/kfileitemmodel.cpp:2272
+#, kde-format
+msgctxt "@label"
+msgid "Orientation"
+msgstr "Natočení"
+
+#: kitemviews/kfileitemmodel.cpp:2273
+#, kde-format
+msgctxt "@label"
+msgid "Artist"
+msgstr "Umělec"
+
+#: kitemviews/kfileitemmodel.cpp:2273 kitemviews/kfileitemmodel.cpp:2274
+#: kitemviews/kfileitemmodel.cpp:2275 kitemviews/kfileitemmodel.cpp:2276
+#: kitemviews/kfileitemmodel.cpp:2277 kitemviews/kfileitemmodel.cpp:2278
+#: kitemviews/kfileitemmodel.cpp:2279
+#, kde-format
+msgctxt "@label"
+msgid "Audio"
+msgstr "Zvuk"
+
+#: kitemviews/kfileitemmodel.cpp:2274
+#, kde-format
+msgctxt "@label"
+msgid "Genre"
+msgstr "Žánr"
+
+#: kitemviews/kfileitemmodel.cpp:2275
+#, kde-format
+msgctxt "@label"
+msgid "Album"
+msgstr "Album"
+
+#: kitemviews/kfileitemmodel.cpp:2276
+#, kde-format
+msgctxt "@label"
+msgid "Duration"
+msgstr "Trvání"
+
+#: kitemviews/kfileitemmodel.cpp:2277
+#, kde-format
+msgctxt "@label"
+msgid "Bitrate"
+msgstr "Datový tok"
+
+#: kitemviews/kfileitemmodel.cpp:2278
+#, kde-format
+msgctxt "@label"
+msgid "Track"
+msgstr "Skladba"
+
+#: kitemviews/kfileitemmodel.cpp:2279
+#, kde-format
+msgctxt "@label"
+msgid "Release Year"
+msgstr "Rok vydání"
+
+#: kitemviews/kfileitemmodel.cpp:2280
+#, kde-format
+msgctxt "@label"
+msgid "Path"
+msgstr "Cesta"
+
+#: kitemviews/kfileitemmodel.cpp:2280 kitemviews/kfileitemmodel.cpp:2281
+#: kitemviews/kfileitemmodel.cpp:2282 kitemviews/kfileitemmodel.cpp:2283
+#: kitemviews/kfileitemmodel.cpp:2284 kitemviews/kfileitemmodel.cpp:2285
+#: kitemviews/kfileitemmodel.cpp:2286
+#, kde-format
+msgctxt "@label"
+msgid "Other"
+msgstr "Ostatní"
+
+#: kitemviews/kfileitemmodel.cpp:2281
+#, kde-format
+msgctxt "@label"
+msgid "Deletion Time"
+msgstr "Čas vymazání"
+
+#: kitemviews/kfileitemmodel.cpp:2282
+#, kde-format
+msgctxt "@label"
+msgid "Link Destination"
+msgstr "Cíl odkazu"
+
+#: kitemviews/kfileitemmodel.cpp:2283
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "Staženo z"
+
+#: kitemviews/kfileitemmodel.cpp:2284
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "Oprávnění"
+
+#: kitemviews/kfileitemmodel.cpp:2285
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "Vlastník"
+
+#: kitemviews/kfileitemmodel.cpp:2286
+#, kde-format
+msgctxt "@label"
+msgid "User Group"
+msgstr "Uživatelská skupina"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:162
+#, kde-format
+msgctxt "@item:intable Image orientation"
+msgid "Unchanged"
+msgstr "Nezměněno"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:163
+#, kde-format
+msgctxt "@item:intable Image orientation"
+msgid "Horizontally flipped"
+msgstr "Převráceno vodorovně"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:164
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "180° rotated"
+msgstr "Otočeno o 180°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:165
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Vertically flipped"
+msgstr "Převráceno svisle"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:166
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Transposed"
+msgstr "Transponováno"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:167
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "90° rotated"
+msgstr "Otočeno o 90°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:168
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Transversed"
+msgstr "Převrácené"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:169
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "270° rotated"
+msgstr "Otočeno o 270°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:187
+#, kde-format
+msgctxt "@label bitrate (per second)"
+msgid "%1/s"
+msgstr "%1/s"
+
+#: kitemviews/private/kfileitemmodeldirlister.cpp:42
+#, kde-format
+msgctxt "@info:status"
+msgid "Unknown error."
+msgstr "Neznámá chyba."
+
+#: main.cpp:71
+#, kde-format
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: main.cpp:72
+#, kde-format
+msgctxt "@title"
+msgid "File Manager"
+msgstr "Správce souborů"
+
+#: main.cpp:74
+#, kde-format
+msgctxt "@info:credit"
+msgid "(C) 2006-2016 Peter Penz, Frank Reininghaus, and Emmanuel Pescosta"
+msgstr "(C) 2006-2016 Peter Penz, Frank Reininghaus a Emmanuel Pescosta"
+
+#: main.cpp:76
+#, kde-format
+msgctxt "@info:credit"
+msgid "Emmanuel Pescosta"
+msgstr "Emmanuel Pescosta"
+
+#: main.cpp:77
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer (since 2014) and developer"
+msgstr "Správce (od roku 2014) a vývojář"
+
+#: main.cpp:79
+#, kde-format
+msgctxt "@info:credit"
+msgid "Frank Reininghaus"
+msgstr "Frank Reininghaus"
+
+#: main.cpp:80
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer (2012-2014) and developer"
+msgstr "Správce (2012-2014) a vývojář"
+
+#: main.cpp:82
+#, kde-format
+msgctxt "@info:credit"
+msgid "Peter Penz"
+msgstr "Peter Penz"
+
+#: main.cpp:83
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer and developer (2006-2012)"
+msgstr "Správce a vývojář (2006-2012)"
+
+#: main.cpp:85
+#, kde-format
+msgctxt "@info:credit"
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: main.cpp:86 main.cpp:89 main.cpp:92 main.cpp:95 main.cpp:98 main.cpp:101
+#: main.cpp:104
+#, kde-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr "Vývojář"
+
+#: main.cpp:88
+#, kde-format
+msgctxt "@info:credit"
+msgid "David Faure"
+msgstr "David Faure"
+
+#: main.cpp:91
+#, kde-format
+msgctxt "@info:credit"
+msgid "Aaron J. Seigo"
+msgstr "Aaron J. Seigo"
+
+#: main.cpp:94
+#, kde-format
+msgctxt "@info:credit"
+msgid "Rafael Fernández López"
+msgstr "Rafael Fernández López"
+
+#: main.cpp:97
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kevin Ottens"
+msgstr "Kevin Ottens"
+
+#: main.cpp:100
+#, kde-format
+msgctxt "@info:credit"
+msgid "Holger Freyther"
+msgstr "Holger Freyther"
+
+#: main.cpp:103
+#, kde-format
+msgctxt "@info:credit"
+msgid "Max Blazejak"
+msgstr "Max Blazejak"
+
+#: main.cpp:106
+#, kde-format
+msgctxt "@info:credit"
+msgid "Michael Austin"
+msgstr "Michael Austin"
+
+#: main.cpp:107
+#, kde-format
+msgctxt "@info:credit"
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: main.cpp:119
+#, kde-format
+msgctxt "@info:shell"
+msgid "The files and folders passed as arguments will be selected."
+msgstr "Soubory a složky, předané jako argumenty, budou zvoleny."
+
+#: main.cpp:121
+#, kde-format
+msgctxt "@info:shell"
+msgid "Dolphin will get started with a split view."
+msgstr "Dolphin se spustí s rozděleným pohledem."
+
+#: main.cpp:122
+#, kde-format
+msgctxt "@info:shell"
+msgid "Start Dolphin Daemon (only required for DBus Interface)"
+msgstr "Spustit démona aplikace Dolphin (potřebný pro rozhraní DBus)"
+
+#: main.cpp:123
+#, kde-format
+msgctxt "@info:shell"
+msgid "Document to open"
+msgstr "Dokument k otevření"
+
+#. i18n: ectx: label, entry (HiddenFilesShown), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:10
+#, kde-format
+msgid "Hidden files shown"
+msgstr "Zobrazené skryté soubory"
+
+#. i18n: ectx: label, entry (LimitFoldersPanelToHome), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:14
+#, kde-format
+msgid "Limit folders panel to home directory if inside home"
+msgstr "Omezit panel složek na domovský adresář pokud se v něm nacházíte"
+
+#. i18n: ectx: label, entry (AutoScrolling), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:18
+#, kde-format
+msgid "Automatic scrolling"
+msgstr "Automatický posun"
+
+#: panels/folders/treeviewcontextmenu.cpp:66
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Cut"
+msgstr "Vyjmout"
+
+#: panels/folders/treeviewcontextmenu.cpp:70
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy"
+msgstr "Kopírovat"
+
+#: panels/folders/treeviewcontextmenu.cpp:86
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rename..."
+msgstr "Přejmenovat..."
+
+#: panels/folders/treeviewcontextmenu.cpp:100
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Move to Trash"
+msgstr "Přesunout do koše"
+
+#: panels/folders/treeviewcontextmenu.cpp:110
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "Smazat"
+
+#: panels/folders/treeviewcontextmenu.cpp:120
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Hidden Files"
+msgstr "Zobrazovat skryté soubory"
+
+#: panels/folders/treeviewcontextmenu.cpp:129
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Limit to Home Directory"
+msgstr "Omezit pro Domovský adresář"
+
+#: panels/folders/treeviewcontextmenu.cpp:137
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatic Scrolling"
+msgstr "Automatický posun"
+
+#: panels/folders/treeviewcontextmenu.cpp:147
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "Vlastnosti"
+
+#. i18n: ectx: label, entry (previewsShown), group (InformationPanel)
+#: panels/information/dolphin_informationpanelsettings.kcfg:10
+#, kde-format
+msgid "Previews shown"
+msgstr "Zobrazené náhledy"
+
+#. i18n: ectx: label, entry (dateFormat), group (InformationPanel)
+#: panels/information/dolphin_informationpanelsettings.kcfg:14
+#, kde-format
+msgid "Date display format"
+msgstr "Formát zobrazení data"
+
+#: panels/information/filemetadataconfigurationdialog.cpp:43
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Shown Data"
+msgstr "Nastavit zobrazená data"
+
+#: panels/information/filemetadataconfigurationdialog.cpp:55
+#, kde-format
+msgctxt "@label::textbox"
+msgid "Select which data should be shown:"
+msgstr "Zvolte, která data mají být zobrazena:"
+
+#: panels/information/informationpanelcontent.cpp:235
+#, kde-format
+msgctxt "@label"
+msgid "%1 item selected"
+msgid_plural "%1 items selected"
+msgstr[0] "Vybrána 1 položka"
+msgstr[1] "Vybrány %1 položky"
+msgstr[2] "Vybráno %1 položek"
+
+#: panels/information/informationpanelcontent.cpp:280
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Preview"
+msgstr "Náhled"
+
+#: panels/information/informationpanelcontent.cpp:285
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Configure..."
+msgstr "Nastavit..."
+
+#: panels/information/informationpanelcontent.cpp:289
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Condensed Date"
+msgstr "Zúžené datum"
+
+#: panels/information/informationpanelcontent.cpp:313
+#, kde-format
+msgctxt "@label::textbox"
+msgid "Select which data should be shown in the information panel:"
+msgstr "Zvolit, která data mají být v informačním panelu zobrazena:"
+
+#: panels/information/phononwidget.cpp:126
+#, kde-format
+msgid "play"
+msgstr "hrát"
+
+#: panels/information/phononwidget.cpp:132
+#, kde-format
+msgid "stop"
+msgstr "stop"
+
+#. i18n: ectx: label, entry (IconSize), group (PlacesPanel)
+#: panels/places/dolphin_placespanelsettings.kcfg:10
+#, kde-format
+msgid ""
+"Size of icons in the Places Panel (-1 means \"use the style's small size\")"
+msgstr ""
+"Velikost ikon v panelu Místa (-1 znamená \"použít malou velikost stylu\")"
+
+#: panels/places/placesitemeditdialog.cpp:136
+#, kde-format
+msgctxt "@label"
+msgid "Label:"
+msgstr "Popisek:"
+
+#: panels/places/placesitemeditdialog.cpp:138
+#, kde-format
+msgid "Enter descriptive label here"
+msgstr "Zde zadejte popisek"
+
+#: panels/places/placesitemeditdialog.cpp:142
+#, kde-format
+msgctxt "@label"
+msgid "Location:"
+msgstr "Umístění:"
+
+#: panels/places/placesitemeditdialog.cpp:149
+#, kde-format
+msgctxt "@label"
+msgid "Choose an icon:"
+msgstr "Vyberte ikonu:"
+
+#: panels/places/placesitemeditdialog.cpp:162
+#, kde-format
+msgid "&Only show when using this application (%1)"
+msgstr "Z&obrazovat pouze pro tuto aplikaci (%1)"
+
+#: panels/places/placesitemmodel.cpp:212
+#, kde-format
+msgctxt "@item"
+msgid "Eject"
+msgstr "Vysunout"
+
+#: panels/places/placesitemmodel.cpp:247
+#, kde-format
+msgctxt "@item"
+msgid "Release"
+msgstr "Vydání"
+
+#: panels/places/placesitemmodel.cpp:249
+#, kde-format
+msgctxt "@item"
+msgid "Safely Remove"
+msgstr "Bezpečně odstranit"
+
+#: panels/places/placesitemmodel.cpp:252
+#, kde-format
+msgctxt "@item"
+msgid "Unmount"
+msgstr "Odpojit"
+
+#: panels/places/placesitemmodel.cpp:274
+#, kde-format
+msgctxt "@info"
+msgid "The device '%1' is not a disk and cannot be ejected."
+msgstr "Zařízení '%1' není disk a nelze jej vysunout."
+
+#: panels/places/placesitemmodel.cpp:505
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while accessing '%1', the system responded: %2"
+msgstr "Nastala chyba při přístupu k '%1', systém odpověděl: %2"
+
+#: panels/places/placesitemmodel.cpp:509
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while accessing '%1'"
+msgstr "Nastala chyba při přístupu k '%1'"
+
+#: panels/places/placespanel.cpp:204
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Open in New Window"
+msgstr "Otevřít v novém okně"
+
+#: panels/places/placespanel.cpp:205
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Open in New Tab"
+msgstr "Otevřít v nové kartě"
+
+#: panels/places/placespanel.cpp:211
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Edit..."
+msgstr "Upravit..."
+
+#: panels/places/placespanel.cpp:216
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Remove"
+msgstr "Odstranit"
+
+#: panels/places/placespanel.cpp:219
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Hide"
+msgstr "Skrýt"
+
+#: panels/places/placespanel.cpp:266
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Add Entry..."
+msgstr "Přidat položku..."
+
+#: panels/places/placespanel.cpp:270
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Show All Entries"
+msgstr "Zobrazit všechny položky"
+
+#: panels/places/placespanel.cpp:277
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Icon Size"
+msgstr "Velikost ikon"
+
+#: panels/places/placespanel.cpp:288
+#, kde-format
+msgctxt "Small icon size"
+msgid "Small (%1x%2)"
+msgstr "Malé (%1x%2)"
+
+#: panels/places/placespanel.cpp:289
+#, kde-format
+msgctxt "Medium icon size"
+msgid "Medium (%1x%2)"
+msgstr "Střední (%1x%2)"
+
+#: panels/places/placespanel.cpp:290
+#, kde-format
+msgctxt "Large icon size"
+msgid "Large (%1x%2)"
+msgstr "Velké (%1x%2)"
+
+#: panels/places/placespanel.cpp:291
+#, kde-format
+msgctxt "Huge icon size"
+msgid "Huge (%1x%2)"
+msgstr "Obrovské (%1x%2)"
+
+#: panels/places/placespanel.cpp:337
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Hide Section '%1'"
+msgstr "Skrýt oddíl '%1'"
+
+#: panels/places/placespanel.cpp:452
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Places Entry"
+msgstr "Přidat položku míst"
+
+#: panels/places/placespanel.cpp:467
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Places Entry"
+msgstr "Upravit položku míst"
+
+#: panels/terminal/terminalpanel.cpp:149
+#, kde-format
+msgid ""
+"Terminal cannot be shown because Konsole is not installed. Please install it "
+"and then reopen the panel."
+msgstr ""
+"Terminál nelze zobrazit, protože Konsole není nainstalována. Prosím, "
+"nainstalujte ji a poté znovu otevřete panel."
+
+#: panels/terminal/terminalpanel.cpp:155
+#, kde-format
+msgid "Install Konsole"
+msgstr "Nainstalujte Konsole"
+
+#. i18n: ectx: label, entry (Location), group (Search)
+#: search/dolphin_searchsettings.kcfg:10
+#, kde-format
+msgid "Location"
+msgstr "Umístění"
+
+#. i18n: ectx: label, entry (What), group (Search)
+#: search/dolphin_searchsettings.kcfg:14
+#, kde-format
+msgid "What"
+msgstr "Co"
+
+#. i18n: ectx: label, entry (ShowFacetsWidget), group (Search)
+#: search/dolphin_searchsettings.kcfg:18
+#, kde-format
+msgid "Show facets widget"
+msgstr "Zobrazit widget charakteristik"
+
+#: search/dolphinfacetswidget.cpp:51
+#, kde-format
+msgctxt "@option:check"
+msgid "Any"
+msgstr "Cokoliv"
+
+#: search/dolphinfacetswidget.cpp:52
+#, kde-format
+msgctxt "@option:check"
+msgid "Folders"
+msgstr "Složky"
+
+#: search/dolphinfacetswidget.cpp:53
+#, kde-format
+msgctxt "@option:check"
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: search/dolphinfacetswidget.cpp:54
+#, kde-format
+msgctxt "@option:check"
+msgid "Images"
+msgstr "Obrázky"
+
+#: search/dolphinfacetswidget.cpp:55
+#, kde-format
+msgctxt "@option:check"
+msgid "Audio Files"
+msgstr "Audio soubory"
+
+#: search/dolphinfacetswidget.cpp:56
+#, kde-format
+msgctxt "@option:check"
+msgid "Videos"
+msgstr "Videa"
+
+#: search/dolphinfacetswidget.cpp:69
+#, kde-format
+msgctxt "@option:option"
+msgid "Anytime"
+msgstr "Kdykoliv"
+
+#: search/dolphinfacetswidget.cpp:70
+#, kde-format
+msgctxt "@option:option"
+msgid "Today"
+msgstr "Dnes"
+
+#: search/dolphinfacetswidget.cpp:71
+#, kde-format
+msgctxt "@option:option"
+msgid "Yesterday"
+msgstr "Včera"
+
+#: search/dolphinfacetswidget.cpp:72
+#, kde-format
+msgctxt "@option:option"
+msgid "This Week"
+msgstr "Tento týden"
+
+#: search/dolphinfacetswidget.cpp:73
+#, kde-format
+msgctxt "@option:option"
+msgid "This Month"
+msgstr "Tento měsíc"
+
+#: search/dolphinfacetswidget.cpp:74
+#, kde-format
+msgctxt "@option:option"
+msgid "This Year"
+msgstr "Tento rok"
+
+#: search/dolphinfacetswidget.cpp:87
+#, kde-format
+msgctxt "@option:option"
+msgid "Any Rating"
+msgstr "Jakékoliv hodnocení"
+
+#: search/dolphinfacetswidget.cpp:88
+#, kde-format
+msgctxt "@option:option"
+msgid "1 or more"
+msgstr "1 nebo více"
+
+#: search/dolphinfacetswidget.cpp:89
+#, kde-format
+msgctxt "@option:option"
+msgid "2 or more"
+msgstr "2 nebo více"
+
+#: search/dolphinfacetswidget.cpp:90
+#, kde-format
+msgctxt "@option:option"
+msgid "3 or more"
+msgstr "3 nebo více"
+
+#: search/dolphinfacetswidget.cpp:91
+#, kde-format
+msgctxt "@option:option"
+msgid "4 or more"
+msgstr "4 nebo více"
+
+#: search/dolphinfacetswidget.cpp:92
+#, kde-format
+msgctxt "@option:option"
+msgid "Highest Rating"
+msgstr "Nejvyšší hodnocení"
+
+#: search/dolphinsearchbox.cpp:100
+#, kde-format
+msgctxt "action:button"
+msgid "From Here (%1)"
+msgstr "Odsud (%1)"
+
+#: search/dolphinsearchbox.cpp:358
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Quit searching"
+msgstr "Ukončit hledání"
+
+#: search/dolphinsearchbox.cpp:378
+#, kde-format
+msgctxt "action:button"
+msgid "Save this search to quickly access it again in the future"
+msgstr "Uložit prohledávat pro rychlý přístup v budoucnosti"
+
+#: search/dolphinsearchbox.cpp:392
+#, kde-format
+msgctxt "action:button"
+msgid "Filename"
+msgstr "Název souboru"
+
+#: search/dolphinsearchbox.cpp:396
+#, kde-format
+msgctxt "action:button"
+msgid "Content"
+msgstr "Obsah"
+
+#: search/dolphinsearchbox.cpp:407
+#, kde-format
+msgctxt "action:button"
+msgid "From Here"
+msgstr "Odsud"
+
+#: search/dolphinsearchbox.cpp:411
+#, kde-format
+msgctxt "action:button"
+msgid "Everywhere"
+msgstr "Všude"
+
+#: search/dolphinsearchbox.cpp:423
+#, kde-format
+msgid "More Search Tools"
+msgstr "Více nástrojů vyhledávání"
+
+#: search/dolphinsearchbox.cpp:515
+#, kde-format
+msgctxt ""
+"@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
+"user entered."
+msgid "Query Results from '%1'"
+msgstr "Výsledky dotazu od %1"
+
+#: search/dolphinsearchbox.cpp:566
+#, kde-format
+msgctxt "action:button"
+msgid "Fewer Options"
+msgstr "Méně možností"
+
+#: search/dolphinsearchbox.cpp:566
+#, kde-format
+msgctxt "action:button"
+msgid "More Options"
+msgstr "Více možností"
+
+#. i18n: ectx: label, entry (UseSystemFont), group (CompactMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (DetailsMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:12
+#: settings/dolphin_detailsmodesettings.kcfg:16
+#: settings/dolphin_iconsmodesettings.kcfg:12
+#, kde-format
+msgid "Use system font"
+msgstr "Použít systémové písmo"
+
+#. i18n: ectx: label, entry (FontFamily), group (CompactMode)
+#. i18n: ectx: label, entry (FontFamily), group (DetailsMode)
+#. i18n: ectx: label, entry (FontFamily), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:16
+#: settings/dolphin_detailsmodesettings.kcfg:12
+#: settings/dolphin_iconsmodesettings.kcfg:16
+#, kde-format
+msgid "Font family"
+msgstr "Rodina písma"
+
+#. i18n: ectx: label, entry (FontSize), group (CompactMode)
+#. i18n: ectx: label, entry (FontSize), group (DetailsMode)
+#. i18n: ectx: label, entry (FontSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:20
+#: settings/dolphin_detailsmodesettings.kcfg:20
+#: settings/dolphin_iconsmodesettings.kcfg:20
+#, kde-format
+msgid "Font size"
+msgstr "Velikost písma"
+
+#. i18n: ectx: label, entry (ItalicFont), group (CompactMode)
+#. i18n: ectx: label, entry (ItalicFont), group (DetailsMode)
+#. i18n: ectx: label, entry (ItalicFont), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:24
+#: settings/dolphin_detailsmodesettings.kcfg:24
+#: settings/dolphin_iconsmodesettings.kcfg:24
+#, kde-format
+msgid "Italic"
+msgstr "Kurzíva"
+
+#. i18n: ectx: label, entry (FontWeight), group (CompactMode)
+#. i18n: ectx: label, entry (FontWeight), group (DetailsMode)
+#. i18n: ectx: label, entry (FontWeight), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:28
+#: settings/dolphin_detailsmodesettings.kcfg:28
+#: settings/dolphin_iconsmodesettings.kcfg:28
+#, kde-format
+msgid "Font weight"
+msgstr "Váha písma"
+
+#. i18n: ectx: label, entry (IconSize), group (CompactMode)
+#. i18n: ectx: label, entry (IconSize), group (DetailsMode)
+#. i18n: ectx: label, entry (IconSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:32
+#: settings/dolphin_detailsmodesettings.kcfg:32
+#: settings/dolphin_iconsmodesettings.kcfg:32
+#, kde-format
+msgid "Icon size"
+msgstr "Velikost ikony"
+
+#. i18n: ectx: label, entry (PreviewSize), group (CompactMode)
+#. i18n: ectx: label, entry (PreviewSize), group (DetailsMode)
+#. i18n: ectx: label, entry (PreviewSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:36
+#: settings/dolphin_detailsmodesettings.kcfg:36
+#: settings/dolphin_iconsmodesettings.kcfg:36
+#, kde-format
+msgid "Preview size"
+msgstr "Velikost náhledu"
+
+#. i18n: ectx: label, entry (MaximumTextWidthIndex), group (CompactMode)
+#: settings/dolphin_compactmodesettings.kcfg:40
+#, kde-format
+msgid "Maximum text width index (0 means unlimited)"
+msgstr "Maximální index šířky textu (0 - neomezeně)"
+
+#. i18n: ectx: label, entry (ColumnPositions), group (DetailsMode)
+#: settings/dolphin_detailsmodesettings.kcfg:40
+#, kde-format
+msgid "Position of columns"
+msgstr "Pozice sloupců"
+
+#. i18n: ectx: label, entry (ExpandableFolders), group (DetailsMode)
+#: settings/dolphin_detailsmodesettings.kcfg:44
+#, kde-format
+msgid "Expandable folders"
+msgstr "Rozbalitelné složky"
+
+#. i18n: ectx: label, entry (HiddenFilesShown), group (Settings)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:11
+#, kde-format
+msgctxt "@label"
+msgid "Hidden files shown"
+msgstr "Zobrazené skryté soubory"
+
+#. i18n: ectx: whatsthis, entry (HiddenFilesShown), group (Settings)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:12
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled hidden files, such as those starting with a '.', "
+"will be shown in the file view."
+msgstr ""
+"Pokud je tato volba povolena, skryté soubory, jako třeba ty začínající "
+"tečkou, budou zobrazeny."
+
+#. i18n: ectx: label, entry (Version), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:19
+#, kde-format
+msgctxt "@label"
+msgid "Version"
+msgstr "Verze"
+
+#. i18n: ectx: whatsthis, entry (Version), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:20
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "This option defines the used version of the view properties."
+msgstr "Tato volba definuje použitou verzi pohledu vlastnosti."
+
+#. i18n: ectx: label, entry (ViewMode), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:25
+#, kde-format
+msgctxt "@label"
+msgid "View Mode"
+msgstr "Režim zobrazení"
+
+#. i18n: ectx: whatsthis, entry (ViewMode), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:26
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This option controls the style of the view. Currently supported values "
+"include icons (0), details (1) and column (2) views."
+msgstr ""
+"Tato volba kontroluje styl náhledu. Současné podporované hodnoty jsou ikony "
+"(0), podrobnosti (1) a sloupcová (2) zobrazení."
+
+#. i18n: ectx: label, entry (PreviewsShown), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:31
+#, kde-format
+msgctxt "@label"
+msgid "Previews shown"
+msgstr "Zobrazené náhledy"
+
+#. i18n: ectx: whatsthis, entry (PreviewsShown), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:32
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled, a preview of the file content is shown as an "
+"icon."
+msgstr ""
+"Pokud je tato volba povolena, náhled na obsah souboru je zobrazen ve formě "
+"ikony."
+
+#. i18n: ectx: label, entry (GroupedSorting), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:37
+#, kde-format
+msgctxt "@label"
+msgid "Grouped Sorting"
+msgstr "Třídění podle skupin"
+
+#. i18n: ectx: whatsthis, entry (GroupedSorting), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:38
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled, the sorted items are categorized into groups."
+msgstr "Pokud je tato volba povolena, položky jsou rozděleny do skupin."
+
+#. i18n: ectx: label, entry (SortRole), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:43
+#, kde-format
+msgctxt "@label"
+msgid "Sort files by"
+msgstr "Seřadit soubory podle"
+
+#. i18n: ectx: whatsthis, entry (SortRole), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:44
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This option defines which attribute (text, size, date, etc.) sorting is "
+"performed on."
+msgstr ""
+"Tato volba určuje, podle kterého klíče (text, velikost, datum apod.) probíhá "
+"třídění."
+
+#. i18n: ectx: label, entry (SortOrder), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:49
+#, kde-format
+msgctxt "@label"
+msgid "Order in which to sort files"
+msgstr "Jakým způsobem řadit soubory"
+
+#. i18n: ectx: label, entry (SortFoldersFirst), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:56
+#, kde-format
+msgctxt "@label"
+msgid "Show folders first when sorting files and folders"
+msgstr "Při seřazování položek nejdříve zobrazovat složky"
+
+#. i18n: ectx: label, entry (VisibleRoles), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:61
+#, kde-format
+msgctxt "@label"
+msgid "Visible roles"
+msgstr "Viditelné role"
+
+#. i18n: ectx: label, entry (HeaderColumnWidths), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:66
+#, kde-format
+msgctxt "@label"
+msgid "Header column widths"
+msgstr "Šířky sloupce záhlaví"
+
+#. i18n: ectx: label, entry (Timestamp), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:71
+#, kde-format
+msgctxt "@label"
+msgid "Properties last changed"
+msgstr "Vlastnosti změněné naposled"
+
+#. i18n: ectx: whatsthis, entry (Timestamp), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:72
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "The last time these properties were changed by the user."
+msgstr "Kdy naposled byly tyto vlastnosti uživatelem změněny."
+
+#. i18n: ectx: label, entry (AdditionalInfo), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:77
+#, kde-format
+msgctxt "@label"
+msgid "Additional Information"
+msgstr "Dodatečné informace"
+
+#. i18n: ectx: label, entry (EditableUrl), group (General)
+#: settings/dolphin_generalsettings.kcfg:14
+#, kde-format
+msgid "Should the URL be editable for the user"
+msgstr "Zda má být URL uživatelem měnitelná"
+
+#. i18n: ectx: label, entry (UrlCompletionMode), group (General)
+#: settings/dolphin_generalsettings.kcfg:18
+#, kde-format
+msgid "Text completion mode of the URL Navigator"
+msgstr "Režim doplňování textu v navigátoru URL"
+
+#. i18n: ectx: label, entry (ShowFullPath), group (General)
+#: settings/dolphin_generalsettings.kcfg:22
+#, kde-format
+msgid "Should the full path be shown inside the location bar"
+msgstr "Zobrazovat kompletní cestu v panelu umístění"
+
+#. i18n: ectx: label, entry (ShowFullPathInTitlebar), group (General)
+#: settings/dolphin_generalsettings.kcfg:26
+#, kde-format
+msgid "Should the full path be shown in the title bar"
+msgstr "Zobrazovat kompletní cestu v pruhu názvu"
+
+#. i18n: ectx: label, entry (Version), group (General)
+#: settings/dolphin_generalsettings.kcfg:30
+#, kde-format
+msgid ""
+"Internal version of Dolphin, containing 3 digits for major, minor, bugfix"
+msgstr "Interní verze Dolphinu obsahující 3 čísla pro minor, major a opravu"
+
+#. i18n: ectx: label, entry (ModifiedStartupSettings), group (General)
+#: settings/dolphin_generalsettings.kcfg:34
+#, kde-format
+msgid ""
+"Have the startup settings been modified (internal setting not shown in the "
+"UI)"
+msgstr "Bylo výchozí nastavení změněno (vnitřní nastavení není zobrazeno v UI)"
+
+#. i18n: ectx: label, entry (HomeUrl), group (General)
+#: settings/dolphin_generalsettings.kcfg:38
+#, kde-format
+msgid "Home URL"
+msgstr "Domovská URL"
+
+#. i18n: ectx: label, entry (SplitView), group (General)
+#: settings/dolphin_generalsettings.kcfg:42
+#, kde-format
+msgid "Split the view into two panes"
+msgstr "Rozdělit pohled na dva panely"
+
+#. i18n: ectx: label, entry (FilterBar), group (General)
+#: settings/dolphin_generalsettings.kcfg:46
+#, kde-format
+msgid "Should the filter bar be shown"
+msgstr "Zda má být zobrazen filtrovací panel"
+
+#. i18n: ectx: label, entry (GlobalViewProps), group (General)
+#: settings/dolphin_generalsettings.kcfg:50
+#, kde-format
+msgid "Should the view properties be used for all folders"
+msgstr "Používat společné vlastnosti pohledů pro všechny složky"
+
+#. i18n: ectx: label, entry (BrowseThroughArchives), group (General)
+#: settings/dolphin_generalsettings.kcfg:54
+#, kde-format
+msgid "Browse through archives"
+msgstr "Procházet archivy"
+
+#. i18n: ectx: label, entry (ConfirmClosingMultipleTabs), group (General)
+#: settings/dolphin_generalsettings.kcfg:58
+#, kde-format
+msgid "Ask for confirmation when closing windows with multiple tabs."
+msgstr "Zeptat se na potvrzení při zavírání oken s více kartami."
+
+#. i18n: ectx: label, entry (RenameInline), group (General)
+#: settings/dolphin_generalsettings.kcfg:62
+#, kde-format
+msgid "Rename inline"
+msgstr "Přejmenovat na místě"
+
+#. i18n: ectx: label, entry (ShowSelectionToggle), group (General)
+#: settings/dolphin_generalsettings.kcfg:66
+#, kde-format
+msgid "Show selection toggle"
+msgstr "Zobrazit přepínač výběru"
+
+#. i18n: ectx: label, entry (UseTabForSwitchingSplitView), group (General)
+#: settings/dolphin_generalsettings.kcfg:70
+#, kde-format
+msgid "Use tab for switching between right and left split"
+msgstr "Použít Tab k přepínání mezi levou a pravou při rozdělení"
+
+#. i18n: ectx: label, entry (ShowToolTips), group (General)
+#: settings/dolphin_generalsettings.kcfg:74
+#, kde-format
+msgid "Show tooltips"
+msgstr "Zobrazovat nástrojové tipy"
+
+#. i18n: ectx: label, entry (ShowCopyMoveMenu), group (General)
+#: settings/dolphin_generalsettings.kcfg:78
+#, kde-format
+msgid "Show 'Copy To' and 'Move To' commands in context menu"
+msgstr "Zobrazit příkazy 'Kopírovat do' a 'Přesunout do' v místní nabídce"
+
+#. i18n: ectx: label, entry (ViewPropsTimestamp), group (General)
+#: settings/dolphin_generalsettings.kcfg:82
+#, kde-format
+msgid "Timestamp since when the view properties are valid"
+msgstr "Okamžik, od kdy platí vlastnosti pohledu"
+
+#. i18n: ectx: label, entry (AutoExpandFolders), group (General)
+#: settings/dolphin_generalsettings.kcfg:85
+#, kde-format
+msgid "Use auto-expanding folders for all view types"
+msgstr "Použít samorozbalovací složky pro všechny typy pohledů"
+
+#. i18n: ectx: label, entry (ShowZoomSlider), group (General)
+#: settings/dolphin_generalsettings.kcfg:89
+#, kde-format
+msgid "Show zoom slider in the statusbar"
+msgstr "Zobrazovat jezdec zvětšování ve stavovém panelu"
+
+#. i18n: ectx: label, entry (ShowSpaceInfo), group (General)
+#: settings/dolphin_generalsettings.kcfg:93
+#, kde-format
+msgid "Show the space information in the statusbar"
+msgstr "Zobrazovat informace o volném místě ve stavovém řádku"
+
+#. i18n: ectx: label, entry (LockPanels), group (General)
+#: settings/dolphin_generalsettings.kcfg:97
+#, kde-format
+msgid "Lock the layout of the panels"
+msgstr "Zamknout rozvržení panelů"
+
+#. i18n: ectx: label, entry (EnlargeSmallPreviews), group (General)
+#: settings/dolphin_generalsettings.kcfg:101
+#, kde-format
+msgid "Enlarge Small Previews"
+msgstr "Zvětšit malé náhledy"
+
+#. i18n: ectx: label, entry (SortingChoice), group (General)
+#: settings/dolphin_generalsettings.kcfg:110
+#, kde-format
+msgid ""
+"Choose Natural, Case Sensitive, or Case Insensitive order of sorting the "
+"items"
+msgstr ""
+"Vyberte si režim řazení položek přirozený, rozlišující nebo nerozlišující "
+"velká písmena"
+
+#. i18n: ectx: label, entry (TextWidthIndex), group (IconsMode)
+#: settings/dolphin_iconsmodesettings.kcfg:40
+#, kde-format
+msgid "Text width index"
+msgstr "Index šířky textu"
+
+#. i18n: ectx: label, entry (MaximumTextLines), group (IconsMode)
+#: settings/dolphin_iconsmodesettings.kcfg:44
+#, kde-format
+msgid "Maximum textlines (0 means unlimited)"
+msgstr "Maximální počet řádků textu (0 - neomezeně)"
+
+#. i18n: ectx: label, entry (enabledPlugins), group (VersionControl)
+#: settings/dolphin_versioncontrolsettings.kcfg:10
+#, kde-format
+msgid "Enabled plugins"
+msgstr "Povolené moduly"
+
+#: settings/dolphinsettingsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Dolphin Preferences"
+msgstr "Nastavení Dolphin"
+
+#: settings/dolphinsettingsdialog.cpp:61
+#, kde-format
+msgctxt "@title:group General settings"
+msgid "General"
+msgstr "Obecné"
+
+#: settings/dolphinsettingsdialog.cpp:68
+#, kde-format
+msgctxt "@title:group"
+msgid "Startup"
+msgstr "Při spuštění"
+
+#: settings/dolphinsettingsdialog.cpp:75
+#, kde-format
+msgctxt "@title:group"
+msgid "View Modes"
+msgstr "Režimy pohledu"
+
+#: settings/dolphinsettingsdialog.cpp:82
+#, kde-format
+msgctxt "@title:group"
+msgid "Navigation"
+msgstr "Navigace"
+
+#: settings/dolphinsettingsdialog.cpp:89
+#, kde-format
+msgctxt "@title:group"
+msgid "Services"
+msgstr "Služby"
+
+#: settings/dolphinsettingsdialog.cpp:97
+#, kde-format
+msgctxt "@title:group"
+msgid "Trash"
+msgstr "Koš"
+
+#: settings/general/behaviorsettingspage.cpp:51
+#, kde-format
+msgctxt "@option:radio"
+msgid "Remember properties for each folder"
+msgstr "Zapamatovat si vlastnosti pro každou složku"
+
+#: settings/general/behaviorsettingspage.cpp:52
+#, kde-format
+msgctxt "@option:radio"
+msgid "Use common properties for all folders"
+msgstr "Používat společné vlastnosti pro všechny složky"
+
+#: settings/general/behaviorsettingspage.cpp:57
+#, kde-format
+msgctxt "@title:group"
+msgid "View: "
+msgstr "Pohled: "
+
+#: settings/general/behaviorsettingspage.cpp:65
+#, kde-format
+msgctxt "option:radio"
+msgid "Natural"
+msgstr "Přirozený"
+
+#: settings/general/behaviorsettingspage.cpp:66
+#, kde-format
+msgctxt "option:radio"
+msgid "Alphabetical, case insensitive"
+msgstr "Podle abecedy, nerozlišovat velikost písma"
+
+#: settings/general/behaviorsettingspage.cpp:67
+#, kde-format
+msgctxt "option:radio"
+msgid "Alphabetical, case sensitive"
+msgstr "Podle abecedy, rozlišovat velikost písma"
+
+#: settings/general/behaviorsettingspage.cpp:73
+#, kde-format
+msgctxt "@title:group"
+msgid "Sorting mode: "
+msgstr "Režim řazení: "
+
+#: settings/general/behaviorsettingspage.cpp:82
+#, kde-format
+msgctxt "@option:check"
+msgid "Show tooltips"
+msgstr "Zobrazovat nástrojové tipy"
+
+#: settings/general/behaviorsettingspage.cpp:83
+#, kde-format
+msgctxt "@title:group"
+msgid "Miscellaneous: "
+msgstr "Různé: "
+
+#: settings/general/behaviorsettingspage.cpp:86
+#, kde-format
+msgctxt "@option:check"
+msgid "Show selection marker"
+msgstr "Zobrazit značkovač výběru"
+
+#: settings/general/behaviorsettingspage.cpp:90
+#, kde-format
+msgctxt "option:check"
+msgid "Rename inline"
+msgstr "Přejmenovat na místě"
+
+#: settings/general/behaviorsettingspage.cpp:94
+#, kde-format
+msgctxt "option:check"
+msgid "Switch between split views with tab key"
+msgstr "Přepnout se mezi rozdělenými pohledy pomocí klávesy Tab"
+
+#: settings/general/configurepreviewplugindialog.cpp:49
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Preview for %1"
+msgstr "Nastavit náhled pro %1"
+
+#: settings/general/confirmationssettingspage.cpp:47
+#, kde-format
+msgctxt "@title:group"
+msgid "Ask for confirmation in all KDE applications when:"
+msgstr "Žádat o potvrzení ve všech aplikacích KDE když:"
+
+#: settings/general/confirmationssettingspage.cpp:51
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Moving files or folders to trash"
+msgstr "Přesouvání souborů nebo složek do koše"
+
+#: settings/general/confirmationssettingspage.cpp:53
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Emptying trash"
+msgstr "Vyprazdňuji koš"
+
+#: settings/general/confirmationssettingspage.cpp:55
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Deleting files or folders"
+msgstr "Mazání souborů nebo složek"
+
+#: settings/general/confirmationssettingspage.cpp:57
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Executing scripts or desktop files"
+msgstr "Spouštění skriptů nebo souborů plochy"
+
+#: settings/general/confirmationssettingspage.cpp:59
+#, kde-format
+msgctxt "@title:group"
+msgid "Ask for confirmation in Dolphin when:"
+msgstr "Dotazovat se na potvrzení v Dolphinu když:"
+
+#: settings/general/confirmationssettingspage.cpp:63
+#, kde-format
+msgctxt "@option:check Ask for confirmation in Dolphin when"
+msgid "Closing windows with multiple tabs"
+msgstr "Zavírání oken s více kartami"
+
+#: settings/general/generalsettingspage.cpp:44
+#: settings/kcm/kcmdolphingeneral.cpp:50
+#, kde-format
+msgctxt "@title:tab Behavior settings"
+msgid "Behavior"
+msgstr "Chování"
+
+#: settings/general/generalsettingspage.cpp:49
+#: settings/kcm/kcmdolphingeneral.cpp:55
+#, kde-format
+msgctxt "@title:tab Previews settings"
+msgid "Previews"
+msgstr "Náhledy"
+
+#: settings/general/generalsettingspage.cpp:54
+#: settings/kcm/kcmdolphingeneral.cpp:60
+#, kde-format
+msgctxt "@title:tab Confirmations settings"
+msgid "Confirmations"
+msgstr "Potvrzování"
+
+#: settings/general/generalsettingspage.cpp:59
+#, kde-format
+msgctxt "@title:tab Status Bar settings"
+msgid "Status Bar"
+msgstr "Stavový panel"
+
+#: settings/general/previewssettingspage.cpp:52
+#, kde-format
+msgctxt "@title:group"
+msgid "Show previews for:"
+msgstr "Zobrazit náhledy pro:"
+
+#: settings/general/previewssettingspage.cpp:69
+#, kde-format
+msgctxt "@label"
+msgid "Skip previews for remote files above:"
+msgstr "Přeskočit náhled pro vzdálené soubory nad:"
+
+#: settings/general/statusbarsettingspage.cpp:34
+#, kde-format
+msgctxt "@option:check"
+msgid "Show zoom slider"
+msgstr "Zobrazovat jezdec zvětšování"
+
+#: settings/general/statusbarsettingspage.cpp:35
+#, kde-format
+msgctxt "@option:check"
+msgid "Show space information"
+msgstr "Zobrazovat informace o volném místě"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:51
+#: settings/viewmodes/viewsettingspage.cpp:42
+#, kde-format
+msgctxt "@title:tab"
+msgid "Icons"
+msgstr "Ikony"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:56
+#: settings/viewmodes/viewsettingspage.cpp:47
+#, kde-format
+msgctxt "@title:tab"
+msgid "Compact"
+msgstr "Kompaktní"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:61
+#: settings/viewmodes/viewsettingspage.cpp:52
+#, kde-format
+msgctxt "@title:tab"
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: settings/navigation/navigationsettingspage.cpp:40
+#, kde-format
+msgctxt "@option:check"
+msgid "Open archives as folder"
+msgstr "Otevírat archivy jako složky"
+
+#: settings/navigation/navigationsettingspage.cpp:43
+#, kde-format
+msgctxt "option:check"
+msgid "Open folders during drag operations"
+msgstr "Při přetahování otevírat složky"
+
+#: settings/services/servicessettingspage.cpp:60
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Select which services should be shown in the context menu:"
+msgstr "Zvolte, které služby budou v místní nabídce zobrazeny:"
+
+#: settings/services/servicessettingspage.cpp:75
+#, kde-format
+msgctxt "@action:button"
+msgid "Download New Services..."
+msgstr "Stáhnout nové služby..."
+
+#: settings/services/servicessettingspage.cpp:133
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Dolphin must be restarted to apply the updated version control systems "
+"settings."
+msgstr ""
+"Je třeba restartovat Dolphin kvůli aktualizaci nastavení systémů pro správu "
+"verzí."
+
+#: settings/services/servicessettingspage.cpp:165
+#, kde-format
+msgctxt "@option:check"
+msgid "Delete"
+msgstr "Smazat"
+
+#: settings/services/servicessettingspage.cpp:171
+#, kde-format
+msgctxt "@option:check"
+msgid "'Copy To' and 'Move To' commands"
+msgstr "Příkazy \"Kopírovat do\" a \"Přesunout do\""
+
+#: settings/services/servicessettingspage.cpp:206
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: settings/startup/startupsettingspage.cpp:63
+#, kde-format
+msgctxt "@action:button"
+msgid "Select Home Location"
+msgstr "Vyberte umístění domovského adresáře"
+
+#: settings/startup/startupsettingspage.cpp:72
+#, kde-format
+msgctxt "@action:button"
+msgid "Use Current Location"
+msgstr "Použít aktuální umístění"
+
+#: settings/startup/startupsettingspage.cpp:76
+#, kde-format
+msgctxt "@action:button"
+msgid "Use Default Location"
+msgstr "Použít výchozí umístění"
+
+#: settings/startup/startupsettingspage.cpp:86
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Start in:"
+msgstr "Začít v:"
+
+#: settings/startup/startupsettingspage.cpp:93
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Split view mode"
+msgstr "Režim s rozděleným pohledem"
+
+#: settings/startup/startupsettingspage.cpp:94
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "Window options:"
+msgstr "Možnosti okna:"
+
+#: settings/startup/startupsettingspage.cpp:95
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Editable location bar"
+msgstr "Upravitelný panel umístění"
+
+#: settings/startup/startupsettingspage.cpp:97
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show full path inside location bar"
+msgstr "Zobrazovat kompletní cestu v panelu umístění"
+
+#: settings/startup/startupsettingspage.cpp:99
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show filter bar"
+msgstr "Zobrazit panel pro filtrování"
+
+#: settings/startup/startupsettingspage.cpp:101
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show full path in title bar"
+msgstr "Zobrazit celou cestu v pruhu názvu"
+
+#: settings/startup/startupsettingspage.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The location for the home folder is invalid or does not exist, it will not "
+"be applied."
+msgstr "Umístění domovské složky je neplatné nebo neexistuje a nebude použito."
+
+#: settings/viewmodes/dolphinfontrequester.cpp:41
+#, kde-format
+msgctxt "@item:inlistbox Font"
+msgid "System Font"
+msgstr "Systémové písmo"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:42
+#, kde-format
+msgctxt "@item:inlistbox Font"
+msgid "Custom Font"
+msgstr "Vlastní písmo"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:46
+#, kde-format
+msgctxt "@action:button Choose font"
+msgid "Choose..."
+msgstr "Vybrat..."
+
+#: settings/viewmodes/viewsettingstab.cpp:60
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Default icon size:"
+msgstr "Výchozí velikost ikony:"
+
+#: settings/viewmodes/viewsettingstab.cpp:68
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Preview icon size:"
+msgstr "Velikost ikony náhledu:"
+
+#: settings/viewmodes/viewsettingstab.cpp:76
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Label font:"
+msgstr "Písmo popisky:"
+
+#: settings/viewmodes/viewsettingstab.cpp:82
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Small"
+msgstr "Malé"
+
+#: settings/viewmodes/viewsettingstab.cpp:83
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Medium"
+msgstr "Střední"
+
+#: settings/viewmodes/viewsettingstab.cpp:84
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Large"
+msgstr "Velké"
+
+#: settings/viewmodes/viewsettingstab.cpp:85
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Huge"
+msgstr "Obrovské"
+
+#: settings/viewmodes/viewsettingstab.cpp:86
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Label width:"
+msgstr "Šířka popisky:"
+
+#: settings/viewmodes/viewsettingstab.cpp:89
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "Unlimited"
+msgstr "Bez omezení"
+
+#: settings/viewmodes/viewsettingstab.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "1"
+msgstr "1"
+
+#: settings/viewmodes/viewsettingstab.cpp:91
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "2"
+msgstr "2"
+
+#: settings/viewmodes/viewsettingstab.cpp:92
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "3"
+msgstr "3"
+
+#: settings/viewmodes/viewsettingstab.cpp:93
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "4"
+msgstr "4"
+
+#: settings/viewmodes/viewsettingstab.cpp:94
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "5"
+msgstr "5"
+
+#: settings/viewmodes/viewsettingstab.cpp:95
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Maximum lines:"
+msgstr "Max řádků:"
+
+#: settings/viewmodes/viewsettingstab.cpp:100
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Unlimited"
+msgstr "Bez omezení"
+
+#: settings/viewmodes/viewsettingstab.cpp:101
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Small"
+msgstr "Malá"
+
+#: settings/viewmodes/viewsettingstab.cpp:102
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Medium"
+msgstr "Střední"
+
+#: settings/viewmodes/viewsettingstab.cpp:103
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Large"
+msgstr "Velká"
+
+#: settings/viewmodes/viewsettingstab.cpp:104
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Maximum width:"
+msgstr "Maximální šířka:"
+
+#: settings/viewmodes/viewsettingstab.cpp:108
+#, kde-format
+msgctxt "@option:check"
+msgid "Expandable"
+msgstr "Rozbalitelné"
+
+#: settings/viewmodes/viewsettingstab.cpp:109
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "Folders:"
+msgstr "Složky:"
+
+#: settings/viewmodes/viewsettingstab.cpp:258
+#: statusbar/dolphinstatusbar.cpp:323
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Size: 1 pixel"
+msgid_plural "Size: %1 pixels"
+msgstr[0] "Velikost: %1 pixel"
+msgstr[1] "Velikost: %1 pixely"
+msgstr[2] "Velikost: %1 pixelů"
+
+#: settings/viewpropertiesdialog.cpp:71
+#, kde-format
+msgctxt "@title:window"
+msgid "View Properties"
+msgstr "Vlastnosti pohledu"
+
+#: settings/viewpropertiesdialog.cpp:84
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Icons"
+msgstr "Ikony"
+
+#: settings/viewpropertiesdialog.cpp:85
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Compact"
+msgstr "Kompaktní"
+
+#: settings/viewpropertiesdialog.cpp:86
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: settings/viewpropertiesdialog.cpp:89
+#, kde-format
+msgctxt "@item:inlistbox Sort"
+msgid "Ascending"
+msgstr "Vzestupně"
+
+#: settings/viewpropertiesdialog.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Sort"
+msgid "Descending"
+msgstr "Sestupně"
+
+#: settings/viewpropertiesdialog.cpp:98
+#, kde-format
+msgctxt "@option:check"
+msgid "Show folders first"
+msgstr "Zobrazovat nejdříve složky"
+
+#: settings/viewpropertiesdialog.cpp:99
+#, kde-format
+msgctxt "@option:check"
+msgid "Show preview"
+msgstr "Zobrazit náhled"
+
+#: settings/viewpropertiesdialog.cpp:100
+#, kde-format
+msgctxt "@option:check"
+msgid "Show in groups"
+msgstr "Zobrazit po skupinách"
+
+#: settings/viewpropertiesdialog.cpp:101
+#, kde-format
+msgctxt "@option:check"
+msgid "Show hidden files"
+msgstr "Zobrazit skryté soubory"
+
+#: settings/viewpropertiesdialog.cpp:104
+#, kde-format
+msgctxt "@title:group"
+msgid "Additional Information"
+msgstr "Dodatečné informace"
+
+#: settings/viewpropertiesdialog.cpp:144
+#, kde-format
+msgid "Choose what to see on each file or folder:"
+msgstr "Vyberte co chcete o každém souboru nebo složce zobrazit:"
+
+#: settings/viewpropertiesdialog.cpp:156
+#, kde-format
+msgctxt "@label:listbox"
+msgid "View mode:"
+msgstr "Režim prohlížení:"
+
+#: settings/viewpropertiesdialog.cpp:157
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Sorting:"
+msgstr "Třídění:"
+
+#: settings/viewpropertiesdialog.cpp:161
+#, kde-format
+msgid "View options:"
+msgstr "Možnosti pohledu:"
+
+#: settings/viewpropertiesdialog.cpp:186
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "Current folder"
+msgstr "Současná složka"
+
+#: settings/viewpropertiesdialog.cpp:189
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "Current folder and sub-folders"
+msgstr "Současná složka a podsložky"
+
+#: settings/viewpropertiesdialog.cpp:191
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "All folders"
+msgstr "Všechny složky"
+
+#: settings/viewpropertiesdialog.cpp:200
+#, kde-format
+msgctxt "@title:group"
+msgid "Apply to:"
+msgstr "Použít na:"
+
+#: settings/viewpropertiesdialog.cpp:205
+#, kde-format
+msgctxt "@option:check"
+msgid "Use as default view settings"
+msgstr "Použít jako výchozí nastavení pohledu"
+
+#: settings/viewpropertiesdialog.cpp:354
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The view properties of all sub-folders will be changed. Do you want to "
+"continue?"
+msgstr ""
+"Vlastnosti pohledu všech podsložek budou změněny. Přejete si pokračovat?"
+
+#: settings/viewpropertiesdialog.cpp:386
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The view properties of all folders will be changed. Do you want to continue?"
+msgstr "Vlastnosti pohledu všech složek budou změněny. Přejete si pokračovat?"
+
+#: settings/viewpropsprogressinfo.cpp:50
+#, kde-format
+msgctxt "@title:window"
+msgid "Applying View Properties"
+msgstr "Aplikují se vlastnosti pohledu"
+
+#: settings/viewpropsprogressinfo.cpp:63 settings/viewpropsprogressinfo.cpp:127
+#, kde-format
+msgctxt "@info:progress"
+msgid "Counting folders: %1"
+msgstr "Počítají se složky: %1"
+
+#: settings/viewpropsprogressinfo.cpp:143
+#, kde-format
+msgctxt "@info:progress"
+msgid "Folders: %1"
+msgstr "Složky: %1"
+
+#: statusbar/dolphinstatusbar.cpp:66
+#, kde-format
+msgid "Zoom"
+msgstr "Zvětšení"
+
+#: statusbar/dolphinstatusbar.cpp:67
+#, kde-format
+msgctxt "Description for zoom-slider (accessibility)"
+msgid "Sets the size of the file icons."
+msgstr "Nastaví velikost ikon souborů."
+
+#: statusbar/dolphinstatusbar.cpp:81
+#, kde-format
+msgid "Stop"
+msgstr "Zastavit"
+
+#: statusbar/dolphinstatusbar.cpp:83
+#, kde-format
+msgctxt "@tooltip"
+msgid "Stop loading"
+msgstr "Zastavit načítání"
+
+#: statusbar/dolphinstatusbar.cpp:261
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Zoom Slider"
+msgstr "Zobrazovat posuvník zvětšování"
+
+#: statusbar/dolphinstatusbar.cpp:265
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Space Information"
+msgstr "Zobrazovat informace o volném místě"
+
+#: statusbar/statusbarspaceinfo.cpp:93
+#, kde-format
+msgctxt "@info:status"
+msgid "Unknown size"
+msgstr "Neznámá velikost"
+
+#: statusbar/statusbarspaceinfo.cpp:101
+#, kde-format
+msgctxt "@info:status Free disk space"
+msgid "%1 free"
+msgstr "%1 volno"
+
+#: views/dolphinremoteencoding.cpp:51
+#, kde-format
+msgid "Select Remote Charset"
+msgstr "Vybrat vzdálenou znakovou sadu"
+
+#: views/dolphinremoteencoding.cpp:115
+#, kde-format
+msgid "Reload"
+msgstr "Obnovit"
+
+#: views/dolphinremoteencoding.cpp:116
+#, kde-format
+msgid "Default"
+msgstr "Výchozí"
+
+#: views/dolphinview.cpp:534
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder selected"
+msgid_plural "%1 Folders selected"
+msgstr[0] "Vybrána 1 složka"
+msgstr[1] "Vybrány %1 složky"
+msgstr[2] "Vybráno %1 složek"
+
+#: views/dolphinview.cpp:535
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File selected"
+msgid_plural "%1 Files selected"
+msgstr[0] "Vybrán 1 soubor"
+msgstr[1] "Vybrány %1 soubory"
+msgstr[2] "Vybráno %1 souborů"
+
+#: views/dolphinview.cpp:539
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder"
+msgid_plural "%1 Folders"
+msgstr[0] "1 složka"
+msgstr[1] "%1 složky"
+msgstr[2] "%1 složek"
+
+#: views/dolphinview.cpp:540
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File"
+msgid_plural "%1 Files"
+msgstr[0] "1 soubor"
+msgstr[1] "%1 soubory"
+msgstr[2] "%1 souborů"
+
+#: views/dolphinview.cpp:544
+#, kde-format
+msgctxt "@info:status folders, files (size)"
+msgid "%1, %2 (%3)"
+msgstr "%1, %2 (%3)"
+
+#: views/dolphinview.cpp:548
+#, kde-format
+msgctxt "@info:status files (size)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: views/dolphinview.cpp:554
+#, kde-format
+msgctxt "@info:status"
+msgid "0 Folders, 0 Files"
+msgstr "0 složek, 0 souborů"
+
+#: views/dolphinview.cpp:834
+#, kde-format
+msgid "Are you sure you want to open 1 item?"
+msgid_plural "Are you sure you want to open %1 items?"
+msgstr[0] "Opravdu si přejete otevřít 1 položku?"
+msgstr[1] "Opravdu si přejete otevřít %1 položky?"
+msgstr[2] "Opravdu si přejete otevřít %1 položek?"
+
+#: views/dolphinview.cpp:944
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatic Column Widths"
+msgstr "Automatické šířky sloupce"
+
+#: views/dolphinview.cpp:949
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Custom Column Widths"
+msgstr "Vlastní šířky sloupce"
+
+#: views/dolphinview.cpp:1450
+#, kde-format
+msgctxt "@info:status"
+msgid "Trash operation completed."
+msgstr "Operace s košem byla dokončena."
+
+#: views/dolphinview.cpp:1459
+#, kde-format
+msgctxt "@info:status"
+msgid "Delete operation completed."
+msgstr "Mazání dokončeno."
+
+#: views/dolphinview.cpp:1604
+#, kde-format
+msgctxt "@info:status"
+msgid "The location is empty."
+msgstr "Umístění je prázdné."
+
+#: views/dolphinview.cpp:1606
+#, kde-format
+msgctxt "@info:status"
+msgid "The location '%1' is invalid."
+msgstr "Umístění '%1' není platné."
+
+#: views/dolphinviewactionhandler.cpp:94
+#, kde-format
+msgctxt "@action"
+msgid "Create Folder..."
+msgstr "Vytvořit složku..."
+
+#: views/dolphinviewactionhandler.cpp:124
+#, kde-format
+msgctxt "@action \"Move to Trash\" for non-local files, etc."
+msgid "Delete (using shortcut for Trash)"
+msgstr "Smazat (použitím odkazu na koš)"
+
+#: views/dolphinviewactionhandler.cpp:131
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr "Vlastnosti"
+
+#: views/dolphinviewactionhandler.cpp:142
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "View Mode"
+msgstr "Režim zobrazení"
+
+#: views/dolphinviewactionhandler.cpp:158
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Preview"
+msgstr "Náhled"
+
+#: views/dolphinviewactionhandler.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid "Show preview of files and folders"
+msgstr "Zobrazit náhledy souborů a složek"
+
+#: views/dolphinviewactionhandler.cpp:164
+#, kde-format
+msgctxt "@action:inmenu Sort"
+msgid "Descending"
+msgstr "Sestupně"
+
+#: views/dolphinviewactionhandler.cpp:168
+#, kde-format
+msgctxt "@action:inmenu Sort"
+msgid "Folders First"
+msgstr "Složky první"
+
+#: views/dolphinviewactionhandler.cpp:175
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Sort By"
+msgstr "Řadit dle"
+
+#: views/dolphinviewactionhandler.cpp:189
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Additional Information"
+msgstr "Dodatečné informace"
+
+#: views/dolphinviewactionhandler.cpp:198
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Show in Groups"
+msgstr "Zobrazovat ve skupinách"
+
+#: views/dolphinviewactionhandler.cpp:202
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Hidden Files"
+msgstr "Skryté soubory"
+
+#: views/dolphinviewactionhandler.cpp:203
+#, kde-format
+msgctxt "@info"
+msgid "Visibility of hidden files and folders"
+msgstr "Viditelnost skrytých souborů a složek"
+
+#: views/dolphinviewactionhandler.cpp:208
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Adjust View Properties..."
+msgstr "Upravit vlastnosti pohledu..."
+
+#: views/dolphinviewactionhandler.cpp:492
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Icons"
+msgstr "Ikony"
+
+#: views/dolphinviewactionhandler.cpp:493
+#, kde-format
+msgctxt "@info"
+msgid "Icons view mode"
+msgstr "Režim zobrazení ikon"
+
+#: views/dolphinviewactionhandler.cpp:503
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Compact"
+msgstr "Kompaktní"
+
+#: views/dolphinviewactionhandler.cpp:504
+#, kde-format
+msgctxt "@info"
+msgid "Compact view mode"
+msgstr "Kompaktní režim zobrazení"
+
+#: views/dolphinviewactionhandler.cpp:514
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Details"
+msgstr "Podrobnosti"
+
+#: views/dolphinviewactionhandler.cpp:515
+#, kde-format
+msgctxt "@info"
+msgid "Details view mode"
+msgstr "Režim zobrazení podrobností"
+
+#: views/renamedialog.cpp:55
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Item"
+msgstr "Přejmenovat položku"
+
+#: views/renamedialog.cpp:56
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Items"
+msgstr "Přejmenovat položky"
+
+#: views/renamedialog.cpp:68
+#, kde-format
+msgctxt "@action:button"
+msgid "&Rename"
+msgstr "Pře&jmenovat"
+
+#: views/renamedialog.cpp:79
+#, kde-kuit-format
+msgctxt "@label:textbox"
+msgid "Rename the item <filename>%1</filename> to:"
+msgstr "Přejmenovat položku <filename>%1</filename> na:"
+
+#: views/renamedialog.cpp:83
+#, kde-format
+msgctxt "@info:status"
+msgid "New name #"
+msgstr "Nový název #"
+
+#: views/renamedialog.cpp:85
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Rename the %1 selected item to:"
+msgid_plural "Rename the %1 selected items to:"
+msgstr[0] "Přejmenovat vybranou položku na:"
+msgstr[1] "Přejmenovat %1 vybrané položky na:"
+msgstr[2] "Přejmenovat %1 vybraných položek na:"
+
+#: views/renamedialog.cpp:130
+#, kde-format
+msgctxt "@info"
+msgid "# will be replaced by ascending numbers starting with:"
+msgstr "# bude nahrazeno vzestupně čísly od:"
+
+#: views/versioncontrol/versioncontrolobserver.cpp:212
+#, kde-format
+msgctxt "@info:status"
+msgid "Updating version information..."
+msgstr "Aktualizuji informace o verzi..."

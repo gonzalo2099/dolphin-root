@@ -1,0 +1,3648 @@
+# translation of dolphin.po to Khmer
+# Khoem Sokhem <khoemsokhem@khmeros.info>, 2008, 2009, 2010, 2011, 2012.
+# Chan Sambathratanak <ratanak@khmeros.info>, 2011.
+# sutha <sutha@khmeros.info>, 2012.
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-08-05 06:08+0200\n"
+"PO-Revision-Date: 2012-12-18 08:25+0700\n"
+"Last-Translator: sutha <sutha@khmeros.info>\n"
+"Language-Team: Khmer <support@khmeros>\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: WordForge 0.8 RC1\n"
+"X-Language: km-KH\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "ខឹម សុខែម, ម៉ន ម៉េត, សេង សុត្ថា​​"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "khoemsokhem@khmeros.info,mornmet@khmeros.info,sutha@khmeros.info"
+
+#: dolphincontextmenu.cpp:144 panels/places/placespanel.cpp:198
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Empty Trash"
+msgstr "សម្អាត​ធុង​សំរាម"
+
+#: dolphincontextmenu.cpp:165
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Restore"
+msgstr "ស្តារ"
+
+#: dolphincontextmenu.cpp:214
+#, kde-format
+msgctxt "@action:inmenu Add selected folder to places"
+msgid "Add to Places"
+msgstr "បន្ថែម​ទៅ​កន្លែង"
+
+#: dolphincontextmenu.cpp:230 dolphinmainwindow.cpp:1070
+#, kde-format
+msgctxt "@title:menu Create new folder, file, link, etc."
+msgid "Create New"
+msgstr "បង្កើត​ថ្មី"
+
+#: dolphincontextmenu.cpp:240
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Open Path in New Tab"
+msgctxt "@action:inmenu"
+msgid "Open Path"
+msgstr "បើក​ផ្លូវ​​​នៅ​ក្នុង​ផ្ទាំង​ថ្មី"
+
+#: dolphincontextmenu.cpp:246
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path in New Window"
+msgstr "បើក​ផ្លូវ​​​នៅ​ក្នុង​បង្អួច​ថ្មី"
+
+#: dolphincontextmenu.cpp:252
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path in New Tab"
+msgstr "បើក​ផ្លូវ​​​នៅ​ក្នុង​ផ្ទាំង​ថ្មី"
+
+#: dolphincontextmenu.cpp:359
+#, kde-format
+msgctxt "@action:inmenu Add current folder to places"
+msgid "Add to Places"
+msgstr "បន្ថែម​ទៅ​កន្លែង"
+
+#: dolphinmainwindow.cpp:203
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully copied."
+msgstr "បាន​ចម្លង​ដោយ​​ជោគជ័យ ។"
+
+#: dolphinmainwindow.cpp:206
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully moved."
+msgstr "បាន​ផ្លាស់ទី​ដោយ​ជោគជ័យ ។"
+
+#: dolphinmainwindow.cpp:209
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully linked."
+msgstr "បាន​តភ្ជាប់​ដោយ​ជោគជ័យ ។"
+
+#: dolphinmainwindow.cpp:212
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully moved to trash."
+msgstr "បាន​ផ្លាស់ទី​ទៅ​ធុង​សំរាម​ដោយ​ជោគជ័យ ។"
+
+#: dolphinmainwindow.cpp:215
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully renamed."
+msgstr "បាន​ប្ដូរ​ឈ្មោះ​ដោយ​ជោគជ័យ"
+
+#: dolphinmainwindow.cpp:219
+#, kde-format
+msgctxt "@info:status"
+msgid "Created folder."
+msgstr "បាន​បង្កើតថត ។"
+
+#: dolphinmainwindow.cpp:292
+#, kde-format
+msgctxt "@info"
+msgid "Go back"
+msgstr "ថយក្រោយ"
+
+#: dolphinmainwindow.cpp:298
+#, kde-format
+msgctxt "@info"
+msgid "Go forward"
+msgstr "ទៅ​មុខ"
+
+#: dolphinmainwindow.cpp:372
+#, fuzzy, kde-kuit-format
+#| msgctxt "@info:status"
+#| msgid "Access denied. Could not write to <filename>%1</filename>"
+msgctxt "@info"
+msgid "Could not access <filename>%1</filename>."
+msgstr "បាន​បដិសេធ ។ មិន​អាច​សរសេរ​ទៅកាន់ <filename>%1</filename> បាន​ទេ ។"
+
+#: dolphinmainwindow.cpp:402
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirmation"
+msgstr "កា​រអះអាង"
+
+#: dolphinmainwindow.cpp:405
+#, kde-format
+msgctxt "@action:button 'Quit Dolphin' button"
+msgid "&Quit %1"
+msgstr ""
+
+#: dolphinmainwindow.cpp:406
+#, kde-format
+msgid "C&lose Current Tab"
+msgstr "បិទ​ផ្ទាំង​បច្ចុប្បន្ន"
+
+#: dolphinmainwindow.cpp:415
+#, kde-format
+msgid ""
+"You have multiple tabs open in this window, are you sure you want to quit?"
+msgstr "អ្នក​មាន​ផ្ទាំង​ជា​ច្រើន​បានបើក​នៅ​ក្នុង​បង្អួច​នេះ តើ​អ្នក​ប្រាកដ​ជា​ចង់​ចេញ​ដែរឬទេ ?"
+
+#: dolphinmainwindow.cpp:417
+#, kde-format
+msgid "Do not ask again"
+msgstr "កុំ​សួរ​ម្ដង​ទៀត"
+
+#: dolphinmainwindow.cpp:899
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Location Bar"
+msgstr "របារ​ទីតាំង"
+
+#: dolphinmainwindow.cpp:907
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Go"
+msgstr "ទៅ"
+
+#: dolphinmainwindow.cpp:916
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Tools"
+msgstr "ឧបករណ៍​"
+
+#: dolphinmainwindow.cpp:1035
+#, fuzzy, kde-format
+#| msgctxt "@item"
+#| msgid "Search For"
+msgid "Search"
+msgstr "ស្វែងរក​"
+
+#: dolphinmainwindow.cpp:1037
+#, fuzzy, kde-format
+#| msgctxt "@item"
+#| msgid "Search For"
+msgid "Search for %1"
+msgstr "ស្វែងរក​"
+
+#: dolphinmainwindow.cpp:1077
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "New &Window"
+msgstr "បង្អួច​ថ្មី"
+
+#: dolphinmainwindow.cpp:1081
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "New Tab"
+msgstr "ផ្ទាំង​ថ្មី"
+
+#: dolphinmainwindow.cpp:1087
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Close Tab"
+msgstr "បិទ​​ផ្ទាំង"
+
+#: dolphinmainwindow.cpp:1104
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Paste"
+msgstr "បិទភ្ជាប់"
+
+#: dolphinmainwindow.cpp:1111 dolphinpart.cpp:190
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Invert Selection"
+msgstr "បញ្ច្រាស​ជម្រើស"
+
+#: dolphinmainwindow.cpp:1125
+#, kde-format
+msgctxt "@action:intoolbar Stash"
+msgid "Stash"
+msgstr ""
+
+#: dolphinmainwindow.cpp:1126
+#, kde-format
+msgctxt "@info"
+msgid "Opens the stash virtual directory in a split window"
+msgstr ""
+
+#: dolphinmainwindow.cpp:1135
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Stop"
+msgstr "បញ្ឈប់"
+
+#: dolphinmainwindow.cpp:1136
+#, kde-format
+msgctxt "@info"
+msgid "Stop loading"
+msgstr "បញ្ឈប់​ការ​ផ្ទុក"
+
+#: dolphinmainwindow.cpp:1141
+#, kde-format
+msgctxt "@action:inmenu Navigation Bar"
+msgid "Editable Location"
+msgstr "ទីតាំង​ដែល​អាច​កែសម្រួល​បាន"
+
+#: dolphinmainwindow.cpp:1146
+#, kde-format
+msgctxt "@action:inmenu Navigation Bar"
+msgid "Replace Location"
+msgstr "ទីតាំង​ជំនួស"
+
+#: dolphinmainwindow.cpp:1166
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu File"
+#| msgid "Close Tab"
+msgctxt "@action:inmenu File"
+msgid "Undo close tab"
+msgstr "បិទ​​ផ្ទាំង"
+
+#: dolphinmainwindow.cpp:1181
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Show Filter Bar"
+msgstr "បង្ហាញ​របារ​តម្រង"
+
+#: dolphinmainwindow.cpp:1187
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Compare Files"
+msgstr "ប្រៀបធៀប​ឯកសារ"
+
+#: dolphinmainwindow.cpp:1195
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Open Terminal"
+msgstr "បើក​ស្ថានីយ"
+
+#: dolphinmainwindow.cpp:1216
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "New Tab"
+msgctxt "@action:inmenu"
+msgid "Next Tab"
+msgstr "ផ្ទាំង​ថ្មី"
+
+#: dolphinmainwindow.cpp:1217
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Activate Next Tab"
+msgstr "ធ្វើ​ឲ្យ​ផ្ទាំង​បន្ទាប់​សកម្ម"
+
+#: dolphinmainwindow.cpp:1223
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Activate Previous Tab"
+msgctxt "@action:inmenu"
+msgid "Previous Tab"
+msgstr "ធ្វើ​ឲ្យ​ផ្ទាំង​មុន​សកម្ម"
+
+#: dolphinmainwindow.cpp:1224
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Activate Previous Tab"
+msgstr "ធ្វើ​ឲ្យ​ផ្ទាំង​មុន​សកម្ម"
+
+#: dolphinmainwindow.cpp:1231
+#, fuzzy, kde-format
+#| msgid "Show facets widget"
+msgctxt "@action:inmenu"
+msgid "Show Target"
+msgstr "បង្ហាញ​ធាតុ​ក្រាហ្វិក"
+
+#: dolphinmainwindow.cpp:1237
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Tab"
+msgstr "បើក​នៅ​ក្នុង​ផ្ទាំង​ថ្មី"
+
+#: dolphinmainwindow.cpp:1242
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Open in New Tab"
+msgctxt "@action:inmenu"
+msgid "Open in New Tabs"
+msgstr "បើក​នៅ​ក្នុង​ផ្ទាំង​ថ្មី"
+
+#: dolphinmainwindow.cpp:1247
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Window"
+msgstr "បើក​នៅ​ក្នុង​បង្អួច​ថ្មី"
+
+#: dolphinmainwindow.cpp:1257
+#, kde-format
+msgctxt "@action:inmenu Panels"
+msgid "Unlock Panels"
+msgstr "បន្ទះ​​មិន​ជាប់​សោ"
+
+#: dolphinmainwindow.cpp:1259
+#, kde-format
+msgctxt "@action:inmenu Panels"
+msgid "Lock Panels"
+msgstr "ចាក់​សោ​បន្ទះ"
+
+#: dolphinmainwindow.cpp:1265
+#, kde-format
+msgctxt "@title:window"
+msgid "Information"
+msgstr "ព័ត៌មាន"
+
+#: dolphinmainwindow.cpp:1286
+#, kde-format
+msgctxt "@title:window"
+msgid "Folders"
+msgstr "ថត"
+
+#: dolphinmainwindow.cpp:1310
+#, kde-format
+msgctxt "@title:window Shell terminal"
+msgid "Terminal"
+msgstr "ស្ថានីយ"
+
+#: dolphinmainwindow.cpp:1343
+#, kde-format
+msgctxt "@title:window"
+msgid "Places"
+msgstr "ទីកន្លែង"
+
+#: dolphinmainwindow.cpp:1375
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Panels"
+msgstr "បន្ទះ"
+
+#: dolphinmainwindow.cpp:1445
+#, kde-format
+msgctxt "@action"
+msgid "Control"
+msgstr "វត្ថុ​បញ្ជា"
+
+#: dolphinmainwindow.cpp:1561
+#, kde-format
+msgctxt "@action:intoolbar Close left view"
+msgid "Close"
+msgstr "បិទ​"
+
+#: dolphinmainwindow.cpp:1562
+#, kde-format
+msgctxt "@info"
+msgid "Close left view"
+msgstr "បិទ​ទិដ្ឋភាព​ខាង​ឆ្វេង"
+
+#: dolphinmainwindow.cpp:1565
+#, kde-format
+msgctxt "@action:intoolbar Close right view"
+msgid "Close"
+msgstr "បិទ​"
+
+#: dolphinmainwindow.cpp:1566
+#, kde-format
+msgctxt "@info"
+msgid "Close right view"
+msgstr "បិទ​ទិដ្ឋភាព​ខាង​ស្ដាំ"
+
+#: dolphinmainwindow.cpp:1570
+#, kde-format
+msgctxt "@action:intoolbar Split view"
+msgid "Split"
+msgstr "ពុះ"
+
+#: dolphinmainwindow.cpp:1571
+#, kde-format
+msgctxt "@info"
+msgid "Split view"
+msgstr "ពុះ​ទិដ្ឋភាព"
+
+#: dolphinpart.cpp:171
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr "កែ​សម្រួល​ប្រភេទ​ឯកសារ..."
+
+#: dolphinpart.cpp:175
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Select Items Matching..."
+msgstr "ជ្រើស​​ការ​ផ្គូផ្គង​ធាតុ..."
+
+#: dolphinpart.cpp:180
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Unselect Items Matching..."
+msgstr "មិនជ្រើស​​កា​រផ្គូផ្គង​ធាតុ..."
+
+#: dolphinpart.cpp:186
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Unselect All"
+msgstr "មិនជ្រើស​ទាំងអស់"
+
+#: dolphinpart.cpp:203
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "App&lications"
+msgstr "កម្មវិធី"
+
+#: dolphinpart.cpp:206
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "&Network Folders"
+msgstr "ថត​បណ្ដាញ"
+
+#: dolphinpart.cpp:209
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Sett&ings"
+msgstr "ការ​កំណត់"
+
+#: dolphinpart.cpp:212
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Trash"
+msgstr "ធុងសំរាម"
+
+#: dolphinpart.cpp:215
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Autostart"
+msgstr "ចាប់ផ្តើម​ស្វ័យប្រវត្តិ"
+
+#: dolphinpart.cpp:220
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Find File..."
+msgstr "ស្វែងរក​ឯកសារ​..."
+
+#: dolphinpart.cpp:226
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Open &Terminal"
+msgstr "បើក​ស្ថានីយ"
+
+#: dolphinpart.cpp:296
+#, kde-format
+msgctxt "@title"
+msgid "Dolphin Part"
+msgstr "ផ្នែក Dolphin"
+
+#: dolphinpart.cpp:490
+#, kde-format
+msgctxt "@title:window"
+msgid "Select"
+msgstr "ជ្រើស"
+
+#: dolphinpart.cpp:491
+#, kde-format
+msgid "Select all items matching this pattern:"
+msgstr "ជ្រើស​ធាតុ​ទាំងអស់​ដែល​ផ្គូផ្គង​នឹង​លំនាំដើម​នេះ ៖"
+
+#: dolphinpart.cpp:497
+#, kde-format
+msgctxt "@title:window"
+msgid "Unselect"
+msgstr "មិន​ជ្រើស"
+
+#: dolphinpart.cpp:498
+#, kde-format
+msgid "Unselect all items matching this pattern:"
+msgstr "មិនជ្រើស​ធាតុ​ទាំងអស់​ដែល​ផ្គូផ្គង​នឹង​លំនាំដើម ៖"
+
+#. i18n: ectx: Menu (edit)
+#: dolphinpart.rc:4
+#, kde-format
+msgid "&Edit"
+msgstr "កែសម្រួល"
+
+#. i18n: ectx: Menu (selection)
+#: dolphinpart.rc:14
+#, kde-format
+msgctxt "@title:menu"
+msgid "Selection"
+msgstr "ជម្រើស"
+
+#. i18n: ectx: Menu (view)
+#: dolphinpart.rc:23
+#, kde-format
+msgid "&View"
+msgstr "មើល"
+
+#. i18n: ectx: Menu (go)
+#: dolphinpart.rc:32
+#, kde-format
+msgid "&Go"
+msgstr "ទៅ"
+
+#. i18n: ectx: Menu (tools)
+#: dolphinpart.rc:40
+#, kde-format
+msgctxt "@title:menu"
+msgid "Tools"
+msgstr "ឧបករណ៍"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: dolphinpart.rc:48
+#, kde-format
+msgctxt "@title:menu"
+msgid "Dolphin Toolbar"
+msgstr "របារ​ឧបករណ៍ Dolphin"
+
+#: dolphinrecenttabsmenu.cpp:29
+#, kde-format
+msgid "Recently Closed Tabs"
+msgstr "ផ្ទាំង​ដែល​បាន​បិទ​ថ្មី"
+
+#: dolphinrecenttabsmenu.cpp:34
+#, kde-format
+msgid "Empty Recently Closed Tabs"
+msgstr "ផ្ទាំង​ដែល​បាន​បិទ​ថ្មី​ទទេ"
+
+#: dolphintabbar.cpp:141
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Tab"
+msgstr "ផ្ទាំង​ថ្មី"
+
+#: dolphintabbar.cpp:142
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Detach Tab"
+msgstr "ផ្ដាច់​ផ្ទាំង"
+
+#: dolphintabbar.cpp:143
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Other Tabs"
+msgstr "បិទ​ផ្ទាំង​ផ្សេងទៀត"
+
+#: dolphintabbar.cpp:144
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Tab"
+msgstr "បិទ​​ផ្ទាំង"
+
+#. i18n: ectx: Menu (location_bar)
+#: dolphinui.rc:38
+#, kde-format
+msgctxt "@title:menu"
+msgid "Location Bar"
+msgstr "របារ​ទីតាំង"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: dolphinui.rc:92
+#, kde-format
+msgctxt "@title:menu"
+msgid "Main Toolbar"
+msgstr "របារ​ឧបករណ៍​មេ"
+
+#: dolphinviewcontainer.cpp:93
+#, kde-format
+msgctxt "@action:button"
+msgid "Empty Trash"
+msgstr "សម្អាត​ធុងសំរាម"
+
+#: dolphinviewcontainer.cpp:115
+#, kde-format
+msgid "Running Dolphin as root can be dangerous. Please be careful."
+msgstr ""
+
+#: dolphinviewcontainer.cpp:392 search/dolphinsearchbox.cpp:311
+#, fuzzy, kde-format
+#| msgctxt "@item"
+#| msgid "Search For"
+msgid "Search for %1 in %2"
+msgstr "ស្វែងរក​"
+
+#: dolphinviewcontainer.cpp:462
+#, kde-format
+msgctxt "@info:progress"
+msgid "Loading folder..."
+msgstr "កំពុង​ផ្ទុក​ថត..."
+
+#: dolphinviewcontainer.cpp:470
+#, kde-format
+msgctxt "@info:progress"
+msgid "Sorting..."
+msgstr "ការ​តម្រៀប..."
+
+#: dolphinviewcontainer.cpp:481
+#, kde-format
+msgctxt "@info"
+msgid "Searching..."
+msgstr "កំពុង​ស្វែងរក..."
+
+#: dolphinviewcontainer.cpp:501
+#, kde-format
+msgctxt "@info:status"
+msgid "No items found."
+msgstr "រកមិនឃើញ​ធាតុ​ទេ"
+
+#: dolphinviewcontainer.cpp:608
+#, kde-format
+msgctxt "@info:status"
+msgid "Dolphin does not support web pages, the web browser has been launched"
+msgstr "Dolphin ​​មិន​គាំទ្រ​ទំព័រ​បណ្ដាញ​ទេ កម្មវិធី​រុករក​បណ្ដាញ​ត្រូវ​បាន​ចាប់ផ្ដើម"
+
+#: dolphinviewcontainer.cpp:622
+#, kde-format
+msgctxt "@info:status"
+msgid "Protocol not supported by Dolphin, Konqueror has been launched"
+msgstr "ពិធីការ​មិន​បាន​គាំទ្រ​ដោយ Dolphin Konqueror ត្រូវ​បាន​ចាប់ផ្ដើម"
+
+#: dolphinviewcontainer.cpp:630
+#, kde-format
+msgctxt "@info:status"
+msgid "Invalid protocol"
+msgstr "ពិធីការ​មិន​ត្រឹមត្រូវ"
+
+#: filterbar/filterbar.cpp:39
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Hide Filter Bar"
+msgstr "លាក់​របារ​តម្រង"
+
+#: filterbar/filterbar.cpp:47
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Keep Filter When Changing Folders"
+msgstr ""
+
+#: filterbar/filterbar.cpp:51
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Filter:"
+msgstr "តម្រង ៖"
+
+#: kitemviews/kfileitemlistwidget.cpp:72
+#, kde-format
+msgctxt "@item:intable"
+msgid "Unknown"
+msgstr "មិន​ស្គាល់"
+
+#: kitemviews/kfileitemlistwidget.cpp:74
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "ធាតុ %1"
+
+#: kitemviews/kfileitemmodel.cpp:1929
+#, kde-format
+msgctxt "@title:group Groups that start with a digit"
+msgid "0 - 9"
+msgstr "0 - 9"
+
+#: kitemviews/kfileitemmodel.cpp:1931
+#, kde-format
+msgctxt "@title:group"
+msgid "Others"
+msgstr "ផ្សេងទៀត"
+
+#: kitemviews/kfileitemmodel.cpp:1962
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Folders"
+msgstr "ថត"
+
+#: kitemviews/kfileitemmodel.cpp:1964
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Small"
+msgstr "តូច"
+
+#: kitemviews/kfileitemmodel.cpp:1966
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Medium"
+msgstr "មធ្យម"
+
+#: kitemviews/kfileitemmodel.cpp:1968
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Big"
+msgstr "ធំ"
+
+#: kitemviews/kfileitemmodel.cpp:2013
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Today"
+msgstr "ថ្ងៃ​នេះ"
+
+#: kitemviews/kfileitemmodel.cpp:2014
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Yesterday"
+msgstr "ម្សិលមិញ"
+
+#: kitemviews/kfileitemmodel.cpp:2017
+#, kde-format
+msgctxt "@title:group Date: The week day name: dddd"
+msgid "dddd"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2019
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Maximum lines"
+#| msgid "1"
+msgctxt ""
+"Can be used to script translation of \"dddd\"with context @title:group Date"
+msgid "%1"
+msgstr "១"
+
+#: kitemviews/kfileitemmodel.cpp:2023
+#, fuzzy, kde-format
+#| msgctxt "@title:group Date"
+#| msgid "Three Weeks Ago"
+msgctxt "@title:group Date"
+msgid "One Week Ago"
+msgstr "បី​សប្ដាហ៍​មុន"
+
+#: kitemviews/kfileitemmodel.cpp:2026
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Two Weeks Ago"
+msgstr "ពីរសប្ដាហ៍​មុន"
+
+#: kitemviews/kfileitemmodel.cpp:2029
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Three Weeks Ago"
+msgstr "បី​សប្ដាហ៍​មុន"
+
+#: kitemviews/kfileitemmodel.cpp:2033
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Earlier this Month"
+msgstr "ដើម​ខែ​នេះ"
+
+#: kitemviews/kfileitemmodel.cpp:2046
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@title:group Date: %B is full month name in current locale, and %Y is "
+#| "full year number"
+#| msgid "Yesterday (%B, %Y)"
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Yesterday' (MMMM, yyyy)"
+msgstr "ម្សិលមិញ (%B, %Y)"
+
+#: kitemviews/kfileitemmodel.cpp:2049
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Maximum lines"
+#| msgid "1"
+msgctxt ""
+"Can be used to script translation of \"'Yesterday' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "១"
+
+#: kitemviews/kfileitemmodel.cpp:2054
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@title:group Date: %B is full month name in current locale, and %Y is "
+#| "full year number"
+#| msgid "Yesterday (%B, %Y)"
+msgctxt ""
+"@title:group Date: The week day name: dddd, MMMM is full month name in "
+"current locale, and yyyy is full year number"
+msgid "dddd (MMMM, yyyy)"
+msgstr "ម្សិលមិញ (%B, %Y)"
+
+#: kitemviews/kfileitemmodel.cpp:2057
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Maximum lines"
+#| msgid "1"
+msgctxt ""
+"Can be used to script translation of \"dddd (MMMM, yyyy)\" with context "
+"@title:group Date"
+msgid "%1"
+msgstr "១"
+
+#: kitemviews/kfileitemmodel.cpp:2061
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@title:group Date: %B is full month name in current locale, and %Y is "
+#| "full year number"
+#| msgid "Three Weeks Ago (%B, %Y)"
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'One Week Ago' (MMMM, yyyy)"
+msgstr "បី​សប្ដាហ៍​កន្លង​ទៅ (%B, %Y)"
+
+#: kitemviews/kfileitemmodel.cpp:2064
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Maximum lines"
+#| msgid "1"
+msgctxt ""
+"Can be used to script translation of \"'One Week Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "១"
+
+#: kitemviews/kfileitemmodel.cpp:2068
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@title:group Date: %B is full month name in current locale, and %Y is "
+#| "full year number"
+#| msgid "Two Weeks Ago (%B, %Y)"
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Two Weeks Ago' (MMMM, yyyy)"
+msgstr "ពីរ​សប្ដាហ៍​កន្លង​ទៅ (%B, %Y)"
+
+#: kitemviews/kfileitemmodel.cpp:2071
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Maximum lines"
+#| msgid "1"
+msgctxt ""
+"Can be used to script translation of \"'Two Weeks Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "១"
+
+#: kitemviews/kfileitemmodel.cpp:2075
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@title:group Date: %B is full month name in current locale, and %Y is "
+#| "full year number"
+#| msgid "Three Weeks Ago (%B, %Y)"
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Three Weeks Ago' (MMMM, yyyy)"
+msgstr "បី​សប្ដាហ៍​កន្លង​ទៅ (%B, %Y)"
+
+#: kitemviews/kfileitemmodel.cpp:2078
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Maximum lines"
+#| msgid "1"
+msgctxt ""
+"Can be used to script translation of \"'Three Weeks Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "១"
+
+#: kitemviews/kfileitemmodel.cpp:2082
+#, fuzzy, kde-format
+#| msgctxt ""
+#| "@title:group Date: %B is full month name in current locale, and %Y is "
+#| "full year number"
+#| msgid "Earlier on %B, %Y"
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Earlier on' MMMM, yyyy"
+msgstr "មុន %B, %Y"
+
+#: kitemviews/kfileitemmodel.cpp:2085
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Maximum lines"
+#| msgid "1"
+msgctxt ""
+"Can be used to script translation of \"'Earlier on' MMMM, yyyy\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "១"
+
+#: kitemviews/kfileitemmodel.cpp:2090
+#, kde-format
+msgctxt ""
+"@title:group The month and year: MMMM is full month name in current locale, "
+"and yyyy is full year number"
+msgid "MMMM, yyyy"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2093
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Maximum lines"
+#| msgid "1"
+msgctxt ""
+"Can be used to script translation of \"MMMM, yyyy\" with context @title:"
+"group Date"
+msgid "%1"
+msgstr "១"
+
+#: kitemviews/kfileitemmodel.cpp:2132 kitemviews/kfileitemmodel.cpp:2145
+#: kitemviews/kfileitemmodel.cpp:2158
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Read, "
+msgstr "អាន "
+
+#: kitemviews/kfileitemmodel.cpp:2135 kitemviews/kfileitemmodel.cpp:2148
+#: kitemviews/kfileitemmodel.cpp:2161
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Write, "
+msgstr "សរសេរ "
+
+#: kitemviews/kfileitemmodel.cpp:2138 kitemviews/kfileitemmodel.cpp:2151
+#: kitemviews/kfileitemmodel.cpp:2164
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Execute, "
+msgstr "ប្រតិបត្តិ "
+
+#: kitemviews/kfileitemmodel.cpp:2140 kitemviews/kfileitemmodel.cpp:2153
+#: kitemviews/kfileitemmodel.cpp:2166
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Forbidden"
+msgstr "ហាមឃាត់"
+
+#: kitemviews/kfileitemmodel.cpp:2168
+#, kde-format
+msgctxt "@title:group Files and folders by permissions"
+msgid "User: %1 | Group: %2 | Others: %3"
+msgstr "អ្នកប្រើ ៖ %1 | ក្រុម ៖ %2 | ផ្សេងទៀត ៖ %3"
+
+#: kitemviews/kfileitemmodel.cpp:2257
+#, kde-format
+msgctxt "@label"
+msgid "Name"
+msgstr "ឈ្មោះ"
+
+#: kitemviews/kfileitemmodel.cpp:2258
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "ទំហំ"
+
+#: kitemviews/kfileitemmodel.cpp:2259
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2260
+#, fuzzy, kde-format
+#| msgctxt "@title:menu Create new folder, file, link, etc."
+#| msgid "Create New"
+msgctxt "@label"
+msgid "Created"
+msgstr "បង្កើត​ថ្មី"
+
+#: kitemviews/kfileitemmodel.cpp:2261
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2262
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "ប្រភេទ"
+
+#: kitemviews/kfileitemmodel.cpp:2263
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "ការ​វាយតម្លៃ"
+
+#: kitemviews/kfileitemmodel.cpp:2264
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "ស្លាក"
+
+#: kitemviews/kfileitemmodel.cpp:2265
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "មតិ​យោបល់"
+
+#: kitemviews/kfileitemmodel.cpp:2266
+#, kde-format
+msgctxt "@label"
+msgid "Title"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2266 kitemviews/kfileitemmodel.cpp:2267
+#: kitemviews/kfileitemmodel.cpp:2268
+#, kde-format
+msgctxt "@label"
+msgid "Document"
+msgstr "ឯកសារ"
+
+#: kitemviews/kfileitemmodel.cpp:2267
+#, kde-format
+msgctxt "@label"
+msgid "Word Count"
+msgstr "ចំនួន​ពាក្យ"
+
+#: kitemviews/kfileitemmodel.cpp:2268
+#, kde-format
+msgctxt "@label"
+msgid "Line Count"
+msgstr "ចំនួន​ជួរ"
+
+#: kitemviews/kfileitemmodel.cpp:2269
+#, kde-format
+msgctxt "@label"
+msgid "Date Photographed"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2269 kitemviews/kfileitemmodel.cpp:2270
+#: kitemviews/kfileitemmodel.cpp:2271 kitemviews/kfileitemmodel.cpp:2272
+#, kde-format
+msgctxt "@label"
+msgid "Image"
+msgstr "រូបភាព"
+
+#: kitemviews/kfileitemmodel.cpp:2270
+#, fuzzy, kde-format
+#| msgctxt "@label:listbox"
+#| msgid "Width:"
+msgctxt "@label"
+msgid "Width"
+msgstr "ទទឹង ៖"
+
+#: kitemviews/kfileitemmodel.cpp:2271
+#, kde-format
+msgctxt "@label"
+msgid "Height"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2272
+#, kde-format
+msgctxt "@label"
+msgid "Orientation"
+msgstr "ទិស"
+
+#: kitemviews/kfileitemmodel.cpp:2273
+#, kde-format
+msgctxt "@label"
+msgid "Artist"
+msgstr "វិចិត្រករ​​"
+
+#: kitemviews/kfileitemmodel.cpp:2273 kitemviews/kfileitemmodel.cpp:2274
+#: kitemviews/kfileitemmodel.cpp:2275 kitemviews/kfileitemmodel.cpp:2276
+#: kitemviews/kfileitemmodel.cpp:2277 kitemviews/kfileitemmodel.cpp:2278
+#: kitemviews/kfileitemmodel.cpp:2279
+#, kde-format
+msgctxt "@label"
+msgid "Audio"
+msgstr "អូឌីយ៉ូ"
+
+#: kitemviews/kfileitemmodel.cpp:2274
+#, kde-format
+msgctxt "@label"
+msgid "Genre"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2275
+#, kde-format
+msgctxt "@label"
+msgid "Album"
+msgstr "អាល់ប៊ុម"
+
+#: kitemviews/kfileitemmodel.cpp:2276
+#, kde-format
+msgctxt "@label"
+msgid "Duration"
+msgstr "ថិរវេលា"
+
+#: kitemviews/kfileitemmodel.cpp:2277
+#, kde-format
+msgctxt "@label"
+msgid "Bitrate"
+msgstr ""
+
+#: kitemviews/kfileitemmodel.cpp:2278
+#, kde-format
+msgctxt "@label"
+msgid "Track"
+msgstr "ដាន"
+
+#: kitemviews/kfileitemmodel.cpp:2279
+#, fuzzy, kde-format
+#| msgctxt "@item"
+#| msgid "Release '%1'"
+msgctxt "@label"
+msgid "Release Year"
+msgstr "ការ​ចេញ​ផ្សាយ '%1'"
+
+#: kitemviews/kfileitemmodel.cpp:2280
+#, kde-format
+msgctxt "@label"
+msgid "Path"
+msgstr "ផ្លូវ"
+
+#: kitemviews/kfileitemmodel.cpp:2280 kitemviews/kfileitemmodel.cpp:2281
+#: kitemviews/kfileitemmodel.cpp:2282 kitemviews/kfileitemmodel.cpp:2283
+#: kitemviews/kfileitemmodel.cpp:2284 kitemviews/kfileitemmodel.cpp:2285
+#: kitemviews/kfileitemmodel.cpp:2286
+#, kde-format
+msgctxt "@label"
+msgid "Other"
+msgstr "ផ្សេងទៀត"
+
+#: kitemviews/kfileitemmodel.cpp:2281
+#, fuzzy, kde-format
+#| msgctxt "@title:menu"
+#| msgid "Selection"
+msgctxt "@label"
+msgid "Deletion Time"
+msgstr "ជម្រើស"
+
+#: kitemviews/kfileitemmodel.cpp:2282
+#, kde-format
+msgctxt "@label"
+msgid "Link Destination"
+msgstr "ទិសដៅ​តំណ​"
+
+#: kitemviews/kfileitemmodel.cpp:2283
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Copied From"
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "បាន​ចម្លង​ពី"
+
+#: kitemviews/kfileitemmodel.cpp:2284
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "សិទ្ធិ"
+
+#: kitemviews/kfileitemmodel.cpp:2285
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "ម្ចាស់"
+
+#: kitemviews/kfileitemmodel.cpp:2286
+#, kde-format
+msgctxt "@label"
+msgid "User Group"
+msgstr "ក្រុម​អ្នក​ប្រើ"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:162
+#, kde-format
+msgctxt "@item:intable Image orientation"
+msgid "Unchanged"
+msgstr "មិន​ផ្លាស់ប្ដូរ"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:163
+#, kde-format
+msgctxt "@item:intable Image orientation"
+msgid "Horizontally flipped"
+msgstr "បាន​ត្រឡប់​ដោយ​ផ្ដេក"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:164
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "180° rotated"
+msgstr "បាន​បង្វិល 180°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:165
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Vertically flipped"
+msgstr "បាន​ត្រឡប់​ដោយ​បញ្ឈរ"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:166
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Transposed"
+msgstr "បាន​ផ្លាស់​កន្លែង"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:167
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "90° rotated"
+msgstr "បាន​បង្វិល 90°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:168
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Transversed"
+msgstr "Transversed"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:169
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "270° rotated"
+msgstr "បាន​បង្វិល 270°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:187
+#, kde-format
+msgctxt "@label bitrate (per second)"
+msgid "%1/s"
+msgstr ""
+
+#: kitemviews/private/kfileitemmodeldirlister.cpp:42
+#, kde-format
+msgctxt "@info:status"
+msgid "Unknown error."
+msgstr "មិនស្គាល់​កំហុស ។"
+
+#: main.cpp:71
+#, fuzzy, kde-format
+#| msgctxt "@title"
+#| msgid "Dolphin"
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: main.cpp:72
+#, kde-format
+msgctxt "@title"
+msgid "File Manager"
+msgstr "កម្មវិធី​គ្រប់គ្រង​ឯកសារ"
+
+#: main.cpp:74
+#, fuzzy, kde-format
+#| msgctxt "@info:credit"
+#| msgid "(C) 2006-2012 Peter Penz and Frank Reininghaus"
+msgctxt "@info:credit"
+msgid "(C) 2006-2016 Peter Penz, Frank Reininghaus, and Emmanuel Pescosta"
+msgstr "រក្សាសិទ្ធិ​ឆ្នាំ ២០០៦ ២០១២ ដោយ Peter Penz និង Frank Reininghaus"
+
+#: main.cpp:76
+#, kde-format
+msgctxt "@info:credit"
+msgid "Emmanuel Pescosta"
+msgstr ""
+
+#: main.cpp:77
+#, fuzzy, kde-format
+#| msgctxt "@info:credit"
+#| msgid "Maintainer (since 2012) and developer"
+msgctxt "@info:credit"
+msgid "Maintainer (since 2014) and developer"
+msgstr "អ្នក​ថែទាំ (ទាំងពីរ ២០១២) និង​អ្នក​អភិវឌ្ឍន៍"
+
+#: main.cpp:79
+#, kde-format
+msgctxt "@info:credit"
+msgid "Frank Reininghaus"
+msgstr "Frank Reininghaus"
+
+#: main.cpp:80
+#, fuzzy, kde-format
+#| msgctxt "@info:credit"
+#| msgid "Maintainer (since 2012) and developer"
+msgctxt "@info:credit"
+msgid "Maintainer (2012-2014) and developer"
+msgstr "អ្នក​ថែទាំ (ទាំងពីរ ២០១២) និង​អ្នក​អភិវឌ្ឍន៍"
+
+#: main.cpp:82
+#, kde-format
+msgctxt "@info:credit"
+msgid "Peter Penz"
+msgstr "Peter Penz"
+
+#: main.cpp:83
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer and developer (2006-2012)"
+msgstr "អ្នក​ថែទាំ និង​អ្នក​អភិវឌ្ឍន៍ (២០០៦-២០១២)"
+
+#: main.cpp:85
+#, kde-format
+msgctxt "@info:credit"
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: main.cpp:86 main.cpp:89 main.cpp:92 main.cpp:95 main.cpp:98 main.cpp:101
+#: main.cpp:104
+#, kde-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr "អ្នក​អភិវឌ្ឍន៍"
+
+#: main.cpp:88
+#, kde-format
+msgctxt "@info:credit"
+msgid "David Faure"
+msgstr "David Faure"
+
+#: main.cpp:91
+#, kde-format
+msgctxt "@info:credit"
+msgid "Aaron J. Seigo"
+msgstr "Aaron J. Seigo"
+
+#: main.cpp:94
+#, kde-format
+msgctxt "@info:credit"
+msgid "Rafael Fernández López"
+msgstr "Rafael Fernández López"
+
+#: main.cpp:97
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kevin Ottens"
+msgstr "Kevin Ottens"
+
+#: main.cpp:100
+#, kde-format
+msgctxt "@info:credit"
+msgid "Holger Freyther"
+msgstr "Holger Freyther"
+
+#: main.cpp:103
+#, kde-format
+msgctxt "@info:credit"
+msgid "Max Blazejak"
+msgstr "Max Blazejak"
+
+#: main.cpp:106
+#, kde-format
+msgctxt "@info:credit"
+msgid "Michael Austin"
+msgstr "Michael Austin"
+
+#: main.cpp:107
+#, kde-format
+msgctxt "@info:credit"
+msgid "Documentation"
+msgstr "ឯកសារ"
+
+#: main.cpp:119
+#, fuzzy, kde-format
+#| msgctxt "@info:shell"
+#| msgid "The files and directories passed as arguments will be selected."
+msgctxt "@info:shell"
+msgid "The files and folders passed as arguments will be selected."
+msgstr "ឯកសារ និង​ថត​បាន​ចម្លង​ជា​អាគុយម៉ង់​នឹង​ត្រូវ​បាន​ជ្រើស ។"
+
+#: main.cpp:121
+#, kde-format
+msgctxt "@info:shell"
+msgid "Dolphin will get started with a split view."
+msgstr "Dolphin នឹង​ចាប់ផ្ដើម​មើល​ការ​​ពុះ ។"
+
+#: main.cpp:122
+#, kde-format
+msgctxt "@info:shell"
+msgid "Start Dolphin Daemon (only required for DBus Interface)"
+msgstr ""
+
+#: main.cpp:123
+#, kde-format
+msgctxt "@info:shell"
+msgid "Document to open"
+msgstr "ឯកសារ​ដែល​ត្រូវ​បើក"
+
+#. i18n: ectx: label, entry (HiddenFilesShown), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:10
+#, kde-format
+msgid "Hidden files shown"
+msgstr "បាន​បង្ហាញ​ឯកសារ​ដែល​លាក់"
+
+#. i18n: ectx: label, entry (LimitFoldersPanelToHome), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:14
+#, kde-format
+msgid "Limit folders panel to home directory if inside home"
+msgstr ""
+
+#. i18n: ectx: label, entry (AutoScrolling), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:18
+#, kde-format
+msgid "Automatic scrolling"
+msgstr "រមូរ​ដោយ​ស្វ័យ​ប្រវត្តិ"
+
+#: panels/folders/treeviewcontextmenu.cpp:66
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Cut"
+msgstr "កាត់"
+
+#: panels/folders/treeviewcontextmenu.cpp:70
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy"
+msgstr "ចម្លង"
+
+#: panels/folders/treeviewcontextmenu.cpp:86
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rename..."
+msgstr "ប្តូរ​ឈ្មោះ..."
+
+#: panels/folders/treeviewcontextmenu.cpp:100
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Move to Trash"
+msgstr "ផ្លាស់​ទី​ទៅ​​ធុង​សំរាម"
+
+#: panels/folders/treeviewcontextmenu.cpp:110
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "លុប"
+
+#: panels/folders/treeviewcontextmenu.cpp:120
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Hidden Files"
+msgstr "បង្ហាញ​ឯកសារ​ដែល​បាន​​លាក់"
+
+#: panels/folders/treeviewcontextmenu.cpp:129
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Limit to Home Directory"
+msgstr ""
+
+#: panels/folders/treeviewcontextmenu.cpp:137
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatic Scrolling"
+msgstr "រមូរ​ដោយ​ស្វ័យ​ប្រវត្តិ"
+
+#: panels/folders/treeviewcontextmenu.cpp:147
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "លក្ខណៈ​សម្បត្តិ"
+
+#. i18n: ectx: label, entry (previewsShown), group (InformationPanel)
+#: panels/information/dolphin_informationpanelsettings.kcfg:10
+#, kde-format
+msgid "Previews shown"
+msgstr "បាន​បង្ហាញ​ទិដ្ឋភាព​មើល​ជាមុន"
+
+#. i18n: ectx: label, entry (dateFormat), group (InformationPanel)
+#: panels/information/dolphin_informationpanelsettings.kcfg:14
+#, kde-format
+msgid "Date display format"
+msgstr ""
+
+#: panels/information/filemetadataconfigurationdialog.cpp:43
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Shown Data"
+msgstr "កំណត់​រចនាសម្ព័ន្ធ​ទិន្នន័យ​ដែលបានបង្ហាញ"
+
+#: panels/information/filemetadataconfigurationdialog.cpp:55
+#, kde-format
+msgctxt "@label::textbox"
+msgid "Select which data should be shown:"
+msgstr "ជ្រើស​ទិន្នន័យ​ណាមួយ​ដែល​គួរ​ត្រូវ​បាន​បង្ហាញ ៖"
+
+#: panels/information/informationpanelcontent.cpp:235
+#, fuzzy, kde-format
+#| msgctxt "@info"
+#| msgid "%1 item selected"
+#| msgid_plural "%1 items selected"
+msgctxt "@label"
+msgid "%1 item selected"
+msgid_plural "%1 items selected"
+msgstr[0] "បាន​ជ្រើស​ធាតុ %1"
+
+#: panels/information/informationpanelcontent.cpp:280
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Preview"
+msgstr "មើល​ជា​​​មុន"
+
+#: panels/information/informationpanelcontent.cpp:285
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Configure..."
+msgstr "កំណត់​រចនាសម្ព័ន្ធ​​​​..."
+
+#: panels/information/informationpanelcontent.cpp:289
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Condensed Date"
+msgstr ""
+
+#: panels/information/informationpanelcontent.cpp:313
+#, kde-format
+msgctxt "@label::textbox"
+msgid "Select which data should be shown in the information panel:"
+msgstr "ជ្រើស​ទិន្នន័យ​ណាមួយ​ដែល​គួរ​ត្រូវ​បង្ហាញ​នៅ​ក្នុង​បន្ទះ​ព័ត៌មាន ៖"
+
+#: panels/information/phononwidget.cpp:126
+#, kde-format
+msgid "play"
+msgstr "ចាក់"
+
+#: panels/information/phononwidget.cpp:132
+#, kde-format
+msgid "stop"
+msgstr "បញ្ឈប់"
+
+#. i18n: ectx: label, entry (IconSize), group (PlacesPanel)
+#: panels/places/dolphin_placespanelsettings.kcfg:10
+#, kde-format
+msgid ""
+"Size of icons in the Places Panel (-1 means \"use the style's small size\")"
+msgstr "ទំហំ​រូបតំណាង​នៅ​​​​លើ​បន្ទះ​​ទីតាំង​ (-១ មាន​ន័យ​ថា \"ប្រើ​ទំហំ​តូច​​នៃ​រចនាប័ទ្ម\")"
+
+#: panels/places/placesitemeditdialog.cpp:136
+#, kde-format
+msgctxt "@label"
+msgid "Label:"
+msgstr "ស្លាក ៖"
+
+#: panels/places/placesitemeditdialog.cpp:138
+#, kde-format
+msgid "Enter descriptive label here"
+msgstr "បញ្ចូល​ស្លាក​ពិពណ៌នា​នៅ​ទី​នេះ"
+
+#: panels/places/placesitemeditdialog.cpp:142
+#, kde-format
+msgctxt "@label"
+msgid "Location:"
+msgstr "ទីតាំង ៖"
+
+#: panels/places/placesitemeditdialog.cpp:149
+#, kde-format
+msgctxt "@label"
+msgid "Choose an icon:"
+msgstr "ជ្រើស​រូបតំណាង ៖"
+
+#: panels/places/placesitemeditdialog.cpp:162
+#, kde-format
+msgid "&Only show when using this application (%1)"
+msgstr "&បង្ហាញ​នៅ​ពេល​ប្រើ​កម្មវិធី​នេះ (%1)"
+
+#: panels/places/placesitemmodel.cpp:212
+#, fuzzy, kde-format
+#| msgctxt "@item"
+#| msgid "Eject '%1'"
+msgctxt "@item"
+msgid "Eject"
+msgstr "ច្រាន​ចេញ '%1'"
+
+#: panels/places/placesitemmodel.cpp:247
+#, fuzzy, kde-format
+#| msgctxt "@item"
+#| msgid "Release '%1'"
+msgctxt "@item"
+msgid "Release"
+msgstr "ការ​ចេញ​ផ្សាយ '%1'"
+
+#: panels/places/placesitemmodel.cpp:249
+#, fuzzy, kde-format
+#| msgctxt "@item"
+#| msgid "Safely Remove '%1'"
+msgctxt "@item"
+msgid "Safely Remove"
+msgstr "យក '%1' ចេញ​ដោយ​សុវត្ថិភាព"
+
+#: panels/places/placesitemmodel.cpp:252
+#, fuzzy, kde-format
+#| msgctxt "@item"
+#| msgid "Unmount '%1'"
+msgctxt "@item"
+msgid "Unmount"
+msgstr "អាន់ម៉ោន '%1'"
+
+#: panels/places/placesitemmodel.cpp:274
+#, kde-format
+msgctxt "@info"
+msgid "The device '%1' is not a disk and cannot be ejected."
+msgstr "ឧបករណ៍ '%1' មិន​មែន​ជា​ថាស​ឡើយ ដូច្នេះ​មិន​​អាច​ច្រាន​ចេញ​បាន​ទេ ។"
+
+#: panels/places/placesitemmodel.cpp:505
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while accessing '%1', the system responded: %2"
+msgstr ""
+
+#: panels/places/placesitemmodel.cpp:509
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while accessing '%1'"
+msgstr ""
+
+#: panels/places/placespanel.cpp:204
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Open in New Window"
+msgctxt "@item:inmenu"
+msgid "Open in New Window"
+msgstr "បើក​នៅ​ក្នុង​បង្អួច​ថ្មី"
+
+#: panels/places/placespanel.cpp:205
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Open in New Tab"
+msgctxt "@item:inmenu"
+msgid "Open in New Tab"
+msgstr "បើក​នៅ​ក្នុង​ផ្ទាំង​ថ្មី"
+
+#: panels/places/placespanel.cpp:211
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu"
+#| msgid "Edit '%1'..."
+msgctxt "@item:inmenu"
+msgid "Edit..."
+msgstr "កែសម្រួល '%1'..."
+
+#: panels/places/placespanel.cpp:216
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu"
+#| msgid "Remove '%1'"
+msgctxt "@item:inmenu"
+msgid "Remove"
+msgstr "យក​ចេញ '%1'"
+
+#: panels/places/placespanel.cpp:219
+#, fuzzy, kde-format
+#| msgctxt "@item:inmenu"
+#| msgid "Hide '%1'"
+msgctxt "@item:inmenu"
+msgid "Hide"
+msgstr "លាក់ '%1'"
+
+#: panels/places/placespanel.cpp:266
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Add Entry..."
+msgstr "បន្ថែម​ធាតុ..."
+
+#: panels/places/placespanel.cpp:270
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Show All Entries"
+msgstr "បង្ហាញ​ធាតុ​ទាំងអស់"
+
+#: panels/places/placespanel.cpp:277
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Icon Size"
+msgstr "ទំហំ​រូបតំណាង"
+
+#: panels/places/placespanel.cpp:288
+#, kde-format
+msgctxt "Small icon size"
+msgid "Small (%1x%2)"
+msgstr "តូច (%1x%2)"
+
+#: panels/places/placespanel.cpp:289
+#, kde-format
+msgctxt "Medium icon size"
+msgid "Medium (%1x%2)"
+msgstr "មធ្យម (%1x%2)"
+
+#: panels/places/placespanel.cpp:290
+#, kde-format
+msgctxt "Large icon size"
+msgid "Large (%1x%2)"
+msgstr "ធំ (%1x%2)"
+
+#: panels/places/placespanel.cpp:291
+#, kde-format
+msgctxt "Huge icon size"
+msgid "Huge (%1x%2)"
+msgstr "ធំ​បំផុត (%1x%2)"
+
+#: panels/places/placespanel.cpp:337
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Hide Section '%1'"
+msgstr ""
+
+#: panels/places/placespanel.cpp:452
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Places Entry"
+msgstr "បន្ថែម​ធាតុ"
+
+#: panels/places/placespanel.cpp:467
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Places Entry"
+msgstr "កែសម្រួល​ធាតុ"
+
+#: panels/terminal/terminalpanel.cpp:149
+#, kde-format
+msgid ""
+"Terminal cannot be shown because Konsole is not installed. Please install it "
+"and then reopen the panel."
+msgstr ""
+
+#: panels/terminal/terminalpanel.cpp:155
+#, kde-format
+msgid "Install Konsole"
+msgstr ""
+
+#. i18n: ectx: label, entry (Location), group (Search)
+#: search/dolphin_searchsettings.kcfg:10
+#, kde-format
+msgid "Location"
+msgstr "ទីតាំង"
+
+#. i18n: ectx: label, entry (What), group (Search)
+#: search/dolphin_searchsettings.kcfg:14
+#, kde-format
+msgid "What"
+msgstr "អ្វី"
+
+#. i18n: ectx: label, entry (ShowFacetsWidget), group (Search)
+#: search/dolphin_searchsettings.kcfg:18
+#, kde-format
+msgid "Show facets widget"
+msgstr "បង្ហាញ​ធាតុ​ក្រាហ្វិក"
+
+#: search/dolphinfacetswidget.cpp:51
+#, kde-format
+msgctxt "@option:check"
+msgid "Any"
+msgstr ""
+
+#: search/dolphinfacetswidget.cpp:52
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Folders"
+msgctxt "@option:check"
+msgid "Folders"
+msgstr "ថត"
+
+#: search/dolphinfacetswidget.cpp:53
+#, kde-format
+msgctxt "@option:check"
+msgid "Documents"
+msgstr "ឯកសារ"
+
+#: search/dolphinfacetswidget.cpp:54
+#, kde-format
+msgctxt "@option:check"
+msgid "Images"
+msgstr "រូបភាព"
+
+#: search/dolphinfacetswidget.cpp:55
+#, kde-format
+msgctxt "@option:check"
+msgid "Audio Files"
+msgstr "ឯកសារ​អូឌីយ៉ូ"
+
+#: search/dolphinfacetswidget.cpp:56
+#, kde-format
+msgctxt "@option:check"
+msgid "Videos"
+msgstr "វីដេអូ"
+
+#: search/dolphinfacetswidget.cpp:69
+#, kde-format
+msgctxt "@option:option"
+msgid "Anytime"
+msgstr "ពេល​ណា​ក៏ដោយ"
+
+#: search/dolphinfacetswidget.cpp:70
+#, kde-format
+msgctxt "@option:option"
+msgid "Today"
+msgstr "ថ្ងៃ​នេះ"
+
+#: search/dolphinfacetswidget.cpp:71
+#, kde-format
+msgctxt "@option:option"
+msgid "Yesterday"
+msgstr "ម្សិលមិញ"
+
+#: search/dolphinfacetswidget.cpp:72
+#, kde-format
+msgctxt "@option:option"
+msgid "This Week"
+msgstr "សប្ដាហ៍​មុន"
+
+#: search/dolphinfacetswidget.cpp:73
+#, kde-format
+msgctxt "@option:option"
+msgid "This Month"
+msgstr "ខែ​នេះ"
+
+#: search/dolphinfacetswidget.cpp:74
+#, kde-format
+msgctxt "@option:option"
+msgid "This Year"
+msgstr "ឆ្នាំ​នេះ"
+
+#: search/dolphinfacetswidget.cpp:87
+#, kde-format
+msgctxt "@option:option"
+msgid "Any Rating"
+msgstr "ការ​វាយតម្លៃ"
+
+#: search/dolphinfacetswidget.cpp:88
+#, kde-format
+msgctxt "@option:option"
+msgid "1 or more"
+msgstr "១ ឬ​ច្រើន​​ជាង"
+
+#: search/dolphinfacetswidget.cpp:89
+#, kde-format
+msgctxt "@option:option"
+msgid "2 or more"
+msgstr "២ ឬ​ច្រើន​ជាង"
+
+#: search/dolphinfacetswidget.cpp:90
+#, kde-format
+msgctxt "@option:option"
+msgid "3 or more"
+msgstr "៣ ឬ​ច្រើន​ជាង"
+
+#: search/dolphinfacetswidget.cpp:91
+#, kde-format
+msgctxt "@option:option"
+msgid "4 or more"
+msgstr "៤ ឬ​ច្រើន​ជាង"
+
+#: search/dolphinfacetswidget.cpp:92
+#, kde-format
+msgctxt "@option:option"
+msgid "Highest Rating"
+msgstr "ការ​វាយ​តម្លៃ​ខ្ពស់​បំផុត"
+
+#: search/dolphinsearchbox.cpp:100
+#, kde-format
+msgctxt "action:button"
+msgid "From Here (%1)"
+msgstr "ពី​ទីនេះ (%1)"
+
+#: search/dolphinsearchbox.cpp:358
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Quit searching"
+msgstr "បោះបង់​ការ​ស្វែងរក"
+
+#: search/dolphinsearchbox.cpp:378
+#, kde-format
+msgctxt "action:button"
+msgid "Save this search to quickly access it again in the future"
+msgstr ""
+
+#: search/dolphinsearchbox.cpp:392
+#, kde-format
+msgctxt "action:button"
+msgid "Filename"
+msgstr "ឈ្មោះ​ឯកសារ"
+
+#: search/dolphinsearchbox.cpp:396
+#, kde-format
+msgctxt "action:button"
+msgid "Content"
+msgstr "មាតិកា"
+
+#: search/dolphinsearchbox.cpp:407
+#, kde-format
+msgctxt "action:button"
+msgid "From Here"
+msgstr "ពី​ទីនេះ"
+
+#: search/dolphinsearchbox.cpp:411
+#, kde-format
+msgctxt "action:button"
+msgid "Everywhere"
+msgstr "គ្រប់​កន្លែង"
+
+#: search/dolphinsearchbox.cpp:423
+#, kde-format
+msgid "More Search Tools"
+msgstr ""
+
+#: search/dolphinsearchbox.cpp:515
+#, kde-format
+msgctxt ""
+"@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
+"user entered."
+msgid "Query Results from '%1'"
+msgstr "លទ្ធផល​សំណួរ​ពី '%1'"
+
+#: search/dolphinsearchbox.cpp:566
+#, fuzzy, kde-format
+#| msgctxt "action:button"
+#| msgid "Less Options"
+msgctxt "action:button"
+msgid "Fewer Options"
+msgstr "មាន​ជម្រើស​តិច"
+
+#: search/dolphinsearchbox.cpp:566
+#, kde-format
+msgctxt "action:button"
+msgid "More Options"
+msgstr "មាន​ជម្រើស​ច្រើន"
+
+#. i18n: ectx: label, entry (UseSystemFont), group (CompactMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (DetailsMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:12
+#: settings/dolphin_detailsmodesettings.kcfg:16
+#: settings/dolphin_iconsmodesettings.kcfg:12
+#, kde-format
+msgid "Use system font"
+msgstr "ប្រើ​ពុម្ពអក្សរ​ប្រព័ន្ធ"
+
+#. i18n: ectx: label, entry (FontFamily), group (CompactMode)
+#. i18n: ectx: label, entry (FontFamily), group (DetailsMode)
+#. i18n: ectx: label, entry (FontFamily), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:16
+#: settings/dolphin_detailsmodesettings.kcfg:12
+#: settings/dolphin_iconsmodesettings.kcfg:16
+#, kde-format
+msgid "Font family"
+msgstr "ក្រុម​ពុម្ព​អក្សរ"
+
+#. i18n: ectx: label, entry (FontSize), group (CompactMode)
+#. i18n: ectx: label, entry (FontSize), group (DetailsMode)
+#. i18n: ectx: label, entry (FontSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:20
+#: settings/dolphin_detailsmodesettings.kcfg:20
+#: settings/dolphin_iconsmodesettings.kcfg:20
+#, kde-format
+msgid "Font size"
+msgstr "ទំហំ​ពុម្ពអក្សរ"
+
+#. i18n: ectx: label, entry (ItalicFont), group (CompactMode)
+#. i18n: ectx: label, entry (ItalicFont), group (DetailsMode)
+#. i18n: ectx: label, entry (ItalicFont), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:24
+#: settings/dolphin_detailsmodesettings.kcfg:24
+#: settings/dolphin_iconsmodesettings.kcfg:24
+#, kde-format
+msgid "Italic"
+msgstr "ទ្រេត"
+
+#. i18n: ectx: label, entry (FontWeight), group (CompactMode)
+#. i18n: ectx: label, entry (FontWeight), group (DetailsMode)
+#. i18n: ectx: label, entry (FontWeight), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:28
+#: settings/dolphin_detailsmodesettings.kcfg:28
+#: settings/dolphin_iconsmodesettings.kcfg:28
+#, kde-format
+msgid "Font weight"
+msgstr "ភាព​សំខាន់​របស់​ពុម្ព​អក្សរ"
+
+#. i18n: ectx: label, entry (IconSize), group (CompactMode)
+#. i18n: ectx: label, entry (IconSize), group (DetailsMode)
+#. i18n: ectx: label, entry (IconSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:32
+#: settings/dolphin_detailsmodesettings.kcfg:32
+#: settings/dolphin_iconsmodesettings.kcfg:32
+#, kde-format
+msgid "Icon size"
+msgstr "ទំហំ​​​រូប​​តំណាង"
+
+#. i18n: ectx: label, entry (PreviewSize), group (CompactMode)
+#. i18n: ectx: label, entry (PreviewSize), group (DetailsMode)
+#. i18n: ectx: label, entry (PreviewSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:36
+#: settings/dolphin_detailsmodesettings.kcfg:36
+#: settings/dolphin_iconsmodesettings.kcfg:36
+#, kde-format
+msgid "Preview size"
+msgstr "ទំហំ​ការ​មើល​ជាមុន"
+
+#. i18n: ectx: label, entry (MaximumTextWidthIndex), group (CompactMode)
+#: settings/dolphin_compactmodesettings.kcfg:40
+#, kde-format
+msgid "Maximum text width index (0 means unlimited)"
+msgstr "លិបិក្រម​អត្ថបទ​អតិបរមា (0 មាន​ន័យ​ថា​​មិន​បាន​កំណត់)"
+
+#. i18n: ectx: label, entry (ColumnPositions), group (DetailsMode)
+#: settings/dolphin_detailsmodesettings.kcfg:40
+#, kde-format
+msgid "Position of columns"
+msgstr "ទីតាំង​ជួរឈរ"
+
+#. i18n: ectx: label, entry (ExpandableFolders), group (DetailsMode)
+#: settings/dolphin_detailsmodesettings.kcfg:44
+#, kde-format
+msgid "Expandable folders"
+msgstr "ថត​ដែល​អាច​ពង្រីក​បាន"
+
+#. i18n: ectx: label, entry (HiddenFilesShown), group (Settings)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:11
+#, kde-format
+msgctxt "@label"
+msgid "Hidden files shown"
+msgstr "បាន​បង្ហាញ​ឯកសារ​ដែល​លាក់"
+
+#. i18n: ectx: whatsthis, entry (HiddenFilesShown), group (Settings)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:12
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled hidden files, such as those starting with a '.', "
+"will be shown in the file view."
+msgstr ""
+"នៅពេល​ដែល​បាន​បើក​ជម្រើស​នេះ នោះ​ឯកសារ​ដែល​លាក់ ដូចជា​ឈ្មោះ​ឯកសារ​ដែល​ផ្ដើម​ដោយ '.' នឹង​ត្រូវបាន​"
+"បង្ហាញ​នៅ​ក្នុង​ទិដ្ឋភាព​ឯកសារ ។"
+
+#. i18n: ectx: label, entry (Version), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:19
+#, kde-format
+msgctxt "@label"
+msgid "Version"
+msgstr "កំណែ"
+
+#. i18n: ectx: whatsthis, entry (Version), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:20
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "This option defines the used version of the view properties."
+msgstr "ជម្រើស​នេះ កំណត់​កំណែ​ដែលបាន​ប្រើ​របស់​លក្ខណៈ​ទិដ្ឋភាព ។"
+
+#. i18n: ectx: label, entry (ViewMode), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:25
+#, kde-format
+msgctxt "@label"
+msgid "View Mode"
+msgstr "របៀប​មើល"
+
+#. i18n: ectx: whatsthis, entry (ViewMode), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:26
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This option controls the style of the view. Currently supported values "
+"include icons (0), details (1) and column (2) views."
+msgstr ""
+"ជម្រើស​នេះ​ត្រួតពិនិត្យ​​រចនាប័ទ្ម​ទិដ្ឋភាព ។ បច្ចុប្បន្ន តម្លៃ​ដែល​បាន​គាំទ្រ​រួមមាន​ទិដ្ឋភាព (០) សេចក្ដី​"
+"លម្អិត (១) និង​ជួរ​ឈរ (២) ។"
+
+#. i18n: ectx: label, entry (PreviewsShown), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:31
+#, kde-format
+msgctxt "@label"
+msgid "Previews shown"
+msgstr "បាន​បង្ហាញ​ទិដ្ឋភាព​មើល​ជាមុន"
+
+#. i18n: ectx: whatsthis, entry (PreviewsShown), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:32
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled, a preview of the file content is shown as an "
+"icon."
+msgstr "នៅពេល​ដែល​ធីក​ជម្រើស​នេះ ការ​មើល​មាតិកា​ឯកសារ​ជាមុន​គឺ​ត្រូវបាន​បង្ហាញ​ជា​រូបតំណាង ។"
+
+#. i18n: ectx: label, entry (GroupedSorting), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:37
+#, kde-format
+msgctxt "@label"
+msgid "Grouped Sorting"
+msgstr "ការ​តម្រៀប​​ដែល​បាន​ដាក់​ជា​ក្រុម"
+
+#. i18n: ectx: whatsthis, entry (GroupedSorting), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:38
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled, the sorted items are categorized into groups."
+msgstr "នៅ​ពេល​ជម្រើស​នេះ​ត្រូវ​បាន​បើក ធាតុ​ដែល​បាន​តម្រៀប នឹង​ត្រូវ​បាន​ដាក់​ជា​ក្រុម ។"
+
+#. i18n: ectx: label, entry (SortRole), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:43
+#, kde-format
+msgctxt "@label"
+msgid "Sort files by"
+msgstr "តម្រៀប​ឯកសារ​តាម"
+
+#. i18n: ectx: whatsthis, entry (SortRole), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:44
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This option defines which attribute (text, size, date, etc.) sorting is "
+"performed on."
+msgstr ""
+"ជម្រើស​នេះ​កំណត់​ការ​តម្រៀប​គុណ​លក្ខណៈ (ឈ្មោះ ទំហំ កាលបរិច្ឆេទ ។ល។) ដែល​បាន​​ធ្វើការ​តម្រៀប​នៅ​​លើ ។"
+
+#. i18n: ectx: label, entry (SortOrder), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:49
+#, kde-format
+msgctxt "@label"
+msgid "Order in which to sort files"
+msgstr "លំដាប់​ដែល​ត្រូវ​តម្រៀប​ឯកសារ"
+
+#. i18n: ectx: label, entry (SortFoldersFirst), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:56
+#, kde-format
+msgctxt "@label"
+msgid "Show folders first when sorting files and folders"
+msgstr "បង្ហាញ​ថត​មុន​នៅពេល​តម្រៀប​ឯកសារ និងថត"
+
+#. i18n: ectx: label, entry (VisibleRoles), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:61
+#, kde-format
+msgctxt "@label"
+msgid "Visible roles"
+msgstr "ក្បួន​​​ដែល​អាច​មើល​ឃើញ"
+
+#. i18n: ectx: label, entry (HeaderColumnWidths), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:66
+#, kde-format
+msgctxt "@label"
+msgid "Header column widths"
+msgstr "ទទឹង​ជួរឈរ​បឋមកថា"
+
+#. i18n: ectx: label, entry (Timestamp), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:71
+#, kde-format
+msgctxt "@label"
+msgid "Properties last changed"
+msgstr "លក្ខណៈសម្បត្តិ​ដែល​បាន​ផ្លាស់ប្ដូរ​ចុងក្រោយ"
+
+#. i18n: ectx: whatsthis, entry (Timestamp), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:72
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "The last time these properties were changed by the user."
+msgstr "ពេលចុងក្រោយ​ដែល​អ្នកប្រើ​បាន​ផ្លាស់ប្ដូរ​លក្ខណៈ​សម្បត្តិ​ទាំងនេះ ។"
+
+#. i18n: ectx: label, entry (AdditionalInfo), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:77
+#, kde-format
+msgctxt "@label"
+msgid "Additional Information"
+msgstr "ព័ត៌មាន​បន្ថែម"
+
+#. i18n: ectx: label, entry (EditableUrl), group (General)
+#: settings/dolphin_generalsettings.kcfg:14
+#, kde-format
+msgid "Should the URL be editable for the user"
+msgstr "អ្នកប្រើ​គួរតែ​អាច​កែសម្រួល URL បាន"
+
+#. i18n: ectx: label, entry (UrlCompletionMode), group (General)
+#: settings/dolphin_generalsettings.kcfg:18
+#, kde-format
+msgid "Text completion mode of the URL Navigator"
+msgstr "របៀប​បំពេញ​អត្ថបទ​របស់​កម្មវិធី​រុករក URL"
+
+#. i18n: ectx: label, entry (ShowFullPath), group (General)
+#: settings/dolphin_generalsettings.kcfg:22
+#, kde-format
+msgid "Should the full path be shown inside the location bar"
+msgstr "គួរ​បង្ហាញ​ផ្លូវ​ពេញលេញ​នៅ​ក្នុង​របារ​ទីតាំង"
+
+#. i18n: ectx: label, entry (ShowFullPathInTitlebar), group (General)
+#: settings/dolphin_generalsettings.kcfg:26
+#, fuzzy, kde-format
+#| msgid "Should the full path be shown inside the location bar"
+msgid "Should the full path be shown in the title bar"
+msgstr "គួរ​បង្ហាញ​ផ្លូវ​ពេញលេញ​នៅ​ក្នុង​របារ​ទីតាំង"
+
+#. i18n: ectx: label, entry (Version), group (General)
+#: settings/dolphin_generalsettings.kcfg:30
+#, kde-format
+msgid ""
+"Internal version of Dolphin, containing 3 digits for major, minor, bugfix"
+msgstr "កំណែ​ខាងក្នុង​របស់ Dolphin ដែល​មាន ៣ តួលេខ​សម្រាប់ ចម្បង បន្ទាប់បន្សំ ការ​បំបាត់​កំហុស"
+
+#. i18n: ectx: label, entry (ModifiedStartupSettings), group (General)
+#: settings/dolphin_generalsettings.kcfg:34
+#, kde-format
+msgid ""
+"Have the startup settings been modified (internal setting not shown in the "
+"UI)"
+msgstr ""
+"តើ​ការ​កំណត់​នៅពេល​ចាប់ផ្ដើម​ត្រូវបានកែប្រែ​ឬ (ការ​កំណត់​ខាង​ក្នុង​មិន​បង្ហាញ​នៅ​ក្នុង​ចំណុច​ប្រទាក់​អ្នក​ប្រើ​ទេ)"
+
+#. i18n: ectx: label, entry (HomeUrl), group (General)
+#: settings/dolphin_generalsettings.kcfg:38
+#, kde-format
+msgid "Home URL"
+msgstr "URL ដើម"
+
+#. i18n: ectx: label, entry (SplitView), group (General)
+#: settings/dolphin_generalsettings.kcfg:42
+#, kde-format
+msgid "Split the view into two panes"
+msgstr "ពុះ​ទិដ្ឋភាព​ទៅជា​ស្លាបព្រិល​ពីរ"
+
+#. i18n: ectx: label, entry (FilterBar), group (General)
+#: settings/dolphin_generalsettings.kcfg:46
+#, kde-format
+msgid "Should the filter bar be shown"
+msgstr "គួរ​បង្ហាញ​របារ​តម្រង"
+
+#. i18n: ectx: label, entry (GlobalViewProps), group (General)
+#: settings/dolphin_generalsettings.kcfg:50
+#, fuzzy, kde-format
+#| msgid "Should the view properties be used for all directories"
+msgid "Should the view properties be used for all folders"
+msgstr "គួរប្រើ​លក្ខណៈសម្បត្តិ​ទិដ្ឋភាព​សម្រាប់​ថត​ទាំង​អស់"
+
+#. i18n: ectx: label, entry (BrowseThroughArchives), group (General)
+#: settings/dolphin_generalsettings.kcfg:54
+#, kde-format
+msgid "Browse through archives"
+msgstr "រកមើល​តាមរយៈ​ប័ណ្ណសារ"
+
+#. i18n: ectx: label, entry (ConfirmClosingMultipleTabs), group (General)
+#: settings/dolphin_generalsettings.kcfg:58
+#, kde-format
+msgid "Ask for confirmation when closing windows with multiple tabs."
+msgstr "សួរ​ដើម្បី​​បញ្ជាក់​ ​នៅពេល​បិទ​បង្អួច​ដែល​មាន​ផ្ទាំង​ជា​ច្រើន ។"
+
+#. i18n: ectx: label, entry (RenameInline), group (General)
+#: settings/dolphin_generalsettings.kcfg:62
+#, kde-format
+msgid "Rename inline"
+msgstr "ប្ដូរ​ឈ្មោះ​​ក្នុង​តួ"
+
+#. i18n: ectx: label, entry (ShowSelectionToggle), group (General)
+#: settings/dolphin_generalsettings.kcfg:66
+#, kde-format
+msgid "Show selection toggle"
+msgstr "បង្ហាញ​ការ​បិទបើក​ជម្រើស"
+
+#. i18n: ectx: label, entry (UseTabForSwitchingSplitView), group (General)
+#: settings/dolphin_generalsettings.kcfg:70
+#, kde-format
+msgid "Use tab for switching between right and left split"
+msgstr ""
+
+#. i18n: ectx: label, entry (ShowToolTips), group (General)
+#: settings/dolphin_generalsettings.kcfg:74
+#, kde-format
+msgid "Show tooltips"
+msgstr "បង្ហាញ​ព័ត៌មាន​ជំនួយ"
+
+#. i18n: ectx: label, entry (ShowCopyMoveMenu), group (General)
+#: settings/dolphin_generalsettings.kcfg:78
+#, kde-format
+msgid "Show 'Copy To' and 'Move To' commands in context menu"
+msgstr "បង្ហាញ​ពាក្យ​បញ្ជា 'ចម្លង​ទៅ' និង 'ផ្លាស់ទី​ទៅ' នៅ​ក្នុង​ម៉ឺនុយ​បរិបទ"
+
+#. i18n: ectx: label, entry (ViewPropsTimestamp), group (General)
+#: settings/dolphin_generalsettings.kcfg:82
+#, kde-format
+msgid "Timestamp since when the view properties are valid"
+msgstr "ត្រា​ពេលវេលា​​​ចាប់ពី​លក្ខណៈសម្បត្តិ​ទិដ្ឋភាព​ត្រឹមត្រូវ"
+
+#. i18n: ectx: label, entry (AutoExpandFolders), group (General)
+#: settings/dolphin_generalsettings.kcfg:85
+#, kde-format
+msgid "Use auto-expanding folders for all view types"
+msgstr "ប្រើ​ការ​ពង្រីក​ថត​ដោយ​ស្វ័យប្រវត្តិ​សម្រាប់​ប្រភេទ​​ទិដ្ឋភាព​ទាំងអស់"
+
+#. i18n: ectx: label, entry (ShowZoomSlider), group (General)
+#: settings/dolphin_generalsettings.kcfg:89
+#, kde-format
+msgid "Show zoom slider in the statusbar"
+msgstr "បង្ហាញ​គ្រាប់​រំកិល​ពង្រីក​នៅ​ក្នុង​របារ​ស្ថានភាព"
+
+#. i18n: ectx: label, entry (ShowSpaceInfo), group (General)
+#: settings/dolphin_generalsettings.kcfg:93
+#, kde-format
+msgid "Show the space information in the statusbar"
+msgstr "បង្ហាញ​ព័ត៌មាន​ចន្លោះ​នៅ​ក្នុង​របារ​ស្ថានភាព"
+
+#. i18n: ectx: label, entry (LockPanels), group (General)
+#: settings/dolphin_generalsettings.kcfg:97
+#, kde-format
+msgid "Lock the layout of the panels"
+msgstr "ចាក់សោ​ប្លង់​បន្ទះ"
+
+#. i18n: ectx: label, entry (EnlargeSmallPreviews), group (General)
+#: settings/dolphin_generalsettings.kcfg:101
+#, kde-format
+msgid "Enlarge Small Previews"
+msgstr "ពង្រីក​ការ​មើល​ជា​មុន​តូច"
+
+#. i18n: ectx: label, entry (SortingChoice), group (General)
+#: settings/dolphin_generalsettings.kcfg:110
+#, kde-format
+msgid ""
+"Choose Natural, Case Sensitive, or Case Insensitive order of sorting the "
+"items"
+msgstr ""
+
+#. i18n: ectx: label, entry (TextWidthIndex), group (IconsMode)
+#: settings/dolphin_iconsmodesettings.kcfg:40
+#, kde-format
+msgid "Text width index"
+msgstr "លិបិក្រម​ទទឹង​អត្ថបទ"
+
+#. i18n: ectx: label, entry (MaximumTextLines), group (IconsMode)
+#: settings/dolphin_iconsmodesettings.kcfg:44
+#, kde-format
+msgid "Maximum textlines (0 means unlimited)"
+msgstr "តំណ​អត្ថបទ​អតិបរមា (0 មាន​ន័យ​ថា​មិន​បាន​កំណត់)"
+
+#. i18n: ectx: label, entry (enabledPlugins), group (VersionControl)
+#: settings/dolphin_versioncontrolsettings.kcfg:10
+#, kde-format
+msgid "Enabled plugins"
+msgstr "កម្មវិធី​ជំនួយ​ដែលបានបើក"
+
+#: settings/dolphinsettingsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Dolphin Preferences"
+msgstr "ចំណង់ចំណូលចិត្ត Dolphin"
+
+#: settings/dolphinsettingsdialog.cpp:61
+#, kde-format
+msgctxt "@title:group General settings"
+msgid "General"
+msgstr "ទូទៅ"
+
+#: settings/dolphinsettingsdialog.cpp:68
+#, kde-format
+msgctxt "@title:group"
+msgid "Startup"
+msgstr "ចាប់ផ្ដើម"
+
+#: settings/dolphinsettingsdialog.cpp:75
+#, kde-format
+msgctxt "@title:group"
+msgid "View Modes"
+msgstr "មើល​របៀប"
+
+#: settings/dolphinsettingsdialog.cpp:82
+#, kde-format
+msgctxt "@title:group"
+msgid "Navigation"
+msgstr "កា​ររុករក"
+
+#: settings/dolphinsettingsdialog.cpp:89
+#, kde-format
+msgctxt "@title:group"
+msgid "Services"
+msgstr "សេវា"
+
+#: settings/dolphinsettingsdialog.cpp:97
+#, kde-format
+msgctxt "@title:group"
+msgid "Trash"
+msgstr "ធុងសំរាម"
+
+#: settings/general/behaviorsettingspage.cpp:51
+#, kde-format
+msgctxt "@option:radio"
+msgid "Remember properties for each folder"
+msgstr "ចងចាំ​លក្ខណៈសម្បត្តិ​​សម្រាប់​ថត​នីមួយៗ"
+
+#: settings/general/behaviorsettingspage.cpp:52
+#, kde-format
+msgctxt "@option:radio"
+msgid "Use common properties for all folders"
+msgstr "ប្រើ​លក្ខណៈសម្បត្តិ​ទិដ្ឋភាព​​ទូទៅ​​សម្រាប់​ថត​ទាំងអស់"
+
+#: settings/general/behaviorsettingspage.cpp:57
+#, fuzzy, kde-format
+#| msgctxt "@title:group"
+#| msgid "View"
+msgctxt "@title:group"
+msgid "View: "
+msgstr "មើល"
+
+#: settings/general/behaviorsettingspage.cpp:65
+#, fuzzy, kde-format
+#| msgctxt "option:check"
+#| msgid "Natural sorting of items"
+msgctxt "option:radio"
+msgid "Natural"
+msgstr "តម្រៀប​ធាតុ​តាម​​តាម​លំនាំដើម"
+
+#: settings/general/behaviorsettingspage.cpp:66
+#, kde-format
+msgctxt "option:radio"
+msgid "Alphabetical, case insensitive"
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:67
+#, kde-format
+msgctxt "option:radio"
+msgid "Alphabetical, case sensitive"
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:73
+#, fuzzy, kde-format
+#| msgctxt "@label:listbox"
+#| msgid "Sorting:"
+msgctxt "@title:group"
+msgid "Sorting mode: "
+msgstr "ការ​តម្រៀប ៖"
+
+#: settings/general/behaviorsettingspage.cpp:82
+#, kde-format
+msgctxt "@option:check"
+msgid "Show tooltips"
+msgstr "បង្ហាញ​ព័ត៌មាន​ជំនួយ"
+
+#: settings/general/behaviorsettingspage.cpp:83
+#, kde-format
+msgctxt "@title:group"
+msgid "Miscellaneous: "
+msgstr ""
+
+#: settings/general/behaviorsettingspage.cpp:86
+#, kde-format
+msgctxt "@option:check"
+msgid "Show selection marker"
+msgstr "បង្ហាញ​ឧបករណ៍​សម្គាល់​ការ​ជ្រើស"
+
+#: settings/general/behaviorsettingspage.cpp:90
+#, kde-format
+msgctxt "option:check"
+msgid "Rename inline"
+msgstr "ប្ដូរ​ឈ្មោះ​​ក្នុង​តួ"
+
+#: settings/general/behaviorsettingspage.cpp:94
+#, kde-format
+msgctxt "option:check"
+msgid "Switch between split views with tab key"
+msgstr ""
+
+#: settings/general/configurepreviewplugindialog.cpp:49
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Preview for %1"
+msgstr "កំណត់​​រចនា​សម្ព័ន្ធ​មើល​ជា​មុន​សម្រាប់​ %1"
+
+#: settings/general/confirmationssettingspage.cpp:47
+#, fuzzy, kde-format
+#| msgctxt "@title:group"
+#| msgid "Ask for confirmation when:"
+msgctxt "@title:group"
+msgid "Ask for confirmation in all KDE applications when:"
+msgstr "ស្នើ​ការ​អះអាង​នៅ​ពេល ៖"
+
+#: settings/general/confirmationssettingspage.cpp:51
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Moving files or folders to trash"
+msgstr "ផ្លាស់ទី​ឯកសារ ឬ​ថត​ទៅ​ធុងសំរាម"
+
+#: settings/general/confirmationssettingspage.cpp:53
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu"
+#| msgid "Empty Trash"
+msgctxt "@option:check Ask for confirmation when"
+msgid "Emptying trash"
+msgstr "សម្អាត​ធុង​សំរាម"
+
+#: settings/general/confirmationssettingspage.cpp:55
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Deleting files or folders"
+msgstr "លុប​ឯកសារ ឬ​ថត"
+
+#: settings/general/confirmationssettingspage.cpp:57
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Executing scripts or desktop files"
+msgstr ""
+
+#: settings/general/confirmationssettingspage.cpp:59
+#, fuzzy, kde-format
+#| msgctxt "@title:group"
+#| msgid "Ask for confirmation when:"
+msgctxt "@title:group"
+msgid "Ask for confirmation in Dolphin when:"
+msgstr "ស្នើ​ការ​អះអាង​នៅ​ពេល ៖"
+
+#: settings/general/confirmationssettingspage.cpp:63
+#, fuzzy, kde-format
+#| msgctxt "@option:check Ask for confirmation when"
+#| msgid "Closing windows with multiple tabs"
+msgctxt "@option:check Ask for confirmation in Dolphin when"
+msgid "Closing windows with multiple tabs"
+msgstr "បិទ​បង្អួច​ដែល​មាន​ផ្ទាំង​ច្រើន"
+
+#: settings/general/generalsettingspage.cpp:44
+#: settings/kcm/kcmdolphingeneral.cpp:50
+#, kde-format
+msgctxt "@title:tab Behavior settings"
+msgid "Behavior"
+msgstr "ឥរិយាបថ"
+
+#: settings/general/generalsettingspage.cpp:49
+#: settings/kcm/kcmdolphingeneral.cpp:55
+#, kde-format
+msgctxt "@title:tab Previews settings"
+msgid "Previews"
+msgstr "មើល​ជា​​​មុន"
+
+#: settings/general/generalsettingspage.cpp:54
+#: settings/kcm/kcmdolphingeneral.cpp:60
+#, kde-format
+msgctxt "@title:tab Confirmations settings"
+msgid "Confirmations"
+msgstr "ការ​អះអាង"
+
+#: settings/general/generalsettingspage.cpp:59
+#, kde-format
+msgctxt "@title:tab Status Bar settings"
+msgid "Status Bar"
+msgstr "របារ​ស្ថានភាព"
+
+#: settings/general/previewssettingspage.cpp:52
+#, kde-format
+msgctxt "@title:group"
+msgid "Show previews for:"
+msgstr "បង្ហាញ​ការ​មើល​ជា​មុន​សម្រាប់ ៖"
+
+#: settings/general/previewssettingspage.cpp:69
+#, kde-format
+msgctxt "@label"
+msgid "Skip previews for remote files above:"
+msgstr "រំលង​ការ​មើល​ជា​មុន​សម្រាប់​​ឯកសារ​ខាង​លើ​ពី​ចម្ងាយ ។"
+
+#: settings/general/statusbarsettingspage.cpp:34
+#, kde-format
+msgctxt "@option:check"
+msgid "Show zoom slider"
+msgstr "បង្ហាញ​គ្រាប់​រំកិល​ពង្រីក"
+
+#: settings/general/statusbarsettingspage.cpp:35
+#, kde-format
+msgctxt "@option:check"
+msgid "Show space information"
+msgstr "បង្ហាញ​​ព័ត៌មាន​ចន្លោះ"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:51
+#: settings/viewmodes/viewsettingspage.cpp:42
+#, kde-format
+msgctxt "@title:tab"
+msgid "Icons"
+msgstr "រូប​តំណាង"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:56
+#: settings/viewmodes/viewsettingspage.cpp:47
+#, kde-format
+msgctxt "@title:tab"
+msgid "Compact"
+msgstr "តូច​ល្មម"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:61
+#: settings/viewmodes/viewsettingspage.cpp:52
+#, kde-format
+msgctxt "@title:tab"
+msgid "Details"
+msgstr "សេចក្ដី​លម្អិត"
+
+#: settings/navigation/navigationsettingspage.cpp:40
+#, kde-format
+msgctxt "@option:check"
+msgid "Open archives as folder"
+msgstr "បើក​ប័ណ្ណសារ​ជា​ថត"
+
+#: settings/navigation/navigationsettingspage.cpp:43
+#, kde-format
+msgctxt "option:check"
+msgid "Open folders during drag operations"
+msgstr "បើក​ថត​​អំឡុង​ពេល​ប្រតិបត្តិការ​អូស"
+
+#: settings/services/servicessettingspage.cpp:60
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Select which services should be shown in the context menu:"
+msgstr "ជ្រើស​សេវា​ណាមួយ ដែល​គួរ​ត្រូវ​បាន​បង្ហាញ​នៅ​ក្នុង​​ម៉ឺនុយ​បរិបទ ៖"
+
+#: settings/services/servicessettingspage.cpp:75
+#, kde-format
+msgctxt "@action:button"
+msgid "Download New Services..."
+msgstr "ទាញយក​សេវា​ថ្មី..."
+
+#: settings/services/servicessettingspage.cpp:133
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Dolphin must be restarted to apply the updated version control systems "
+"settings."
+msgstr ""
+"Dolphin ត្រូ​វតែ​ចាប់ផ្ដើម​ឡើង​វិញ ដើម្បី​អនុវត្ត​កំណែ​ដែលបានធ្វើ​​បច្ចុប្បន្នភាព​​ត្រួតពិនិត្យ​ការ​កំណត់​ប្រព័ន្ធ ។"
+
+#: settings/services/servicessettingspage.cpp:165
+#, kde-format
+msgctxt "@option:check"
+msgid "Delete"
+msgstr "លុប"
+
+#: settings/services/servicessettingspage.cpp:171
+#, kde-format
+msgctxt "@option:check"
+msgid "'Copy To' and 'Move To' commands"
+msgstr "ពាក្យ​បញ្ជា 'Copy To' និង 'Move To'"
+
+#: settings/services/servicessettingspage.cpp:206
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: settings/startup/startupsettingspage.cpp:63
+#, kde-format
+msgctxt "@action:button"
+msgid "Select Home Location"
+msgstr "ជ្រើស​ទីតាំងដើម"
+
+#: settings/startup/startupsettingspage.cpp:72
+#, kde-format
+msgctxt "@action:button"
+msgid "Use Current Location"
+msgstr "ប្រើ​ទីតាំង​បច្ចុប្បន្ន"
+
+#: settings/startup/startupsettingspage.cpp:76
+#, kde-format
+msgctxt "@action:button"
+msgid "Use Default Location"
+msgstr "ប្រើ​ទីតាំង​លំនាំដើម"
+
+#: settings/startup/startupsettingspage.cpp:86
+#, fuzzy, kde-format
+#| msgctxt "@title:group"
+#| msgid "Startup"
+msgctxt "@label:textbox"
+msgid "Start in:"
+msgstr "ចាប់ផ្ដើម"
+
+#: settings/startup/startupsettingspage.cpp:93
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Split view mode"
+msgstr "ពុះ​របៀប​មើល"
+
+#: settings/startup/startupsettingspage.cpp:94
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "Window options:"
+msgstr ""
+
+#: settings/startup/startupsettingspage.cpp:95
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Editable location bar"
+msgstr "របារ​ទីតាំង​ដែល​អាច​កែសម្រួលបាន"
+
+#: settings/startup/startupsettingspage.cpp:97
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show full path inside location bar"
+msgstr "បង្ហាញ​ផ្លូវ​ពេញលេញ​នៅ​ក្នុង​របារ​ទីតាំង"
+
+#: settings/startup/startupsettingspage.cpp:99
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show filter bar"
+msgstr "បង្ហាញ​របារ​តម្រង"
+
+#: settings/startup/startupsettingspage.cpp:101
+#, fuzzy, kde-format
+#| msgctxt "@option:check Startup Settings"
+#| msgid "Show full path inside location bar"
+msgctxt "@option:check Startup Settings"
+msgid "Show full path in title bar"
+msgstr "បង្ហាញ​ផ្លូវ​ពេញលេញ​នៅ​ក្នុង​របារ​ទីតាំង"
+
+#: settings/startup/startupsettingspage.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The location for the home folder is invalid or does not exist, it will not "
+"be applied."
+msgstr "ទីតាំង​សម្រាប់​ថត​ផ្ទះ​មិន​ត្រឹមត្រូវ​ទេ ឬ​មិនទាន់មាន ហើយ​វា​​មិន​ត្រូវ​បាន​អនុវត្ត​ឡើយ ។"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:41
+#, kde-format
+msgctxt "@item:inlistbox Font"
+msgid "System Font"
+msgstr "ពុម្ពអក្សរ​ប្រព័ន្ធ"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:42
+#, kde-format
+msgctxt "@item:inlistbox Font"
+msgid "Custom Font"
+msgstr "ពុម្ពអក្សរ​ផ្ទាល់ខ្លួន"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:46
+#, kde-format
+msgctxt "@action:button Choose font"
+msgid "Choose..."
+msgstr "ជ្រើស..."
+
+#: settings/viewmodes/viewsettingstab.cpp:60
+#, fuzzy, kde-format
+#| msgctxt "@label:listbox"
+#| msgid "Default:"
+msgctxt "@label:listbox"
+msgid "Default icon size:"
+msgstr "លំនាំដើម ៖"
+
+#: settings/viewmodes/viewsettingstab.cpp:68
+#, fuzzy, kde-format
+#| msgid "Preview size"
+msgctxt "@label:listbox"
+msgid "Preview icon size:"
+msgstr "ទំហំ​ការ​មើល​ជាមុន"
+
+#: settings/viewmodes/viewsettingstab.cpp:76
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Label:"
+msgctxt "@label:listbox"
+msgid "Label font:"
+msgstr "ស្លាក ៖"
+
+#: settings/viewmodes/viewsettingstab.cpp:82
+#, fuzzy, kde-format
+#| msgctxt "@title:group Size"
+#| msgid "Small"
+msgctxt "@item:inlistbox Label width"
+msgid "Small"
+msgstr "តូច"
+
+#: settings/viewmodes/viewsettingstab.cpp:83
+#, fuzzy, kde-format
+#| msgctxt "@title:group Size"
+#| msgid "Medium"
+msgctxt "@item:inlistbox Label width"
+msgid "Medium"
+msgstr "មធ្យម"
+
+#: settings/viewmodes/viewsettingstab.cpp:84
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Text width"
+#| msgid "Large"
+msgctxt "@item:inlistbox Label width"
+msgid "Large"
+msgstr "ធំ"
+
+#: settings/viewmodes/viewsettingstab.cpp:85
+#, fuzzy, kde-format
+#| msgctxt "@item:inlistbox Text width"
+#| msgid "Huge"
+msgctxt "@item:inlistbox Label width"
+msgid "Huge"
+msgstr "ធំ"
+
+#: settings/viewmodes/viewsettingstab.cpp:86
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Label:"
+msgctxt "@label:listbox"
+msgid "Label width:"
+msgstr "ស្លាក ៖"
+
+#: settings/viewmodes/viewsettingstab.cpp:89
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "Unlimited"
+msgstr "មិន​បាន​កំណត់​ឡើយ"
+
+#: settings/viewmodes/viewsettingstab.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "1"
+msgstr "១"
+
+#: settings/viewmodes/viewsettingstab.cpp:91
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "2"
+msgstr "២"
+
+#: settings/viewmodes/viewsettingstab.cpp:92
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "3"
+msgstr "៣"
+
+#: settings/viewmodes/viewsettingstab.cpp:93
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "4"
+msgstr "៤"
+
+#: settings/viewmodes/viewsettingstab.cpp:94
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "5"
+msgstr "៥"
+
+#: settings/viewmodes/viewsettingstab.cpp:95
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Maximum lines:"
+msgstr "តំណ​អតិបរមា ៖"
+
+#: settings/viewmodes/viewsettingstab.cpp:100
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Unlimited"
+msgstr "មិន​បាន​កំណត់"
+
+#: settings/viewmodes/viewsettingstab.cpp:101
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Small"
+msgstr "តូច"
+
+#: settings/viewmodes/viewsettingstab.cpp:102
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Medium"
+msgstr "មធ្យម"
+
+#: settings/viewmodes/viewsettingstab.cpp:103
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Large"
+msgstr "ធំ"
+
+#: settings/viewmodes/viewsettingstab.cpp:104
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Maximum width:"
+msgstr "ទទឹង​អតិបរមា ៖"
+
+#: settings/viewmodes/viewsettingstab.cpp:108
+#, fuzzy, kde-format
+#| msgid "Expandable folders"
+msgctxt "@option:check"
+msgid "Expandable"
+msgstr "ថត​ដែល​អាច​ពង្រីក​បាន"
+
+#: settings/viewmodes/viewsettingstab.cpp:109
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "Folders"
+msgctxt "@label:checkbox"
+msgid "Folders:"
+msgstr "ថត"
+
+#: settings/viewmodes/viewsettingstab.cpp:258
+#: statusbar/dolphinstatusbar.cpp:323
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Size: 1 pixel"
+msgid_plural "Size: %1 pixels"
+msgstr[0] "ទំហំ ៖ %1 ភីកសែល"
+
+#: settings/viewpropertiesdialog.cpp:71
+#, kde-format
+msgctxt "@title:window"
+msgid "View Properties"
+msgstr "លក្ខណៈសម្បត្តិ​ទិដ្ឋភាព"
+
+#: settings/viewpropertiesdialog.cpp:84
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Icons"
+msgstr "រូប​តំណាង"
+
+#: settings/viewpropertiesdialog.cpp:85
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Compact"
+msgstr "តូច​ល្មម"
+
+#: settings/viewpropertiesdialog.cpp:86
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Details"
+msgstr "សេចក្ដី​លម្អិត"
+
+#: settings/viewpropertiesdialog.cpp:89
+#, kde-format
+msgctxt "@item:inlistbox Sort"
+msgid "Ascending"
+msgstr "លំដាប់ឡើង"
+
+#: settings/viewpropertiesdialog.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Sort"
+msgid "Descending"
+msgstr "លំដាប់​ចុះ"
+
+#: settings/viewpropertiesdialog.cpp:98
+#, kde-format
+msgctxt "@option:check"
+msgid "Show folders first"
+msgstr "បង្ហាញ​ថត​ដំបូង"
+
+#: settings/viewpropertiesdialog.cpp:99
+#, kde-format
+msgctxt "@option:check"
+msgid "Show preview"
+msgstr "បង្ហាញ​មើល​ជា​មុន"
+
+#: settings/viewpropertiesdialog.cpp:100
+#, kde-format
+msgctxt "@option:check"
+msgid "Show in groups"
+msgstr "បង្ហាញ​ក្នុង​ក្រុម"
+
+#: settings/viewpropertiesdialog.cpp:101
+#, kde-format
+msgctxt "@option:check"
+msgid "Show hidden files"
+msgstr "បង្ហាញ​ឯកសារ​ដែលលាក់"
+
+#: settings/viewpropertiesdialog.cpp:104
+#, fuzzy, kde-format
+#| msgctxt "@label"
+#| msgid "Additional Information"
+msgctxt "@title:group"
+msgid "Additional Information"
+msgstr "ព័ត៌មាន​បន្ថែម"
+
+#: settings/viewpropertiesdialog.cpp:144
+#, kde-format
+msgid "Choose what to see on each file or folder:"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:156
+#, kde-format
+msgctxt "@label:listbox"
+msgid "View mode:"
+msgstr "របៀប​មើល ៖"
+
+#: settings/viewpropertiesdialog.cpp:157
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Sorting:"
+msgstr "ការ​តម្រៀប ៖"
+
+#: settings/viewpropertiesdialog.cpp:161
+#, fuzzy, kde-format
+#| msgctxt "@title:window"
+#| msgid "View Properties"
+msgid "View options:"
+msgstr "លក្ខណៈសម្បត្តិ​ទិដ្ឋភាព"
+
+#: settings/viewpropertiesdialog.cpp:186
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "Current folder"
+msgstr "ថត​បច្ចុប្បន្ន"
+
+#: settings/viewpropertiesdialog.cpp:189
+#, fuzzy, kde-format
+#| msgctxt "@option:radio Apply View Properties To"
+#| msgid "Current folder including all sub-folders"
+msgctxt "@option:radio Apply View Properties To"
+msgid "Current folder and sub-folders"
+msgstr "ថត​បច្ចុប្បន្ន​ដែល​មាន​ថតរង​ទាំងអស់"
+
+#: settings/viewpropertiesdialog.cpp:191
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "All folders"
+msgstr "ថត​ទាំងអស់"
+
+#: settings/viewpropertiesdialog.cpp:200
+#, kde-format
+msgctxt "@title:group"
+msgid "Apply to:"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:205
+#, kde-format
+msgctxt "@option:check"
+msgid "Use as default view settings"
+msgstr ""
+
+#: settings/viewpropertiesdialog.cpp:354
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The view properties of all sub-folders will be changed. Do you want to "
+"continue?"
+msgstr "លក្ខណសម្បត្តិ​ទិដ្ឋភាព​របស់​ថត​រង​ទាំង​អស់​នឹង​ត្រូវ​បាន​ផ្លាស់ប្ដូរ ។ តើ​អ្នក​ចង់​​បន្ត​ដែរឬទេ ។"
+
+#: settings/viewpropertiesdialog.cpp:386
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The view properties of all folders will be changed. Do you want to continue?"
+msgstr "លក្ខណៈសម្បត្តិ​ទិដ្ឋភាព​របស់​ថត​ទាំងអស់​នឹង​ត្រូវ​បាន​ផ្លាស់ប្ដូរ ។ តើ​អ្នក​ចង់​បន្ត​ឬ​ទេ ?"
+
+#: settings/viewpropsprogressinfo.cpp:50
+#, kde-format
+msgctxt "@title:window"
+msgid "Applying View Properties"
+msgstr "អនុវត្ត​លក្ខណៈ​សម្បត្តិ​ទិដ្ឋភាព"
+
+#: settings/viewpropsprogressinfo.cpp:63 settings/viewpropsprogressinfo.cpp:127
+#, kde-format
+msgctxt "@info:progress"
+msgid "Counting folders: %1"
+msgstr "ចំនួន​ថត ។ %1"
+
+#: settings/viewpropsprogressinfo.cpp:143
+#, kde-format
+msgctxt "@info:progress"
+msgid "Folders: %1"
+msgstr "ថត ៖ %1"
+
+#: statusbar/dolphinstatusbar.cpp:66
+#, kde-format
+msgid "Zoom"
+msgstr "ពង្រីក"
+
+#: statusbar/dolphinstatusbar.cpp:67
+#, kde-format
+msgctxt "Description for zoom-slider (accessibility)"
+msgid "Sets the size of the file icons."
+msgstr "កំណត់​ទំហំ​រូបតំណាង​ឯកសារ ។"
+
+#: statusbar/dolphinstatusbar.cpp:81
+#, kde-format
+msgid "Stop"
+msgstr "បញ្ឈប់"
+
+#: statusbar/dolphinstatusbar.cpp:83
+#, kde-format
+msgctxt "@tooltip"
+msgid "Stop loading"
+msgstr "បញ្ឈប់​ការ​ផ្ទុក"
+
+#: statusbar/dolphinstatusbar.cpp:261
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Zoom Slider"
+msgstr "បង្ហាញ​គ្រាប់​រំកិល​ពង្រីក"
+
+#: statusbar/dolphinstatusbar.cpp:265
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Space Information"
+msgstr "បង្ហាញ​ព័ត៌មាន​ចន្លោះ"
+
+#: statusbar/statusbarspaceinfo.cpp:93
+#, kde-format
+msgctxt "@info:status"
+msgid "Unknown size"
+msgstr "មិន​ស្គាល់​ទំហំ"
+
+#: statusbar/statusbarspaceinfo.cpp:101
+#, kde-format
+msgctxt "@info:status Free disk space"
+msgid "%1 free"
+msgstr "%1 ទំនេរ"
+
+#: views/dolphinremoteencoding.cpp:51
+#, kde-format
+msgid "Select Remote Charset"
+msgstr "ជ្រើស​សំណុំ​តួអក្សរ​ពី​ចម្ងាយ"
+
+#: views/dolphinremoteencoding.cpp:115
+#, kde-format
+msgid "Reload"
+msgstr "ផ្ទុក​ឡើង​វិញ"
+
+#: views/dolphinremoteencoding.cpp:116
+#, kde-format
+msgid "Default"
+msgstr "លំនាំដើម"
+
+#: views/dolphinview.cpp:534
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder selected"
+msgid_plural "%1 Folders selected"
+msgstr[0] "បានជ្រើស​ថត %1"
+
+#: views/dolphinview.cpp:535
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File selected"
+msgid_plural "%1 Files selected"
+msgstr[0] "បាន​ជ្រើស​ឯកសារ %1"
+
+#: views/dolphinview.cpp:539
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder"
+msgid_plural "%1 Folders"
+msgstr[0] "ថត %1"
+
+#: views/dolphinview.cpp:540
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File"
+msgid_plural "%1 Files"
+msgstr[0] "ឯកសារ %1"
+
+#: views/dolphinview.cpp:544
+#, kde-format
+msgctxt "@info:status folders, files (size)"
+msgid "%1, %2 (%3)"
+msgstr "%1, %2 (%3)"
+
+#: views/dolphinview.cpp:548
+#, kde-format
+msgctxt "@info:status files (size)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: views/dolphinview.cpp:554
+#, kde-format
+msgctxt "@info:status"
+msgid "0 Folders, 0 Files"
+msgstr "ថត ០ ឯកសារ ០"
+
+#: views/dolphinview.cpp:834
+#, kde-format
+msgid "Are you sure you want to open 1 item?"
+msgid_plural "Are you sure you want to open %1 items?"
+msgstr[0] "តើ​អ្នក​ប្រាកដ​ជា​ចង់​បើក​ធាតុ %1 ឬ ?"
+
+#: views/dolphinview.cpp:944
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatic Column Widths"
+msgstr "ទទឹង​ជួរឈរ​ស្វ័យប្រវត្តិ"
+
+#: views/dolphinview.cpp:949
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Custom Column Widths"
+msgstr "ទទឹង​ជួរឈរ​ផ្ទាល់​ខ្លួន"
+
+#: views/dolphinview.cpp:1450
+#, fuzzy, kde-format
+#| msgctxt "@info:status"
+#| msgid "Delete operation completed."
+msgctxt "@info:status"
+msgid "Trash operation completed."
+msgstr "បាន​បញ្ចប់​ការ​លុប ។"
+
+#: views/dolphinview.cpp:1459
+#, kde-format
+msgctxt "@info:status"
+msgid "Delete operation completed."
+msgstr "បាន​បញ្ចប់​ការ​លុប ។"
+
+#: views/dolphinview.cpp:1604
+#, kde-format
+msgctxt "@info:status"
+msgid "The location is empty."
+msgstr "ទីតាំង​គឺ​ទទេ ។"
+
+#: views/dolphinview.cpp:1606
+#, kde-format
+msgctxt "@info:status"
+msgid "The location '%1' is invalid."
+msgstr "ទីតាំង '%1' មិនត្រឹមត្រូវ ។"
+
+#: views/dolphinviewactionhandler.cpp:94
+#, kde-format
+msgctxt "@action"
+msgid "Create Folder..."
+msgstr "បង្កើត​ថត..."
+
+#: views/dolphinviewactionhandler.cpp:124
+#, kde-format
+msgctxt "@action \"Move to Trash\" for non-local files, etc."
+msgid "Delete (using shortcut for Trash)"
+msgstr "លុប (ដោយ​ប្រើ​ផ្លូវកាត់​សម្រាប់​ធុងសម្រាម)"
+
+#: views/dolphinviewactionhandler.cpp:131
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr "លក្ខណៈ​សម្បត្តិ"
+
+#: views/dolphinviewactionhandler.cpp:142
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "View Mode"
+msgstr "របៀប​មើល"
+
+#: views/dolphinviewactionhandler.cpp:158
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Preview"
+msgstr "មើល​ជា​​​មុន"
+
+#: views/dolphinviewactionhandler.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid "Show preview of files and folders"
+msgstr "បង្ហាញ​កា​រមើលជា​មុន​របស់​ឯកសារ និង​ថត"
+
+#: views/dolphinviewactionhandler.cpp:164
+#, kde-format
+msgctxt "@action:inmenu Sort"
+msgid "Descending"
+msgstr "លំដាប់​ចុះ"
+
+#: views/dolphinviewactionhandler.cpp:168
+#, kde-format
+msgctxt "@action:inmenu Sort"
+msgid "Folders First"
+msgstr "ថត​មុន"
+
+#: views/dolphinviewactionhandler.cpp:175
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Sort By"
+msgstr "តម្រៀប​តាម"
+
+#: views/dolphinviewactionhandler.cpp:189
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Additional Information"
+msgstr "ព័ត៌មាន​បន្ថែម"
+
+#: views/dolphinviewactionhandler.cpp:198
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Show in Groups"
+msgstr "បង្ហាញ​ក្នុង​ក្រុម"
+
+#: views/dolphinviewactionhandler.cpp:202
+#, fuzzy, kde-format
+#| msgctxt "@action:inmenu View"
+#| msgid "Show Hidden Files"
+msgctxt "@action:inmenu View"
+msgid "Hidden Files"
+msgstr "បង្ហាញ​ឯកសារ​ដែល​លាក់"
+
+#: views/dolphinviewactionhandler.cpp:203
+#, fuzzy, kde-format
+#| msgctxt "@option:check Mouse Settings"
+#| msgid "Single-click to open files and folders"
+msgctxt "@info"
+msgid "Visibility of hidden files and folders"
+msgstr "ចុច​ម្ដង​ដើម្បី​បើក​ឯកសារ និង​ថត"
+
+#: views/dolphinviewactionhandler.cpp:208
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Adjust View Properties..."
+msgstr "លៃតម្រូវ​លក្ខណៈសម្បត្តិ​របស់​ទិដ្ឋភាព..."
+
+#: views/dolphinviewactionhandler.cpp:492
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Icons"
+msgstr "រូប​តំណាង"
+
+#: views/dolphinviewactionhandler.cpp:493
+#, kde-format
+msgctxt "@info"
+msgid "Icons view mode"
+msgstr "របៀប​មើល​ជា​រូបតំណាង"
+
+#: views/dolphinviewactionhandler.cpp:503
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Compact"
+msgstr "តូច​ល្មម"
+
+#: views/dolphinviewactionhandler.cpp:504
+#, kde-format
+msgctxt "@info"
+msgid "Compact view mode"
+msgstr "របៀប​មើល​តូច​ល្មម"
+
+#: views/dolphinviewactionhandler.cpp:514
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Details"
+msgstr "សេចក្ដី​លម្អិត"
+
+#: views/dolphinviewactionhandler.cpp:515
+#, kde-format
+msgctxt "@info"
+msgid "Details view mode"
+msgstr "របៀប​មើល​ជា​សេចក្ដី​លម្អិត"
+
+#: views/renamedialog.cpp:55
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Item"
+msgstr "ប្ដូរ​ឈ្មោះ​ធាតុ"
+
+#: views/renamedialog.cpp:56
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Items"
+msgstr "ប្ដូរ​ឈ្មោះ​ធាតុ"
+
+#: views/renamedialog.cpp:68
+#, kde-format
+msgctxt "@action:button"
+msgid "&Rename"
+msgstr "ប្តូរ​​ឈ្មោះ​"
+
+#: views/renamedialog.cpp:79
+#, kde-kuit-format
+msgctxt "@label:textbox"
+msgid "Rename the item <filename>%1</filename> to:"
+msgstr "ប្ដូរ​ឈ្មោះ​ធាតុ <filename>%1</filename> ទៅ ៖"
+
+#: views/renamedialog.cpp:83
+#, kde-format
+msgctxt "@info:status"
+msgid "New name #"
+msgstr "ឈ្មោះ​ថ្មី #"
+
+#: views/renamedialog.cpp:85
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Rename the %1 selected item to:"
+msgid_plural "Rename the %1 selected items to:"
+msgstr[0] "ប្ដូរ​ឈ្មោះ​ធាតុ​ដែលបាន​ជ្រើស %1 ៖"
+
+#: views/renamedialog.cpp:130
+#, kde-format
+msgctxt "@info"
+msgid "# will be replaced by ascending numbers starting with:"
+msgstr "# នឹង​ត្រូវ​បាន​ជំនួស​ដោយ​លេខ​លំដាប់​ឡើង ដែល​ចាប់ផ្ដើម​ដោយ ៖"
+
+#: views/versioncontrol/versioncontrolobserver.cpp:212
+#, kde-format
+msgctxt "@info:status"
+msgid "Updating version information..."
+msgstr "កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​ព័ត៌មាន​កំណែ..."
+
+#~ msgctxt "@title:group"
+#~ msgid "Properties"
+#~ msgstr "លក្ខណៈ​សម្បត្តិ"
+
+#, fuzzy
+#~| msgctxt "@title:window"
+#~| msgid "Additional Information"
+#~ msgctxt "@title:group"
+#~ msgid "Additional Information Shown"
+#~ msgstr "ព័ត៌មាន​បន្ថែម"
+
+#~ msgctxt "@title:group"
+#~ msgid "Apply View Properties To"
+#~ msgstr "អនុវត្ត​លក្ខណៈសម្បត្តិ​ទិដ្ឋភាព​ទៅ"
+
+#~ msgctxt "@option:check"
+#~ msgid "Use these view properties as default"
+#~ msgstr "ប្រើ​លក្ខណសម្បត្តិ​ទិដ្ឋភាព​ទាំង​នេះ​ជា​លំនាំដើម"
+
+#~ msgctxt "@title:group"
+#~ msgid "Home Folder"
+#~ msgstr "ថត​ផ្ទះ"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Location:"
+#~ msgstr "ទីតាំង ៖"
+
+#~ msgctxt "@title:group"
+#~ msgid "Icon Size"
+#~ msgstr "ទំហំ​រូបតំណាង"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Preview:"
+#~ msgstr "មើល​ជា​​​មុន ៖"
+
+#~ msgctxt "@title:group"
+#~ msgid "Text"
+#~ msgstr "អត្ថបទ"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Font:"
+#~ msgstr "ពុម្ពអក្សរ ៖"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Width:"
+#~ msgstr "ទទឹង ៖"
+
+#~ msgctxt "@item:inlistbox Text width"
+#~ msgid "Small"
+#~ msgstr "តូច"
+
+#~ msgctxt "@item:inlistbox Text width"
+#~ msgid "Medium"
+#~ msgstr "មធ្យម"
+
+#~ msgctxt "@option:check"
+#~ msgid "Expandable folders"
+#~ msgstr "ថត​ដែល​អាច​ពង្រីក​បាន"
+
+#~ msgctxt "@label"
+#~ msgid "Select which additional information should be shown:"
+#~ msgstr "ជ្រើស​ព័ត៌មាន​បន្ថែម​ណាមួយ​ដែល​គួរ​ត្រូវ​បង្ហាញ ៖"
+
+#~ msgctxt "@action:button"
+#~ msgid "Additional Information"
+#~ msgstr "ព័ត៌មាន​បន្ថែម"
+
+#~ msgctxt "@action:inmenu Edit"
+#~ msgid "Select All"
+#~ msgstr "ជ្រើស​ទាំងអស់"
+
+#~ msgctxt "@action:inmenu View"
+#~ msgid "Reload"
+#~ msgstr "ផ្ទុក​ឡើង​វិញ"
+
+#~ msgctxt "@label"
+#~ msgid "Image Size"
+#~ msgstr "ទំហំ​រូបភាព"
+
+#~ msgctxt "@item"
+#~ msgid "Places"
+#~ msgstr "ទីតាំង"
+
+#, fuzzy
+#~| msgctxt "@item"
+#~| msgid "Recently Accessed"
+#~ msgctxt "@item"
+#~ msgid "Recently Saved"
+#~ msgstr "បាន​ចូល​ដំណើរការ​ថ្មីៗ"
+
+#~ msgctxt "@item"
+#~ msgid "Search For"
+#~ msgstr "ស្វែងរក​"
+
+#~ msgctxt "@item"
+#~ msgid "Devices"
+#~ msgstr "ឧបករណ៍"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Home"
+#~ msgstr "ផ្ទះ"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Network"
+#~ msgstr "បណ្ដាញ"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Root"
+#~ msgstr "Root"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Trash"
+#~ msgstr "ធុងសំរាម"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Today"
+#~ msgstr "ថ្ងៃ​នេះ"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Yesterday"
+#~ msgstr "ម្សិលមិញ"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "This Month"
+#~ msgstr "ខែ​នេះ"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Last Month"
+#~ msgstr "ខែ​មុន"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Documents"
+#~ msgstr "ឯកសារ"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Images"
+#~ msgstr "រូបភាព"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Audio Files"
+#~ msgstr "ឯកសារ​អូឌីយ៉ូ"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Videos"
+#~ msgstr "វីដេអូ"
+
+#, fuzzy
+#~| msgctxt "@action:inmenu"
+#~| msgid "Empty Trash"
+#~ msgid "Empty Search"
+#~ msgstr "សម្អាត​ធុង​សំរាម"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Delete"
+#~ msgstr "លុប"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Move to Trash"
+#~ msgstr "ផ្លាស់​ទី​ទៅ​​ធុង​សំរាម"
+
+#~ msgctxt "@action:inmenu File"
+#~ msgid "Rename..."
+#~ msgstr "ប្តូរ​ឈ្មោះ..."
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Help"
+#~ msgstr "ជំនួយ"
+
+#~ msgctxt "@action:inmenu File"
+#~ msgid "Move to Trash"
+#~ msgstr "ផ្លាស់​ទី​ទៅ​​ធុង​សំរាម"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Open '%1' in New Tab"
+#~ msgstr "បើក​​ '%1' នៅ​ក្នុង​ផ្ទាំង​ថ្មី"
+
+#~ msgctxt "@action:inmenu File"
+#~ msgid "Delete"
+#~ msgstr "លុប"
+
+#~ msgctxt "@label"
+#~ msgid "Date"
+#~ msgstr "កាលបរិច្ឆេទ"
+
+#~ msgctxt "option:check"
+#~ msgid "Natural sorting of items"
+#~ msgstr "តម្រៀប​ធាតុ​តាម​​តាម​លំនាំដើម"
+
+#, fuzzy
+#~| msgctxt "@option:radio Apply View Properties To"
+#~| msgid "Current folder"
+#~ msgctxt "@action:inmenu %1 service name"
+#~ msgid "%1 - current folder"
+#~ msgstr "ថត​បច្ចុប្បន្ន"
+
+#, fuzzy
+#~| msgctxt "@option:radio Apply View Properties To"
+#~| msgid "Current folder"
+#~ msgctxt "@action:inmenu %1 service name"
+#~ msgid "%1 - current device"
+#~ msgstr "ថត​បច្ចុប្បន្ន"
+
+#, fuzzy
+#~| msgctxt "@item"
+#~| msgid "Devices"
+#~ msgctxt "@action:inmenu %1 service name"
+#~ msgid "%1 - all devices"
+#~ msgstr "ឧបករណ៍"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste Into Folder"
+#~ msgstr "បិទភ្ជាប់​ទៅក្នុង​ថត"
+
+#~ msgctxt "@title:group The week day name: %A"
+#~ msgid "%A"
+#~ msgstr "%A"
+
+#~ msgctxt ""
+#~ "@title:group The week day name: %A, %B is full month name in current "
+#~ "locale, and %Y is full year number"
+#~ msgid "%A (%B, %Y)"
+#~ msgstr "%A (%B, %Y)"
+
+#~ msgctxt ""
+#~ "@title:group The month and year: %B is full month name in current locale, "
+#~ "and %Y is full year number"
+#~ msgid "%B, %Y"
+#~ msgstr "%B, %Y"
+
+#~ msgctxt "@info"
+#~ msgid "Do you really want to empty the Trash? All items will be deleted."
+#~ msgstr "តើ​អ្នក​ពិត​ជា​ចង់​​សម្អាត​ធុង​សំរាម​ឬ ? ធាតុ​ទាំងអស់​នឹង​ត្រូវ​បាន​លុប ។"
+
+#~ msgctxt "@title:group"
+#~ msgid "Mouse"
+#~ msgstr "កណ្ដុរ"
+
+#~ msgctxt "@option:check Mouse Settings"
+#~ msgid "Double-click to open files and folders"
+#~ msgstr "ចុច​ទ្វេរដង​ដើម្បី​បើក​ឯកសារ និង​ថត"
+
+#~ msgctxt "@info:status"
+#~ msgid "A folder cannot be dropped into itself"
+#~ msgstr "ថត​មិនអាច​ត្រូវ​បាន​ទម្លាក់​នៅ​ក្នុង​ខ្លួន​វា​ផ្ទាល់​បានទេ"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste"
+#~ msgstr "បិទភ្ជាប់"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Find:"
+#~ msgstr "រក ៖"
+
+#~ msgctxt "@info:status"
+#~ msgid "Update of version information failed."
+#~ msgstr "បាន​បរាជ័យ​ក្នុង​ការ​ធ្វើ​បច្ចុប្បន្នភាព​ព័ត៌មានកំណែ ។"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Copy Text"
+#~ msgstr "ចម្លង​អត្ថបទ"
+
+#~ msgctxt "@info:status"
+#~ msgid "<filename>%1</filename> selected"
+#~ msgstr "បាន​ជ្រើស<filename>%1</filename>"
+
+#~ msgctxt "@title:group Date"
+#~ msgid "Last Week"
+#~ msgstr "សប្ដាហ៍​មុន"
+
+#~ msgctxt ""
+#~ "@title:group Date: %B is full month name in current locale, and %Y is "
+#~ "full year number"
+#~ msgid "Last Week (%B, %Y)"
+#~ msgstr "សប្ដាហ៍​មុន (%B, %Y)"
+
+#~ msgid "Zoom slider"
+#~ msgstr "គ្រាប់​រំកិល​ពង្រីក"

@@ -1,0 +1,4655 @@
+# Translation of dolphin.po to Ukrainian
+# Copyright (C) 2007-2018 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Andriy Rysin <arysin@bcsii.com>, 2007.
+# Ivan Petrouchtchak <fr.ivan@ukrainian-orthodox.org>, 2007, 2008.
+# Yuri Chornoivan <yurchor@ukr.net>, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018.
+msgid ""
+msgstr ""
+"Project-Id-Version: dolphin\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2018-08-05 06:08+0200\n"
+"PO-Revision-Date: 2018-07-15 09:00+0200\n"
+"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
+"Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=n==1 ? 3 : n%10==1 && n%100!=11 ? 0 : n"
+"%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "о. Іван Петрущак,Андрій Рисін,Юрій Чорноіван"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "fr.ivan@ukrainian-orthodox.org,arysin@bcsii.com,yurchor@ukr.net"
+
+#: dolphincontextmenu.cpp:144 panels/places/placespanel.cpp:198
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Empty Trash"
+msgstr "Спорожнити смітник"
+
+#: dolphincontextmenu.cpp:165
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Restore"
+msgstr "Відновити"
+
+#: dolphincontextmenu.cpp:214
+#, kde-format
+msgctxt "@action:inmenu Add selected folder to places"
+msgid "Add to Places"
+msgstr "Додати до Місць"
+
+#: dolphincontextmenu.cpp:230 dolphinmainwindow.cpp:1070
+#, kde-format
+msgctxt "@title:menu Create new folder, file, link, etc."
+msgid "Create New"
+msgstr "Створити"
+
+#: dolphincontextmenu.cpp:240
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path"
+msgstr "Перейти за адресою"
+
+#: dolphincontextmenu.cpp:246
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path in New Window"
+msgstr "Відкрити адресу у новому вікні"
+
+#: dolphincontextmenu.cpp:252
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open Path in New Tab"
+msgstr "Відкрити адресу у новій вкладці"
+
+#: dolphincontextmenu.cpp:359
+#, kde-format
+msgctxt "@action:inmenu Add current folder to places"
+msgid "Add to Places"
+msgstr "Додати до Місць"
+
+#: dolphinmainwindow.cpp:203
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully copied."
+msgstr "Успішно скопійовано."
+
+#: dolphinmainwindow.cpp:206
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully moved."
+msgstr "Успішно пересунуто."
+
+#: dolphinmainwindow.cpp:209
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully linked."
+msgstr "Успішно створено посилання."
+
+#: dolphinmainwindow.cpp:212
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully moved to trash."
+msgstr "Успішно пересунуто до смітника."
+
+#: dolphinmainwindow.cpp:215
+#, kde-format
+msgctxt "@info:status"
+msgid "Successfully renamed."
+msgstr "Успішно перейменовано."
+
+#: dolphinmainwindow.cpp:219
+#, kde-format
+msgctxt "@info:status"
+msgid "Created folder."
+msgstr "Створено теку."
+
+#: dolphinmainwindow.cpp:292
+#, kde-format
+msgctxt "@info"
+msgid "Go back"
+msgstr "Повернутися назад"
+
+#: dolphinmainwindow.cpp:298
+#, kde-format
+msgctxt "@info"
+msgid "Go forward"
+msgstr "Перейти вперед"
+
+#: dolphinmainwindow.cpp:372
+#, kde-kuit-format
+msgctxt "@info"
+msgid "Could not access <filename>%1</filename>."
+msgstr "Не вдалося отримати доступ до <filename>%1</filename>."
+
+#: dolphinmainwindow.cpp:402
+#, kde-format
+msgctxt "@title:window"
+msgid "Confirmation"
+msgstr "Підтвердження"
+
+#: dolphinmainwindow.cpp:405
+#, kde-format
+msgctxt "@action:button 'Quit Dolphin' button"
+msgid "&Quit %1"
+msgstr "&Вийти з %1"
+
+#: dolphinmainwindow.cpp:406
+#, kde-format
+msgid "C&lose Current Tab"
+msgstr "&Закрити поточну вкладку"
+
+#: dolphinmainwindow.cpp:415
+#, kde-format
+msgid ""
+"You have multiple tabs open in this window, are you sure you want to quit?"
+msgstr ""
+"У вас відкрито декілька вкладок у цьому вікні, ви дійсно хочете його закрити?"
+
+#: dolphinmainwindow.cpp:417
+#, kde-format
+msgid "Do not ask again"
+msgstr "Не запитувати знов"
+
+#: dolphinmainwindow.cpp:899
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Location Bar"
+msgstr "Панель адреси"
+
+#: dolphinmainwindow.cpp:907
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Go"
+msgstr "Перехід"
+
+#: dolphinmainwindow.cpp:916
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Tools"
+msgstr "Інструменти"
+
+#: dolphinmainwindow.cpp:1035
+#, kde-format
+msgid "Search"
+msgstr "Пошук"
+
+#: dolphinmainwindow.cpp:1037
+#, kde-format
+msgid "Search for %1"
+msgstr "Шукати %1"
+
+#: dolphinmainwindow.cpp:1077
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "New &Window"
+msgstr "Нове &вікно"
+
+#: dolphinmainwindow.cpp:1081
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "New Tab"
+msgstr "Нова вкладка"
+
+#: dolphinmainwindow.cpp:1087
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Close Tab"
+msgstr "Закрити вкладку"
+
+#: dolphinmainwindow.cpp:1104
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Paste"
+msgstr "Вставити"
+
+#: dolphinmainwindow.cpp:1111 dolphinpart.cpp:190
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Invert Selection"
+msgstr "Інвертувати вибір"
+
+#: dolphinmainwindow.cpp:1125
+#, kde-format
+msgctxt "@action:intoolbar Stash"
+msgid "Stash"
+msgstr "Стос"
+
+#: dolphinmainwindow.cpp:1126
+#, kde-format
+msgctxt "@info"
+msgid "Opens the stash virtual directory in a split window"
+msgstr "Відкриває віртуальний каталог стосу у частині розділеного вікна"
+
+#: dolphinmainwindow.cpp:1135
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Stop"
+msgstr "Зупинити"
+
+#: dolphinmainwindow.cpp:1136
+#, kde-format
+msgctxt "@info"
+msgid "Stop loading"
+msgstr "Зупинити завантаження"
+
+#: dolphinmainwindow.cpp:1141
+#, kde-format
+msgctxt "@action:inmenu Navigation Bar"
+msgid "Editable Location"
+msgstr "Змінна адреса"
+
+#: dolphinmainwindow.cpp:1146
+#, kde-format
+msgctxt "@action:inmenu Navigation Bar"
+msgid "Replace Location"
+msgstr "Замінити адресу"
+
+#: dolphinmainwindow.cpp:1166
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Undo close tab"
+msgstr "Скасувати закриття вкладки"
+
+#: dolphinmainwindow.cpp:1181
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Show Filter Bar"
+msgstr "Показувати панель фільтра"
+
+#: dolphinmainwindow.cpp:1187
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Compare Files"
+msgstr "Порівняти файли"
+
+#: dolphinmainwindow.cpp:1195
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Open Terminal"
+msgstr "Відкрити термінал"
+
+#: dolphinmainwindow.cpp:1216
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Next Tab"
+msgstr "Наступна вкладка"
+
+#: dolphinmainwindow.cpp:1217
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Activate Next Tab"
+msgstr "Активізувати наступну вкладку"
+
+#: dolphinmainwindow.cpp:1223
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Previous Tab"
+msgstr "Попередня вкладка"
+
+#: dolphinmainwindow.cpp:1224
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Activate Previous Tab"
+msgstr "Активізувати попередню вкладку"
+
+#: dolphinmainwindow.cpp:1231
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Target"
+msgstr "Показати призначення"
+
+#: dolphinmainwindow.cpp:1237
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Tab"
+msgstr "Відкрити у новій вкладці"
+
+#: dolphinmainwindow.cpp:1242
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Tabs"
+msgstr "Відкрити у нових вкладках"
+
+#: dolphinmainwindow.cpp:1247
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Open in New Window"
+msgstr "Відкрити у новому вікні"
+
+#: dolphinmainwindow.cpp:1257
+#, kde-format
+msgctxt "@action:inmenu Panels"
+msgid "Unlock Panels"
+msgstr "Розблокувати панелі"
+
+#: dolphinmainwindow.cpp:1259
+#, kde-format
+msgctxt "@action:inmenu Panels"
+msgid "Lock Panels"
+msgstr "Заблокувати панелі"
+
+#: dolphinmainwindow.cpp:1265
+#, kde-format
+msgctxt "@title:window"
+msgid "Information"
+msgstr "Інформація"
+
+#: dolphinmainwindow.cpp:1286
+#, kde-format
+msgctxt "@title:window"
+msgid "Folders"
+msgstr "Теки"
+
+#: dolphinmainwindow.cpp:1310
+#, kde-format
+msgctxt "@title:window Shell terminal"
+msgid "Terminal"
+msgstr "Термінал"
+
+#: dolphinmainwindow.cpp:1343
+#, kde-format
+msgctxt "@title:window"
+msgid "Places"
+msgstr "Місця"
+
+#: dolphinmainwindow.cpp:1375
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Panels"
+msgstr "Панелі"
+
+#: dolphinmainwindow.cpp:1445
+#, kde-format
+msgctxt "@action"
+msgid "Control"
+msgstr "Керування"
+
+#: dolphinmainwindow.cpp:1561
+#, kde-format
+msgctxt "@action:intoolbar Close left view"
+msgid "Close"
+msgstr "Закрити"
+
+#: dolphinmainwindow.cpp:1562
+#, kde-format
+msgctxt "@info"
+msgid "Close left view"
+msgstr "Закрити ліву панель перегляду"
+
+#: dolphinmainwindow.cpp:1565
+#, kde-format
+msgctxt "@action:intoolbar Close right view"
+msgid "Close"
+msgstr "Закрити"
+
+#: dolphinmainwindow.cpp:1566
+#, kde-format
+msgctxt "@info"
+msgid "Close right view"
+msgstr "Закрити праву панель перегляду"
+
+#: dolphinmainwindow.cpp:1570
+#, kde-format
+msgctxt "@action:intoolbar Split view"
+msgid "Split"
+msgstr "Розділити"
+
+#: dolphinmainwindow.cpp:1571
+#, kde-format
+msgctxt "@info"
+msgid "Split view"
+msgstr "Розділений перегляд"
+
+#: dolphinpart.cpp:171
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "&Edit File Type..."
+msgstr "З&мінити тип файла…"
+
+#: dolphinpart.cpp:175
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Select Items Matching..."
+msgstr "Пошук для позначення…"
+
+#: dolphinpart.cpp:180
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Unselect Items Matching..."
+msgstr "Пошук для зняття позначення…"
+
+#: dolphinpart.cpp:186
+#, kde-format
+msgctxt "@action:inmenu Edit"
+msgid "Unselect All"
+msgstr "Зняти позначення з усіх"
+
+#: dolphinpart.cpp:203
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "App&lications"
+msgstr "Про&грами"
+
+#: dolphinpart.cpp:206
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "&Network Folders"
+msgstr "Мере&жеві теки"
+
+#: dolphinpart.cpp:209
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Sett&ings"
+msgstr "П&араметри"
+
+#: dolphinpart.cpp:212
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Trash"
+msgstr "Смітник"
+
+#: dolphinpart.cpp:215
+#, kde-format
+msgctxt "@action:inmenu Go"
+msgid "Autostart"
+msgstr "Автозапуск"
+
+#: dolphinpart.cpp:220
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Find File..."
+msgstr "Знайти файл..."
+
+#: dolphinpart.cpp:226
+#, kde-format
+msgctxt "@action:inmenu Tools"
+msgid "Open &Terminal"
+msgstr "Відкрити &термінал"
+
+#: dolphinpart.cpp:296
+#, kde-format
+msgctxt "@title"
+msgid "Dolphin Part"
+msgstr "Компонент Dolphin"
+
+#: dolphinpart.cpp:490
+#, kde-format
+msgctxt "@title:window"
+msgid "Select"
+msgstr "Вибір"
+
+#: dolphinpart.cpp:491
+#, kde-format
+msgid "Select all items matching this pattern:"
+msgstr "Позначити всі об’єкти, що відповідають шаблону:"
+
+#: dolphinpart.cpp:497
+#, kde-format
+msgctxt "@title:window"
+msgid "Unselect"
+msgstr "Зняття позначення"
+
+#: dolphinpart.cpp:498
+#, kde-format
+msgid "Unselect all items matching this pattern:"
+msgstr "Зняти позначення з усіх об’єктів, що відповідають шаблону:"
+
+#. i18n: ectx: Menu (edit)
+#: dolphinpart.rc:4
+#, kde-format
+msgid "&Edit"
+msgstr "З&міни"
+
+#. i18n: ectx: Menu (selection)
+#: dolphinpart.rc:14
+#, kde-format
+msgctxt "@title:menu"
+msgid "Selection"
+msgstr "Вибір"
+
+#. i18n: ectx: Menu (view)
+#: dolphinpart.rc:23
+#, kde-format
+msgid "&View"
+msgstr "П&ерегляд"
+
+#. i18n: ectx: Menu (go)
+#: dolphinpart.rc:32
+#, kde-format
+msgid "&Go"
+msgstr "Пе&рехід"
+
+#. i18n: ectx: Menu (tools)
+#: dolphinpart.rc:40
+#, kde-format
+msgctxt "@title:menu"
+msgid "Tools"
+msgstr "Інструменти"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: dolphinpart.rc:48
+#, kde-format
+msgctxt "@title:menu"
+msgid "Dolphin Toolbar"
+msgstr "Пенал Dolphin-а"
+
+#: dolphinrecenttabsmenu.cpp:29
+#, kde-format
+msgid "Recently Closed Tabs"
+msgstr "Нещодавно закриті вкладки"
+
+#: dolphinrecenttabsmenu.cpp:34
+#, kde-format
+msgid "Empty Recently Closed Tabs"
+msgstr "Спорожнити список нещодавно закритих вкладок"
+
+#: dolphintabbar.cpp:141
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "New Tab"
+msgstr "Нова вкладка"
+
+#: dolphintabbar.cpp:142
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Detach Tab"
+msgstr "Відокремити вкладку"
+
+#: dolphintabbar.cpp:143
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Other Tabs"
+msgstr "Закрити інші вкладки"
+
+#: dolphintabbar.cpp:144
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Close Tab"
+msgstr "Закрити вкладку"
+
+#. i18n: ectx: Menu (location_bar)
+#: dolphinui.rc:38
+#, kde-format
+msgctxt "@title:menu"
+msgid "Location Bar"
+msgstr "Панель адреси"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: dolphinui.rc:92
+#, kde-format
+msgctxt "@title:menu"
+msgid "Main Toolbar"
+msgstr "Головний пенал"
+
+#: dolphinviewcontainer.cpp:93
+#, kde-format
+msgctxt "@action:button"
+msgid "Empty Trash"
+msgstr "Спорожнити смітник"
+
+#: dolphinviewcontainer.cpp:115
+#, kde-format
+msgid "Running Dolphin as root can be dangerous. Please be careful."
+msgstr ""
+"Запуск Dolphin від імені root може бути небезпечним. Будь ласка, будьте "
+"обережні."
+
+#: dolphinviewcontainer.cpp:392 search/dolphinsearchbox.cpp:311
+#, kde-format
+msgid "Search for %1 in %2"
+msgstr "Шукати %1 у %2"
+
+#: dolphinviewcontainer.cpp:462
+#, kde-format
+msgctxt "@info:progress"
+msgid "Loading folder..."
+msgstr "Завантаження теки…"
+
+#: dolphinviewcontainer.cpp:470
+#, kde-format
+msgctxt "@info:progress"
+msgid "Sorting..."
+msgstr "Впорядковування…"
+
+#: dolphinviewcontainer.cpp:481
+#, kde-format
+msgctxt "@info"
+msgid "Searching..."
+msgstr "Пошук…"
+
+#: dolphinviewcontainer.cpp:501
+#, kde-format
+msgctxt "@info:status"
+msgid "No items found."
+msgstr "Не знайдено жодного об’єкта."
+
+#: dolphinviewcontainer.cpp:608
+#, kde-format
+msgctxt "@info:status"
+msgid "Dolphin does not support web pages, the web browser has been launched"
+msgstr ""
+"Показ вебсторінок не підтримується Dolphin, було запущено переглядач "
+"інтернету"
+
+#: dolphinviewcontainer.cpp:622
+#, kde-format
+msgctxt "@info:status"
+msgid "Protocol not supported by Dolphin, Konqueror has been launched"
+msgstr "Протокол не підтримується Dolphin, було запущено Konqueror"
+
+#: dolphinviewcontainer.cpp:630
+#, kde-format
+msgctxt "@info:status"
+msgid "Invalid protocol"
+msgstr "Некоректний протокол"
+
+#: filterbar/filterbar.cpp:39
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Hide Filter Bar"
+msgstr "Приховати смужку фільтрування"
+
+#: filterbar/filterbar.cpp:47
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Keep Filter When Changing Folders"
+msgstr "Зберігати фільтрування, якщо змінюється тека"
+
+#: filterbar/filterbar.cpp:51
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Filter:"
+msgstr "Фільтр:"
+
+#: kitemviews/kfileitemlistwidget.cpp:72
+#, kde-format
+msgctxt "@item:intable"
+msgid "Unknown"
+msgstr "Невідомо"
+
+#: kitemviews/kfileitemlistwidget.cpp:74
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 об’єкт"
+msgstr[1] "%1 об’єкти"
+msgstr[2] "%1 об’єктів"
+msgstr[3] "1 об’єкт"
+
+#: kitemviews/kfileitemmodel.cpp:1929
+#, kde-format
+msgctxt "@title:group Groups that start with a digit"
+msgid "0 - 9"
+msgstr "0–9"
+
+#: kitemviews/kfileitemmodel.cpp:1931
+#, kde-format
+msgctxt "@title:group"
+msgid "Others"
+msgstr "Інше"
+
+#: kitemviews/kfileitemmodel.cpp:1962
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Folders"
+msgstr "Теки"
+
+#: kitemviews/kfileitemmodel.cpp:1964
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Small"
+msgstr "Малий"
+
+#: kitemviews/kfileitemmodel.cpp:1966
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Medium"
+msgstr "Середній"
+
+#: kitemviews/kfileitemmodel.cpp:1968
+#, kde-format
+msgctxt "@title:group Size"
+msgid "Big"
+msgstr "Великий"
+
+#: kitemviews/kfileitemmodel.cpp:2013
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Today"
+msgstr "Сьогодні"
+
+#: kitemviews/kfileitemmodel.cpp:2014
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Yesterday"
+msgstr "Вчора"
+
+#: kitemviews/kfileitemmodel.cpp:2017
+#, kde-format
+msgctxt "@title:group Date: The week day name: dddd"
+msgid "dddd"
+msgstr "dddd"
+
+#: kitemviews/kfileitemmodel.cpp:2019
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"dddd\"with context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2023
+#, kde-format
+msgctxt "@title:group Date"
+msgid "One Week Ago"
+msgstr "Тиждень тому"
+
+#: kitemviews/kfileitemmodel.cpp:2026
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Two Weeks Ago"
+msgstr "Два тижні тому"
+
+#: kitemviews/kfileitemmodel.cpp:2029
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Three Weeks Ago"
+msgstr "Три тижні тому"
+
+#: kitemviews/kfileitemmodel.cpp:2033
+#, kde-format
+msgctxt "@title:group Date"
+msgid "Earlier this Month"
+msgstr "Цього місяця"
+
+#: kitemviews/kfileitemmodel.cpp:2046
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Yesterday' (MMMM, yyyy)"
+msgstr "'Вчора' (MMMM, yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2049
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Yesterday' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2054
+#, kde-format
+msgctxt ""
+"@title:group Date: The week day name: dddd, MMMM is full month name in "
+"current locale, and yyyy is full year number"
+msgid "dddd (MMMM, yyyy)"
+msgstr "dddd (MMMM, yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2057
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"dddd (MMMM, yyyy)\" with context "
+"@title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2061
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'One Week Ago' (MMMM, yyyy)"
+msgstr "'Тиждень тому' (MMMM, yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2064
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'One Week Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2068
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Two Weeks Ago' (MMMM, yyyy)"
+msgstr "'Два тижні тому' (MMMM, yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2071
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Two Weeks Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2075
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Three Weeks Ago' (MMMM, yyyy)"
+msgstr "'Три тижні тому' (MMMM, yyyy)"
+
+#: kitemviews/kfileitemmodel.cpp:2078
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Three Weeks Ago' (MMMM, yyyy)\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2082
+#, kde-format
+msgctxt ""
+"@title:group Date: MMMM is full month name in current locale, and yyyy is "
+"full year number"
+msgid "'Earlier on' MMMM, yyyy"
+msgstr "'Раніше,' MMMM, yyyy"
+
+#: kitemviews/kfileitemmodel.cpp:2085
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"'Earlier on' MMMM, yyyy\" with "
+"context @title:group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2090
+#, kde-format
+msgctxt ""
+"@title:group The month and year: MMMM is full month name in current locale, "
+"and yyyy is full year number"
+msgid "MMMM, yyyy"
+msgstr "MMMM yyyy"
+
+#: kitemviews/kfileitemmodel.cpp:2093
+#, kde-format
+msgctxt ""
+"Can be used to script translation of \"MMMM, yyyy\" with context @title:"
+"group Date"
+msgid "%1"
+msgstr "%1"
+
+#: kitemviews/kfileitemmodel.cpp:2132 kitemviews/kfileitemmodel.cpp:2145
+#: kitemviews/kfileitemmodel.cpp:2158
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Read, "
+msgstr "Читання, "
+
+#: kitemviews/kfileitemmodel.cpp:2135 kitemviews/kfileitemmodel.cpp:2148
+#: kitemviews/kfileitemmodel.cpp:2161
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Write, "
+msgstr "Запис, "
+
+#: kitemviews/kfileitemmodel.cpp:2138 kitemviews/kfileitemmodel.cpp:2151
+#: kitemviews/kfileitemmodel.cpp:2164
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Execute, "
+msgstr "Виконання, "
+
+#: kitemviews/kfileitemmodel.cpp:2140 kitemviews/kfileitemmodel.cpp:2153
+#: kitemviews/kfileitemmodel.cpp:2166
+#, kde-format
+msgctxt "@item:intext Access permission, concatenated"
+msgid "Forbidden"
+msgstr "Заборонено"
+
+#: kitemviews/kfileitemmodel.cpp:2168
+#, kde-format
+msgctxt "@title:group Files and folders by permissions"
+msgid "User: %1 | Group: %2 | Others: %3"
+msgstr "Користувач: %1 | Група: %2 | Інші: %3"
+
+#: kitemviews/kfileitemmodel.cpp:2257
+#, kde-format
+msgctxt "@label"
+msgid "Name"
+msgstr "Назва"
+
+#: kitemviews/kfileitemmodel.cpp:2258
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "Розмір"
+
+#: kitemviews/kfileitemmodel.cpp:2259
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr "Змінено"
+
+#: kitemviews/kfileitemmodel.cpp:2260
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr "Дата створення"
+
+#: kitemviews/kfileitemmodel.cpp:2261
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr "Доступ"
+
+#: kitemviews/kfileitemmodel.cpp:2262
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "Тип"
+
+#: kitemviews/kfileitemmodel.cpp:2263
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "Оцінка"
+
+#: kitemviews/kfileitemmodel.cpp:2264
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "Мітки"
+
+#: kitemviews/kfileitemmodel.cpp:2265
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "Коментар"
+
+#: kitemviews/kfileitemmodel.cpp:2266
+#, kde-format
+msgctxt "@label"
+msgid "Title"
+msgstr "Заголовок"
+
+#: kitemviews/kfileitemmodel.cpp:2266 kitemviews/kfileitemmodel.cpp:2267
+#: kitemviews/kfileitemmodel.cpp:2268
+#, kde-format
+msgctxt "@label"
+msgid "Document"
+msgstr "Документ"
+
+#: kitemviews/kfileitemmodel.cpp:2267
+#, kde-format
+msgctxt "@label"
+msgid "Word Count"
+msgstr "Кількість слів"
+
+#: kitemviews/kfileitemmodel.cpp:2268
+#, kde-format
+msgctxt "@label"
+msgid "Line Count"
+msgstr "Кількість рядків"
+
+#: kitemviews/kfileitemmodel.cpp:2269
+#, kde-format
+msgctxt "@label"
+msgid "Date Photographed"
+msgstr "Дата зйомки"
+
+#: kitemviews/kfileitemmodel.cpp:2269 kitemviews/kfileitemmodel.cpp:2270
+#: kitemviews/kfileitemmodel.cpp:2271 kitemviews/kfileitemmodel.cpp:2272
+#, kde-format
+msgctxt "@label"
+msgid "Image"
+msgstr "Зображення"
+
+#: kitemviews/kfileitemmodel.cpp:2270
+#, kde-format
+msgctxt "@label"
+msgid "Width"
+msgstr "Ширина"
+
+#: kitemviews/kfileitemmodel.cpp:2271
+#, kde-format
+msgctxt "@label"
+msgid "Height"
+msgstr "Висота"
+
+#: kitemviews/kfileitemmodel.cpp:2272
+#, kde-format
+msgctxt "@label"
+msgid "Orientation"
+msgstr "Орієнтація"
+
+#: kitemviews/kfileitemmodel.cpp:2273
+#, kde-format
+msgctxt "@label"
+msgid "Artist"
+msgstr "Виконавець"
+
+#: kitemviews/kfileitemmodel.cpp:2273 kitemviews/kfileitemmodel.cpp:2274
+#: kitemviews/kfileitemmodel.cpp:2275 kitemviews/kfileitemmodel.cpp:2276
+#: kitemviews/kfileitemmodel.cpp:2277 kitemviews/kfileitemmodel.cpp:2278
+#: kitemviews/kfileitemmodel.cpp:2279
+#, kde-format
+msgctxt "@label"
+msgid "Audio"
+msgstr "Звук"
+
+#: kitemviews/kfileitemmodel.cpp:2274
+#, kde-format
+msgctxt "@label"
+msgid "Genre"
+msgstr "Жанр"
+
+#: kitemviews/kfileitemmodel.cpp:2275
+#, kde-format
+msgctxt "@label"
+msgid "Album"
+msgstr "Альбом"
+
+#: kitemviews/kfileitemmodel.cpp:2276
+#, kde-format
+msgctxt "@label"
+msgid "Duration"
+msgstr "Тривалість"
+
+#: kitemviews/kfileitemmodel.cpp:2277
+#, kde-format
+msgctxt "@label"
+msgid "Bitrate"
+msgstr "Бітова швидкість"
+
+#: kitemviews/kfileitemmodel.cpp:2278
+#, kde-format
+msgctxt "@label"
+msgid "Track"
+msgstr "Композиція"
+
+#: kitemviews/kfileitemmodel.cpp:2279
+#, kde-format
+msgctxt "@label"
+msgid "Release Year"
+msgstr "Рік випуску"
+
+#: kitemviews/kfileitemmodel.cpp:2280
+#, kde-format
+msgctxt "@label"
+msgid "Path"
+msgstr "Шлях"
+
+#: kitemviews/kfileitemmodel.cpp:2280 kitemviews/kfileitemmodel.cpp:2281
+#: kitemviews/kfileitemmodel.cpp:2282 kitemviews/kfileitemmodel.cpp:2283
+#: kitemviews/kfileitemmodel.cpp:2284 kitemviews/kfileitemmodel.cpp:2285
+#: kitemviews/kfileitemmodel.cpp:2286
+#, kde-format
+msgctxt "@label"
+msgid "Other"
+msgstr "Інше"
+
+#: kitemviews/kfileitemmodel.cpp:2281
+#, kde-format
+msgctxt "@label"
+msgid "Deletion Time"
+msgstr "Час вилучення"
+
+#: kitemviews/kfileitemmodel.cpp:2282
+#, kde-format
+msgctxt "@label"
+msgid "Link Destination"
+msgstr "Призначення посилання"
+
+#: kitemviews/kfileitemmodel.cpp:2283
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "Джерело отримання"
+
+#: kitemviews/kfileitemmodel.cpp:2284
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "Права доступу"
+
+#: kitemviews/kfileitemmodel.cpp:2285
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "Власник"
+
+#: kitemviews/kfileitemmodel.cpp:2286
+#, kde-format
+msgctxt "@label"
+msgid "User Group"
+msgstr "Група користувачів"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:162
+#, kde-format
+msgctxt "@item:intable Image orientation"
+msgid "Unchanged"
+msgstr "Без змін"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:163
+#, kde-format
+msgctxt "@item:intable Image orientation"
+msgid "Horizontally flipped"
+msgstr "Перевернути горизонтально"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:164
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "180° rotated"
+msgstr "Повернути на 180°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:165
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Vertically flipped"
+msgstr "Перевернути вертикально"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:166
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Transposed"
+msgstr "Обернути навколо діагоналі"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:167
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "90° rotated"
+msgstr "Повернути на 90°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:168
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "Transversed"
+msgstr "Обернути навколо бічної діагоналі"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:169
+#, kde-format
+msgctxt "@item:intable image orientation"
+msgid "270° rotated"
+msgstr "Повернути на 270°"
+
+#: kitemviews/private/kbaloorolesprovider.cpp:187
+#, kde-format
+msgctxt "@label bitrate (per second)"
+msgid "%1/s"
+msgstr "%1/с"
+
+#: kitemviews/private/kfileitemmodeldirlister.cpp:42
+#, kde-format
+msgctxt "@info:status"
+msgid "Unknown error."
+msgstr "Невідома помилка."
+
+#: main.cpp:71
+#, kde-format
+msgid "Dolphin"
+msgstr "Dolphin"
+
+#: main.cpp:72
+#, kde-format
+msgctxt "@title"
+msgid "File Manager"
+msgstr "Менеджер файлів"
+
+#: main.cpp:74
+#, kde-format
+msgctxt "@info:credit"
+msgid "(C) 2006-2016 Peter Penz, Frank Reininghaus, and Emmanuel Pescosta"
+msgstr "© Peter Penz, Frank Reininghaus та Emmanuel Pescosta, 2006–2016"
+
+#: main.cpp:76
+#, kde-format
+msgctxt "@info:credit"
+msgid "Emmanuel Pescosta"
+msgstr "Emmanuel Pescosta"
+
+#: main.cpp:77
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer (since 2014) and developer"
+msgstr "Супровідник (з 2014 року) і розробник"
+
+#: main.cpp:79
+#, kde-format
+msgctxt "@info:credit"
+msgid "Frank Reininghaus"
+msgstr "Frank Reininghaus"
+
+#: main.cpp:80
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer (2012-2014) and developer"
+msgstr "Супровідник (2012–2014 рік) і розробник"
+
+#: main.cpp:82
+#, kde-format
+msgctxt "@info:credit"
+msgid "Peter Penz"
+msgstr "Peter Penz"
+
+#: main.cpp:83
+#, kde-format
+msgctxt "@info:credit"
+msgid "Maintainer and developer (2006-2012)"
+msgstr "Супровідник і розробник (2006–2012 роки)"
+
+#: main.cpp:85
+#, kde-format
+msgctxt "@info:credit"
+msgid "Sebastian Trüg"
+msgstr "Sebastian Trüg"
+
+#: main.cpp:86 main.cpp:89 main.cpp:92 main.cpp:95 main.cpp:98 main.cpp:101
+#: main.cpp:104
+#, kde-format
+msgctxt "@info:credit"
+msgid "Developer"
+msgstr "Розробник"
+
+#: main.cpp:88
+#, kde-format
+msgctxt "@info:credit"
+msgid "David Faure"
+msgstr "David Faure"
+
+#: main.cpp:91
+#, kde-format
+msgctxt "@info:credit"
+msgid "Aaron J. Seigo"
+msgstr "Aaron J. Seigo"
+
+#: main.cpp:94
+#, kde-format
+msgctxt "@info:credit"
+msgid "Rafael Fernández López"
+msgstr "Rafael Fernández López"
+
+#: main.cpp:97
+#, kde-format
+msgctxt "@info:credit"
+msgid "Kevin Ottens"
+msgstr "Kevin Ottens"
+
+#: main.cpp:100
+#, kde-format
+msgctxt "@info:credit"
+msgid "Holger Freyther"
+msgstr "Holger Freyther"
+
+#: main.cpp:103
+#, kde-format
+msgctxt "@info:credit"
+msgid "Max Blazejak"
+msgstr "Max Blazejak"
+
+#: main.cpp:106
+#, kde-format
+msgctxt "@info:credit"
+msgid "Michael Austin"
+msgstr "Michael Austin"
+
+#: main.cpp:107
+#, kde-format
+msgctxt "@info:credit"
+msgid "Documentation"
+msgstr "Документація"
+
+#: main.cpp:119
+#, kde-format
+msgctxt "@info:shell"
+msgid "The files and folders passed as arguments will be selected."
+msgstr "Назви файлів та тек, передані як параметри, буде позначено."
+
+#: main.cpp:121
+#, kde-format
+msgctxt "@info:shell"
+msgid "Dolphin will get started with a split view."
+msgstr "Dolphin запускатиметься у режимі розділеного перегляду."
+
+#: main.cpp:122
+#, kde-format
+msgctxt "@info:shell"
+msgid "Start Dolphin Daemon (only required for DBus Interface)"
+msgstr ""
+"Запустити фонову службу Dolphin (потрібна лише для роботи з інтерфейсом D-"
+"Bus)"
+
+#: main.cpp:123
+#, kde-format
+msgctxt "@info:shell"
+msgid "Document to open"
+msgstr "Відкрити документ"
+
+#. i18n: ectx: label, entry (HiddenFilesShown), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:10
+#, kde-format
+msgid "Hidden files shown"
+msgstr "Показані приховані файли"
+
+#. i18n: ectx: label, entry (LimitFoldersPanelToHome), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:14
+#, kde-format
+msgid "Limit folders panel to home directory if inside home"
+msgstr "Показувати на панелі тек лише теки домівки, якщо перебуваємо у home"
+
+#. i18n: ectx: label, entry (AutoScrolling), group (FoldersPanel)
+#: panels/folders/dolphin_folderspanelsettings.kcfg:18
+#, kde-format
+msgid "Automatic scrolling"
+msgstr "Автоматичне гортання"
+
+#: panels/folders/treeviewcontextmenu.cpp:66
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Cut"
+msgstr "Вирізати"
+
+#: panels/folders/treeviewcontextmenu.cpp:70
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Copy"
+msgstr "Скопіювати"
+
+#: panels/folders/treeviewcontextmenu.cpp:86
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Rename..."
+msgstr "Перейменувати…"
+
+#: panels/folders/treeviewcontextmenu.cpp:100
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Move to Trash"
+msgstr "Пересунути до смітника"
+
+#: panels/folders/treeviewcontextmenu.cpp:110
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Delete"
+msgstr "Вилучити"
+
+#: panels/folders/treeviewcontextmenu.cpp:120
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Hidden Files"
+msgstr "Показати приховані файли"
+
+#: panels/folders/treeviewcontextmenu.cpp:129
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Limit to Home Directory"
+msgstr "Обмежитися теками домівки"
+
+#: panels/folders/treeviewcontextmenu.cpp:137
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatic Scrolling"
+msgstr "Автоматичне гортання"
+
+#: panels/folders/treeviewcontextmenu.cpp:147
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Properties"
+msgstr "Властивості"
+
+#. i18n: ectx: label, entry (previewsShown), group (InformationPanel)
+#: panels/information/dolphin_informationpanelsettings.kcfg:10
+#, kde-format
+msgid "Previews shown"
+msgstr "Показані перегляди"
+
+#. i18n: ectx: label, entry (dateFormat), group (InformationPanel)
+#: panels/information/dolphin_informationpanelsettings.kcfg:14
+#, kde-format
+msgid "Date display format"
+msgstr "Формат показу дати"
+
+#: panels/information/filemetadataconfigurationdialog.cpp:43
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Shown Data"
+msgstr "Налаштування показу даних"
+
+#: panels/information/filemetadataconfigurationdialog.cpp:55
+#, kde-format
+msgctxt "@label::textbox"
+msgid "Select which data should be shown:"
+msgstr "Вкажіть дані, які слід показувати:"
+
+#: panels/information/informationpanelcontent.cpp:235
+#, kde-format
+msgctxt "@label"
+msgid "%1 item selected"
+msgid_plural "%1 items selected"
+msgstr[0] "Позначено %1 об’єкт"
+msgstr[1] "Позначено %1 об’єкти"
+msgstr[2] "Позначено %1 об’єктів"
+msgstr[3] "Позначено один об’єкт"
+
+#: panels/information/informationpanelcontent.cpp:280
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Preview"
+msgstr "Перегляд"
+
+#: panels/information/informationpanelcontent.cpp:285
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Configure..."
+msgstr "Налаштувати…"
+
+#: panels/information/informationpanelcontent.cpp:289
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Condensed Date"
+msgstr "Стисла дата"
+
+#: panels/information/informationpanelcontent.cpp:313
+#, kde-format
+msgctxt "@label::textbox"
+msgid "Select which data should be shown in the information panel:"
+msgstr "Вкажіть дані, які слід показувати на панелі інформації:"
+
+#: panels/information/phononwidget.cpp:126
+#, kde-format
+msgid "play"
+msgstr "відтворити"
+
+#: panels/information/phononwidget.cpp:132
+#, kde-format
+msgid "stop"
+msgstr "зупинити"
+
+#. i18n: ectx: label, entry (IconSize), group (PlacesPanel)
+#: panels/places/dolphin_placespanelsettings.kcfg:10
+#, kde-format
+msgid ""
+"Size of icons in the Places Panel (-1 means \"use the style's small size\")"
+msgstr ""
+"Розмір піктограм на панелі «Місця» (-1 — використовувати малий розмір зі "
+"стилю)"
+
+#: panels/places/placesitemeditdialog.cpp:136
+#, kde-format
+msgctxt "@label"
+msgid "Label:"
+msgstr "Мітка:"
+
+#: panels/places/placesitemeditdialog.cpp:138
+#, kde-format
+msgid "Enter descriptive label here"
+msgstr "Тут введіть описову мітку"
+
+#: panels/places/placesitemeditdialog.cpp:142
+#, kde-format
+msgctxt "@label"
+msgid "Location:"
+msgstr "Адреса:"
+
+#: panels/places/placesitemeditdialog.cpp:149
+#, kde-format
+msgctxt "@label"
+msgid "Choose an icon:"
+msgstr "Виберіть піктограму:"
+
+#: panels/places/placesitemeditdialog.cpp:162
+#, kde-format
+msgid "&Only show when using this application (%1)"
+msgstr "&Лише для цієї програми (%1)"
+
+#: panels/places/placesitemmodel.cpp:212
+#, kde-format
+msgctxt "@item"
+msgid "Eject"
+msgstr "Виштовхнути"
+
+#: panels/places/placesitemmodel.cpp:247
+#, kde-format
+msgctxt "@item"
+msgid "Release"
+msgstr "Звільнити"
+
+#: panels/places/placesitemmodel.cpp:249
+#, kde-format
+msgctxt "@item"
+msgid "Safely Remove"
+msgstr "Безпечно вилучити"
+
+#: panels/places/placesitemmodel.cpp:252
+#, kde-format
+msgctxt "@item"
+msgid "Unmount"
+msgstr "Демонтувати"
+
+#: panels/places/placesitemmodel.cpp:274
+#, kde-format
+msgctxt "@info"
+msgid "The device '%1' is not a disk and cannot be ejected."
+msgstr "Пристрій «%1» не є дисковим, його не можна виштовхнути."
+
+#: panels/places/placesitemmodel.cpp:505
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while accessing '%1', the system responded: %2"
+msgstr ""
+"Під час спроби доступу до «%1» сталася помилка, повідомлення системи: %2"
+
+#: panels/places/placesitemmodel.cpp:509
+#, kde-format
+msgctxt "@info"
+msgid "An error occurred while accessing '%1'"
+msgstr "Під час спроби доступу до «%1» сталася помилка"
+
+#: panels/places/placespanel.cpp:204
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Open in New Window"
+msgstr "Відкрити у новому вікні"
+
+#: panels/places/placespanel.cpp:205
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Open in New Tab"
+msgstr "Відкрити у новій вкладці"
+
+#: panels/places/placespanel.cpp:211
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Edit..."
+msgstr "Редагувати…"
+
+#: panels/places/placespanel.cpp:216
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Remove"
+msgstr "Вилучити"
+
+#: panels/places/placespanel.cpp:219
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Hide"
+msgstr "Приховати"
+
+#: panels/places/placespanel.cpp:266
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Add Entry..."
+msgstr "Додати запис…"
+
+#: panels/places/placespanel.cpp:270
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Show All Entries"
+msgstr "Показати всі записи"
+
+#: panels/places/placespanel.cpp:277
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Icon Size"
+msgstr "Розмір піктограм"
+
+#: panels/places/placespanel.cpp:288
+#, kde-format
+msgctxt "Small icon size"
+msgid "Small (%1x%2)"
+msgstr "Малий (%1⨯%2)"
+
+#: panels/places/placespanel.cpp:289
+#, kde-format
+msgctxt "Medium icon size"
+msgid "Medium (%1x%2)"
+msgstr "Середній (%1⨯%2)"
+
+#: panels/places/placespanel.cpp:290
+#, kde-format
+msgctxt "Large icon size"
+msgid "Large (%1x%2)"
+msgstr "Великий (%1⨯%2)"
+
+#: panels/places/placespanel.cpp:291
+#, kde-format
+msgctxt "Huge icon size"
+msgid "Huge (%1x%2)"
+msgstr "Величезний (%1⨯%2)"
+
+#: panels/places/placespanel.cpp:337
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "Hide Section '%1'"
+msgstr "Приховати розділ «%1»"
+
+#: panels/places/placespanel.cpp:452
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Places Entry"
+msgstr "Додавання запису на панель «Місця»"
+
+#: panels/places/placespanel.cpp:467
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Places Entry"
+msgstr "Зміна запису на панелі «Місця»"
+
+#: panels/terminal/terminalpanel.cpp:149
+#, kde-format
+msgid ""
+"Terminal cannot be shown because Konsole is not installed. Please install it "
+"and then reopen the panel."
+msgstr ""
+"Термінал неможливо показати, оскільки не встановлено Konsole. Будь ласка, "
+"встановіть цю програму, а потім повторно відкрийте панель."
+
+#: panels/terminal/terminalpanel.cpp:155
+#, kde-format
+msgid "Install Konsole"
+msgstr "Встановіть Konsole"
+
+#. i18n: ectx: label, entry (Location), group (Search)
+#: search/dolphin_searchsettings.kcfg:10
+#, kde-format
+msgid "Location"
+msgstr "Адреса"
+
+#. i18n: ectx: label, entry (What), group (Search)
+#: search/dolphin_searchsettings.kcfg:14
+#, kde-format
+msgid "What"
+msgstr "Що"
+
+#. i18n: ectx: label, entry (ShowFacetsWidget), group (Search)
+#: search/dolphin_searchsettings.kcfg:18
+#, kde-format
+msgid "Show facets widget"
+msgstr "Показувати віджет граней"
+
+#: search/dolphinfacetswidget.cpp:51
+#, kde-format
+msgctxt "@option:check"
+msgid "Any"
+msgstr "Будь-який"
+
+#: search/dolphinfacetswidget.cpp:52
+#, kde-format
+msgctxt "@option:check"
+msgid "Folders"
+msgstr "Теки"
+
+#: search/dolphinfacetswidget.cpp:53
+#, kde-format
+msgctxt "@option:check"
+msgid "Documents"
+msgstr "Документи"
+
+#: search/dolphinfacetswidget.cpp:54
+#, kde-format
+msgctxt "@option:check"
+msgid "Images"
+msgstr "Зображення"
+
+#: search/dolphinfacetswidget.cpp:55
+#, kde-format
+msgctxt "@option:check"
+msgid "Audio Files"
+msgstr "Звукові файли"
+
+#: search/dolphinfacetswidget.cpp:56
+#, kde-format
+msgctxt "@option:check"
+msgid "Videos"
+msgstr "Відео"
+
+#: search/dolphinfacetswidget.cpp:69
+#, kde-format
+msgctxt "@option:option"
+msgid "Anytime"
+msgstr "Будь-коли"
+
+#: search/dolphinfacetswidget.cpp:70
+#, kde-format
+msgctxt "@option:option"
+msgid "Today"
+msgstr "Сьогодні"
+
+#: search/dolphinfacetswidget.cpp:71
+#, kde-format
+msgctxt "@option:option"
+msgid "Yesterday"
+msgstr "Вчора"
+
+#: search/dolphinfacetswidget.cpp:72
+#, kde-format
+msgctxt "@option:option"
+msgid "This Week"
+msgstr "Цього тижня"
+
+#: search/dolphinfacetswidget.cpp:73
+#, kde-format
+msgctxt "@option:option"
+msgid "This Month"
+msgstr "Цього місяця"
+
+#: search/dolphinfacetswidget.cpp:74
+#, kde-format
+msgctxt "@option:option"
+msgid "This Year"
+msgstr "Цього року"
+
+#: search/dolphinfacetswidget.cpp:87
+#, kde-format
+msgctxt "@option:option"
+msgid "Any Rating"
+msgstr "Будь-яка оцінка"
+
+#: search/dolphinfacetswidget.cpp:88
+#, kde-format
+msgctxt "@option:option"
+msgid "1 or more"
+msgstr "1 або більше"
+
+#: search/dolphinfacetswidget.cpp:89
+#, kde-format
+msgctxt "@option:option"
+msgid "2 or more"
+msgstr "2 або більше"
+
+#: search/dolphinfacetswidget.cpp:90
+#, kde-format
+msgctxt "@option:option"
+msgid "3 or more"
+msgstr "3 або більше"
+
+#: search/dolphinfacetswidget.cpp:91
+#, kde-format
+msgctxt "@option:option"
+msgid "4 or more"
+msgstr "4 або більше"
+
+#: search/dolphinfacetswidget.cpp:92
+#, kde-format
+msgctxt "@option:option"
+msgid "Highest Rating"
+msgstr "Найвища оцінка"
+
+#: search/dolphinsearchbox.cpp:100
+#, kde-format
+msgctxt "action:button"
+msgid "From Here (%1)"
+msgstr "Починаючи звідси (%1)"
+
+#: search/dolphinsearchbox.cpp:358
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Quit searching"
+msgstr "Припинити пошук"
+
+#: search/dolphinsearchbox.cpp:378
+#, kde-format
+msgctxt "action:button"
+msgid "Save this search to quickly access it again in the future"
+msgstr ""
+"Зберегти ці критерії пошуку для пришвидшення доступу до них у майбутньому"
+
+#: search/dolphinsearchbox.cpp:392
+#, kde-format
+msgctxt "action:button"
+msgid "Filename"
+msgstr "Назва файла"
+
+#: search/dolphinsearchbox.cpp:396
+#, kde-format
+msgctxt "action:button"
+msgid "Content"
+msgstr "Вміст"
+
+#: search/dolphinsearchbox.cpp:407
+#, kde-format
+msgctxt "action:button"
+msgid "From Here"
+msgstr "Починаючи звідси"
+
+#: search/dolphinsearchbox.cpp:411
+#, kde-format
+msgctxt "action:button"
+msgid "Everywhere"
+msgstr "Всюди"
+
+#: search/dolphinsearchbox.cpp:423
+#, kde-format
+msgid "More Search Tools"
+msgstr "Інші засоби для пошуку"
+
+#: search/dolphinsearchbox.cpp:515
+#, kde-format
+msgctxt ""
+"@title UDS_DISPLAY_NAME for a KIO directory listing. %1 is the query the "
+"user entered."
+msgid "Query Results from '%1'"
+msgstr "Результати запиту до «%1»"
+
+#: search/dolphinsearchbox.cpp:566
+#, kde-format
+msgctxt "action:button"
+msgid "Fewer Options"
+msgstr "Менше параметрів"
+
+#: search/dolphinsearchbox.cpp:566
+#, kde-format
+msgctxt "action:button"
+msgid "More Options"
+msgstr "Більше параметрів"
+
+#. i18n: ectx: label, entry (UseSystemFont), group (CompactMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (DetailsMode)
+#. i18n: ectx: label, entry (UseSystemFont), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:12
+#: settings/dolphin_detailsmodesettings.kcfg:16
+#: settings/dolphin_iconsmodesettings.kcfg:12
+#, kde-format
+msgid "Use system font"
+msgstr "Використовувати системний шрифт"
+
+#. i18n: ectx: label, entry (FontFamily), group (CompactMode)
+#. i18n: ectx: label, entry (FontFamily), group (DetailsMode)
+#. i18n: ectx: label, entry (FontFamily), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:16
+#: settings/dolphin_detailsmodesettings.kcfg:12
+#: settings/dolphin_iconsmodesettings.kcfg:16
+#, kde-format
+msgid "Font family"
+msgstr "Гарнітура шрифту"
+
+#. i18n: ectx: label, entry (FontSize), group (CompactMode)
+#. i18n: ectx: label, entry (FontSize), group (DetailsMode)
+#. i18n: ectx: label, entry (FontSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:20
+#: settings/dolphin_detailsmodesettings.kcfg:20
+#: settings/dolphin_iconsmodesettings.kcfg:20
+#, kde-format
+msgid "Font size"
+msgstr "Розмір шрифту"
+
+#. i18n: ectx: label, entry (ItalicFont), group (CompactMode)
+#. i18n: ectx: label, entry (ItalicFont), group (DetailsMode)
+#. i18n: ectx: label, entry (ItalicFont), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:24
+#: settings/dolphin_detailsmodesettings.kcfg:24
+#: settings/dolphin_iconsmodesettings.kcfg:24
+#, kde-format
+msgid "Italic"
+msgstr "Курсив"
+
+#. i18n: ectx: label, entry (FontWeight), group (CompactMode)
+#. i18n: ectx: label, entry (FontWeight), group (DetailsMode)
+#. i18n: ectx: label, entry (FontWeight), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:28
+#: settings/dolphin_detailsmodesettings.kcfg:28
+#: settings/dolphin_iconsmodesettings.kcfg:28
+#, kde-format
+msgid "Font weight"
+msgstr "Жирність шрифту"
+
+#. i18n: ectx: label, entry (IconSize), group (CompactMode)
+#. i18n: ectx: label, entry (IconSize), group (DetailsMode)
+#. i18n: ectx: label, entry (IconSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:32
+#: settings/dolphin_detailsmodesettings.kcfg:32
+#: settings/dolphin_iconsmodesettings.kcfg:32
+#, kde-format
+msgid "Icon size"
+msgstr "Розмір піктограм"
+
+#. i18n: ectx: label, entry (PreviewSize), group (CompactMode)
+#. i18n: ectx: label, entry (PreviewSize), group (DetailsMode)
+#. i18n: ectx: label, entry (PreviewSize), group (IconsMode)
+#: settings/dolphin_compactmodesettings.kcfg:36
+#: settings/dolphin_detailsmodesettings.kcfg:36
+#: settings/dolphin_iconsmodesettings.kcfg:36
+#, kde-format
+msgid "Preview size"
+msgstr "Розмір перегляду"
+
+#. i18n: ectx: label, entry (MaximumTextWidthIndex), group (CompactMode)
+#: settings/dolphin_compactmodesettings.kcfg:40
+#, kde-format
+msgid "Maximum text width index (0 means unlimited)"
+msgstr "Максимальний індекс ширини тексту (0 — без обмежень)"
+
+#. i18n: ectx: label, entry (ColumnPositions), group (DetailsMode)
+#: settings/dolphin_detailsmodesettings.kcfg:40
+#, kde-format
+msgid "Position of columns"
+msgstr "Розташування стовпчиків"
+
+#. i18n: ectx: label, entry (ExpandableFolders), group (DetailsMode)
+#: settings/dolphin_detailsmodesettings.kcfg:44
+#, kde-format
+msgid "Expandable folders"
+msgstr "Теки з розгортанням"
+
+#. i18n: ectx: label, entry (HiddenFilesShown), group (Settings)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:11
+#, kde-format
+msgctxt "@label"
+msgid "Hidden files shown"
+msgstr "Показані приховані файли"
+
+#. i18n: ectx: whatsthis, entry (HiddenFilesShown), group (Settings)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:12
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled hidden files, such as those starting with a '.', "
+"will be shown in the file view."
+msgstr ""
+"Якщо буде позначено цей пункт, приховані файли, назви яких починаються з "
+"«.», буде показано при перегляді файлів."
+
+#. i18n: ectx: label, entry (Version), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:19
+#, kde-format
+msgctxt "@label"
+msgid "Version"
+msgstr "Версія"
+
+#. i18n: ectx: whatsthis, entry (Version), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:20
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "This option defines the used version of the view properties."
+msgstr ""
+"За допомогою цього пункту можна визначити версію властивостей перегляду."
+
+#. i18n: ectx: label, entry (ViewMode), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:25
+#, kde-format
+msgctxt "@label"
+msgid "View Mode"
+msgstr "Режим перегляду"
+
+#. i18n: ectx: whatsthis, entry (ViewMode), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:26
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This option controls the style of the view. Currently supported values "
+"include icons (0), details (1) and column (2) views."
+msgstr ""
+"Цей параметр керує стилем вигляду. У поточній версії програми підтримуються "
+"значення перегляду піктограмами (0), з подробицями (1) і з колонками (2)."
+
+#. i18n: ectx: label, entry (PreviewsShown), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:31
+#, kde-format
+msgctxt "@label"
+msgid "Previews shown"
+msgstr "Показані перегляди"
+
+#. i18n: ectx: whatsthis, entry (PreviewsShown), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:32
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled, a preview of the file content is shown as an "
+"icon."
+msgstr ""
+"Якщо буде позначено цей пункт, вміст файла буде показано на піктограмі."
+
+#. i18n: ectx: label, entry (GroupedSorting), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:37
+#, kde-format
+msgctxt "@label"
+msgid "Grouped Sorting"
+msgstr "Впорядкування за групами"
+
+#. i18n: ectx: whatsthis, entry (GroupedSorting), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:38
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"When this option is enabled, the sorted items are categorized into groups."
+msgstr ""
+"Якщо буде позначено цей пункт, впорядковані об’єкти буде зібрано у групи."
+
+#. i18n: ectx: label, entry (SortRole), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:43
+#, kde-format
+msgctxt "@label"
+msgid "Sort files by"
+msgstr "Впорядкувати файли за"
+
+#. i18n: ectx: whatsthis, entry (SortRole), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:44
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid ""
+"This option defines which attribute (text, size, date, etc.) sorting is "
+"performed on."
+msgstr ""
+"Цей параметр визначає, за яким атрибутом (текстом, розміром, датою тощо) "
+"впорядковувати файли."
+
+#. i18n: ectx: label, entry (SortOrder), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:49
+#, kde-format
+msgctxt "@label"
+msgid "Order in which to sort files"
+msgstr "Порядок сортування файлів"
+
+#. i18n: ectx: label, entry (SortFoldersFirst), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:56
+#, kde-format
+msgctxt "@label"
+msgid "Show folders first when sorting files and folders"
+msgstr "У списках файлів і тек першими показувати теки"
+
+#. i18n: ectx: label, entry (VisibleRoles), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:61
+#, kde-format
+msgctxt "@label"
+msgid "Visible roles"
+msgstr "Видимі ролі"
+
+#. i18n: ectx: label, entry (HeaderColumnWidths), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:66
+#, kde-format
+msgctxt "@label"
+msgid "Header column widths"
+msgstr "Ширина колонок заголовків"
+
+#. i18n: ectx: label, entry (Timestamp), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:71
+#, kde-format
+msgctxt "@label"
+msgid "Properties last changed"
+msgstr "Властивості востаннє змінено"
+
+#. i18n: ectx: whatsthis, entry (Timestamp), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:72
+#, kde-format
+msgctxt "@info:whatsthis"
+msgid "The last time these properties were changed by the user."
+msgstr "Коли востаннє ці властивості було змінено користувачем."
+
+#. i18n: ectx: label, entry (AdditionalInfo), group (Dolphin)
+#: settings/dolphin_directoryviewpropertysettings.kcfg:77
+#, kde-format
+msgctxt "@label"
+msgid "Additional Information"
+msgstr "Додаткові відомості"
+
+#. i18n: ectx: label, entry (EditableUrl), group (General)
+#: settings/dolphin_generalsettings.kcfg:14
+#, kde-format
+msgid "Should the URL be editable for the user"
+msgstr "Чи може користувач редагувати адресу URL"
+
+#. i18n: ectx: label, entry (UrlCompletionMode), group (General)
+#: settings/dolphin_generalsettings.kcfg:18
+#, kde-format
+msgid "Text completion mode of the URL Navigator"
+msgstr "Режим автодоповнення тексту у Навігаторі адресами"
+
+#. i18n: ectx: label, entry (ShowFullPath), group (General)
+#: settings/dolphin_generalsettings.kcfg:22
+#, kde-format
+msgid "Should the full path be shown inside the location bar"
+msgstr "Визначає, чи слід показувати повну адресу у полі адреси"
+
+#. i18n: ectx: label, entry (ShowFullPathInTitlebar), group (General)
+#: settings/dolphin_generalsettings.kcfg:26
+#, kde-format
+msgid "Should the full path be shown in the title bar"
+msgstr "Визначає, чи слід показувати повну адресу на смужці заголовка"
+
+#. i18n: ectx: label, entry (Version), group (General)
+#: settings/dolphin_generalsettings.kcfg:30
+#, kde-format
+msgid ""
+"Internal version of Dolphin, containing 3 digits for major, minor, bugfix"
+msgstr ""
+"Версія Dolphin, складається з 3 цифр: основний номер, додатковий номер та "
+"номер версії виправлення вад"
+
+#. i18n: ectx: label, entry (ModifiedStartupSettings), group (General)
+#: settings/dolphin_generalsettings.kcfg:34
+#, kde-format
+msgid ""
+"Have the startup settings been modified (internal setting not shown in the "
+"UI)"
+msgstr ""
+"Чи було змінено параметри запуску (внутрішній параметри, який не буде "
+"показано у графічному інтерфейсі)"
+
+#. i18n: ectx: label, entry (HomeUrl), group (General)
+#: settings/dolphin_generalsettings.kcfg:38
+#, kde-format
+msgid "Home URL"
+msgstr "URL домівки"
+
+#. i18n: ectx: label, entry (SplitView), group (General)
+#: settings/dolphin_generalsettings.kcfg:42
+#, kde-format
+msgid "Split the view into two panes"
+msgstr "Розбити вікно на дві панелі"
+
+#. i18n: ectx: label, entry (FilterBar), group (General)
+#: settings/dolphin_generalsettings.kcfg:46
+#, kde-format
+msgid "Should the filter bar be shown"
+msgstr "Чи показувати смужку фільтрування"
+
+#. i18n: ectx: label, entry (GlobalViewProps), group (General)
+#: settings/dolphin_generalsettings.kcfg:50
+#, kde-format
+msgid "Should the view properties be used for all folders"
+msgstr "Чи використовувати ці властивості перегляду для всіх тек"
+
+#. i18n: ectx: label, entry (BrowseThroughArchives), group (General)
+#: settings/dolphin_generalsettings.kcfg:54
+#, kde-format
+msgid "Browse through archives"
+msgstr "Навігація архівів"
+
+#. i18n: ectx: label, entry (ConfirmClosingMultipleTabs), group (General)
+#: settings/dolphin_generalsettings.kcfg:58
+#, kde-format
+msgid "Ask for confirmation when closing windows with multiple tabs."
+msgstr "Вимагати підтвердження при закритті вікон з декількома вкладками."
+
+#. i18n: ectx: label, entry (RenameInline), group (General)
+#: settings/dolphin_generalsettings.kcfg:62
+#, kde-format
+msgid "Rename inline"
+msgstr "Перейменувати без відкриття нового вікна"
+
+#. i18n: ectx: label, entry (ShowSelectionToggle), group (General)
+#: settings/dolphin_generalsettings.kcfg:66
+#, kde-format
+msgid "Show selection toggle"
+msgstr "Показати перемикання вибраного"
+
+#. i18n: ectx: label, entry (UseTabForSwitchingSplitView), group (General)
+#: settings/dolphin_generalsettings.kcfg:70
+#, kde-format
+msgid "Use tab for switching between right and left split"
+msgstr "Використовувати вкладки для перемикання між правою і лівою панелями"
+
+#. i18n: ectx: label, entry (ShowToolTips), group (General)
+#: settings/dolphin_generalsettings.kcfg:74
+#, kde-format
+msgid "Show tooltips"
+msgstr "Показувати підказки"
+
+#. i18n: ectx: label, entry (ShowCopyMoveMenu), group (General)
+#: settings/dolphin_generalsettings.kcfg:78
+#, kde-format
+msgid "Show 'Copy To' and 'Move To' commands in context menu"
+msgstr ""
+"Показувати команди в контекстному меню команди «Скопіювати до» та "
+"«Пересунути до»"
+
+#. i18n: ectx: label, entry (ViewPropsTimestamp), group (General)
+#: settings/dolphin_generalsettings.kcfg:82
+#, kde-format
+msgid "Timestamp since when the view properties are valid"
+msgstr "Часова мітка чинності властивостей перегляду"
+
+#. i18n: ectx: label, entry (AutoExpandFolders), group (General)
+#: settings/dolphin_generalsettings.kcfg:85
+#, kde-format
+msgid "Use auto-expanding folders for all view types"
+msgstr "Використовувати теки, що розгортаються самі, у всіх типах переглядів"
+
+#. i18n: ectx: label, entry (ShowZoomSlider), group (General)
+#: settings/dolphin_generalsettings.kcfg:89
+#, kde-format
+msgid "Show zoom slider in the statusbar"
+msgstr "Показувати повзунок масштабу у смужці стану"
+
+#. i18n: ectx: label, entry (ShowSpaceInfo), group (General)
+#: settings/dolphin_generalsettings.kcfg:93
+#, kde-format
+msgid "Show the space information in the statusbar"
+msgstr "Показувати відомості про об’єм у смужці стану"
+
+#. i18n: ectx: label, entry (LockPanels), group (General)
+#: settings/dolphin_generalsettings.kcfg:97
+#, kde-format
+msgid "Lock the layout of the panels"
+msgstr "Заблокувати компонування панелей"
+
+#. i18n: ectx: label, entry (EnlargeSmallPreviews), group (General)
+#: settings/dolphin_generalsettings.kcfg:101
+#, kde-format
+msgid "Enlarge Small Previews"
+msgstr "Збільшувати малі мініатюри"
+
+#. i18n: ectx: label, entry (SortingChoice), group (General)
+#: settings/dolphin_generalsettings.kcfg:110
+#, kde-format
+msgid ""
+"Choose Natural, Case Sensitive, or Case Insensitive order of sorting the "
+"items"
+msgstr ""
+"Виберіть спосіб упорядковування пунктів: природний, з урахуванням регістру "
+"символів чи без урахування регістру символів"
+
+#. i18n: ectx: label, entry (TextWidthIndex), group (IconsMode)
+#: settings/dolphin_iconsmodesettings.kcfg:40
+#, kde-format
+msgid "Text width index"
+msgstr "Індекс ширини тексту"
+
+#. i18n: ectx: label, entry (MaximumTextLines), group (IconsMode)
+#: settings/dolphin_iconsmodesettings.kcfg:44
+#, kde-format
+msgid "Maximum textlines (0 means unlimited)"
+msgstr "Максимальна кількість рядків (0 — без обмежень)"
+
+#. i18n: ectx: label, entry (enabledPlugins), group (VersionControl)
+#: settings/dolphin_versioncontrolsettings.kcfg:10
+#, kde-format
+msgid "Enabled plugins"
+msgstr "Увімкнені додатки"
+
+#: settings/dolphinsettingsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Dolphin Preferences"
+msgstr "Параметри Dolphin"
+
+#: settings/dolphinsettingsdialog.cpp:61
+#, kde-format
+msgctxt "@title:group General settings"
+msgid "General"
+msgstr "Загальне"
+
+#: settings/dolphinsettingsdialog.cpp:68
+#, kde-format
+msgctxt "@title:group"
+msgid "Startup"
+msgstr "Запуск"
+
+#: settings/dolphinsettingsdialog.cpp:75
+#, kde-format
+msgctxt "@title:group"
+msgid "View Modes"
+msgstr "Режими перегляду"
+
+#: settings/dolphinsettingsdialog.cpp:82
+#, kde-format
+msgctxt "@title:group"
+msgid "Navigation"
+msgstr "Навігація"
+
+#: settings/dolphinsettingsdialog.cpp:89
+#, kde-format
+msgctxt "@title:group"
+msgid "Services"
+msgstr "Служби"
+
+#: settings/dolphinsettingsdialog.cpp:97
+#, kde-format
+msgctxt "@title:group"
+msgid "Trash"
+msgstr "Смітник"
+
+#: settings/general/behaviorsettingspage.cpp:51
+#, kde-format
+msgctxt "@option:radio"
+msgid "Remember properties for each folder"
+msgstr "Запам’ятовувати властивості для кожної теки"
+
+#: settings/general/behaviorsettingspage.cpp:52
+#, kde-format
+msgctxt "@option:radio"
+msgid "Use common properties for all folders"
+msgstr "Використовувати загальні властивості для всіх тек"
+
+#: settings/general/behaviorsettingspage.cpp:57
+#, kde-format
+msgctxt "@title:group"
+msgid "View: "
+msgstr "Перегляд:"
+
+#: settings/general/behaviorsettingspage.cpp:65
+#, kde-format
+msgctxt "option:radio"
+msgid "Natural"
+msgstr "Природний"
+
+#: settings/general/behaviorsettingspage.cpp:66
+#, kde-format
+msgctxt "option:radio"
+msgid "Alphabetical, case insensitive"
+msgstr "За абеткою, без врахування регістру"
+
+#: settings/general/behaviorsettingspage.cpp:67
+#, kde-format
+msgctxt "option:radio"
+msgid "Alphabetical, case sensitive"
+msgstr "За абеткою, із врахуванням регістру"
+
+#: settings/general/behaviorsettingspage.cpp:73
+#, kde-format
+msgctxt "@title:group"
+msgid "Sorting mode: "
+msgstr "Режим упорядковування: "
+
+#: settings/general/behaviorsettingspage.cpp:82
+#, kde-format
+msgctxt "@option:check"
+msgid "Show tooltips"
+msgstr "Показувати підказки"
+
+#: settings/general/behaviorsettingspage.cpp:83
+#, kde-format
+msgctxt "@title:group"
+msgid "Miscellaneous: "
+msgstr "Інше: "
+
+#: settings/general/behaviorsettingspage.cpp:86
+#, kde-format
+msgctxt "@option:check"
+msgid "Show selection marker"
+msgstr "Показувати позначку вибору"
+
+#: settings/general/behaviorsettingspage.cpp:90
+#, kde-format
+msgctxt "option:check"
+msgid "Rename inline"
+msgstr "Перейменовувати без відкриття нового вікна"
+
+#: settings/general/behaviorsettingspage.cpp:94
+#, kde-format
+msgctxt "option:check"
+msgid "Switch between split views with tab key"
+msgstr "Перемикатися між панелями перегляду за допомогою Tab"
+
+#: settings/general/configurepreviewplugindialog.cpp:49
+#, kde-format
+msgctxt "@title:window"
+msgid "Configure Preview for %1"
+msgstr "Налаштування попереднього перегляду %1"
+
+#: settings/general/confirmationssettingspage.cpp:47
+#, kde-format
+msgctxt "@title:group"
+msgid "Ask for confirmation in all KDE applications when:"
+msgstr "Питати про підтвердження щодо таких дій у всіх програмах KDE:"
+
+#: settings/general/confirmationssettingspage.cpp:51
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Moving files or folders to trash"
+msgstr "Пересування файлів у смітник"
+
+#: settings/general/confirmationssettingspage.cpp:53
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Emptying trash"
+msgstr "Спорожнення смітника"
+
+#: settings/general/confirmationssettingspage.cpp:55
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Deleting files or folders"
+msgstr "Вилучення файлів або тек"
+
+#: settings/general/confirmationssettingspage.cpp:57
+#, kde-format
+msgctxt "@option:check Ask for confirmation when"
+msgid "Executing scripts or desktop files"
+msgstr "Виконання скриптів або файлів desktop"
+
+#: settings/general/confirmationssettingspage.cpp:59
+#, kde-format
+msgctxt "@title:group"
+msgid "Ask for confirmation in Dolphin when:"
+msgstr "Питати у Dolphin про підтвердження щодо таких дій:"
+
+#: settings/general/confirmationssettingspage.cpp:63
+#, kde-format
+msgctxt "@option:check Ask for confirmation in Dolphin when"
+msgid "Closing windows with multiple tabs"
+msgstr "Закриття вікон з декількома вкладками"
+
+#: settings/general/generalsettingspage.cpp:44
+#: settings/kcm/kcmdolphingeneral.cpp:50
+#, kde-format
+msgctxt "@title:tab Behavior settings"
+msgid "Behavior"
+msgstr "Поведінка"
+
+#: settings/general/generalsettingspage.cpp:49
+#: settings/kcm/kcmdolphingeneral.cpp:55
+#, kde-format
+msgctxt "@title:tab Previews settings"
+msgid "Previews"
+msgstr "Перегляд"
+
+#: settings/general/generalsettingspage.cpp:54
+#: settings/kcm/kcmdolphingeneral.cpp:60
+#, kde-format
+msgctxt "@title:tab Confirmations settings"
+msgid "Confirmations"
+msgstr "Підтвердження"
+
+#: settings/general/generalsettingspage.cpp:59
+#, kde-format
+msgctxt "@title:tab Status Bar settings"
+msgid "Status Bar"
+msgstr "Смужка стану"
+
+#: settings/general/previewssettingspage.cpp:52
+#, kde-format
+msgctxt "@title:group"
+msgid "Show previews for:"
+msgstr "Показувати мініатюри для:"
+
+#: settings/general/previewssettingspage.cpp:69
+#, kde-format
+msgctxt "@label"
+msgid "Skip previews for remote files above:"
+msgstr "Пропустити мініатюри віддалених файлів, більші за:"
+
+#: settings/general/statusbarsettingspage.cpp:34
+#, kde-format
+msgctxt "@option:check"
+msgid "Show zoom slider"
+msgstr "Показувати повзунок масштабу"
+
+#: settings/general/statusbarsettingspage.cpp:35
+#, kde-format
+msgctxt "@option:check"
+msgid "Show space information"
+msgstr "Показувати відомості про об’єм"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:51
+#: settings/viewmodes/viewsettingspage.cpp:42
+#, kde-format
+msgctxt "@title:tab"
+msgid "Icons"
+msgstr "Піктограми"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:56
+#: settings/viewmodes/viewsettingspage.cpp:47
+#, kde-format
+msgctxt "@title:tab"
+msgid "Compact"
+msgstr "Компактний"
+
+#: settings/kcm/kcmdolphinviewmodes.cpp:61
+#: settings/viewmodes/viewsettingspage.cpp:52
+#, kde-format
+msgctxt "@title:tab"
+msgid "Details"
+msgstr "Подробиці"
+
+#: settings/navigation/navigationsettingspage.cpp:40
+#, kde-format
+msgctxt "@option:check"
+msgid "Open archives as folder"
+msgstr "Відкривати архіви як теки"
+
+#: settings/navigation/navigationsettingspage.cpp:43
+#, kde-format
+msgctxt "option:check"
+msgid "Open folders during drag operations"
+msgstr "Відкривати теки під час дій з перетягування"
+
+#: settings/services/servicessettingspage.cpp:60
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Select which services should be shown in the context menu:"
+msgstr "Вкажіть список служб, які має бути показано у контекстному меню:"
+
+#: settings/services/servicessettingspage.cpp:75
+#, kde-format
+msgctxt "@action:button"
+msgid "Download New Services..."
+msgstr "Отримати нові служби…"
+
+#: settings/services/servicessettingspage.cpp:133
+#, kde-format
+msgctxt "@info"
+msgid ""
+"Dolphin must be restarted to apply the updated version control systems "
+"settings."
+msgstr ""
+"Щоб оновлені параметри систем керування версіями набули чинності, Dolphin "
+"слід перезапустити."
+
+#: settings/services/servicessettingspage.cpp:165
+#, kde-format
+msgctxt "@option:check"
+msgid "Delete"
+msgstr "Вилучити"
+
+#: settings/services/servicessettingspage.cpp:171
+#, kde-format
+msgctxt "@option:check"
+msgid "'Copy To' and 'Move To' commands"
+msgstr "Команди «Скопіювати до» та «Пересунути до»"
+
+#: settings/services/servicessettingspage.cpp:206
+#, kde-format
+msgctxt "@item:inmenu"
+msgid "%1: %2"
+msgstr "%1: %2"
+
+#: settings/startup/startupsettingspage.cpp:63
+#, kde-format
+msgctxt "@action:button"
+msgid "Select Home Location"
+msgstr "Виберіть розташування початкової сторінки"
+
+#: settings/startup/startupsettingspage.cpp:72
+#, kde-format
+msgctxt "@action:button"
+msgid "Use Current Location"
+msgstr "Використовувати поточну адресу"
+
+#: settings/startup/startupsettingspage.cpp:76
+#, kde-format
+msgctxt "@action:button"
+msgid "Use Default Location"
+msgstr "Використовувати типову адресу"
+
+#: settings/startup/startupsettingspage.cpp:86
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Start in:"
+msgstr "Режим запуску:"
+
+#: settings/startup/startupsettingspage.cpp:93
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Split view mode"
+msgstr "Режим розділеного перегляду"
+
+#: settings/startup/startupsettingspage.cpp:94
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "Window options:"
+msgstr "Параметри вікна:"
+
+#: settings/startup/startupsettingspage.cpp:95
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Editable location bar"
+msgstr "Редагована панель адреси"
+
+#: settings/startup/startupsettingspage.cpp:97
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show full path inside location bar"
+msgstr "Показувати повну адресу у полі адреси"
+
+#: settings/startup/startupsettingspage.cpp:99
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show filter bar"
+msgstr "Показувати панель фільтрування"
+
+#: settings/startup/startupsettingspage.cpp:101
+#, kde-format
+msgctxt "@option:check Startup Settings"
+msgid "Show full path in title bar"
+msgstr "Показувати повну адресу на смужці заголовка"
+
+#: settings/startup/startupsettingspage.cpp:128
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The location for the home folder is invalid or does not exist, it will not "
+"be applied."
+msgstr ""
+"Нечинна адреса теки домівки або цієї теки просто не існує; її не буде "
+"застосовано."
+
+#: settings/viewmodes/dolphinfontrequester.cpp:41
+#, kde-format
+msgctxt "@item:inlistbox Font"
+msgid "System Font"
+msgstr "Системний шрифт"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:42
+#, kde-format
+msgctxt "@item:inlistbox Font"
+msgid "Custom Font"
+msgstr "Нетиповий шрифт"
+
+#: settings/viewmodes/dolphinfontrequester.cpp:46
+#, kde-format
+msgctxt "@action:button Choose font"
+msgid "Choose..."
+msgstr "Вибрати…"
+
+#: settings/viewmodes/viewsettingstab.cpp:60
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Default icon size:"
+msgstr "Типовий розмір піктограм:"
+
+#: settings/viewmodes/viewsettingstab.cpp:68
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Preview icon size:"
+msgstr "Розмір мініатюр перегляду:"
+
+#: settings/viewmodes/viewsettingstab.cpp:76
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Label font:"
+msgstr "Шрифт міток:"
+
+#: settings/viewmodes/viewsettingstab.cpp:82
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Small"
+msgstr "мала"
+
+#: settings/viewmodes/viewsettingstab.cpp:83
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Medium"
+msgstr "середня"
+
+#: settings/viewmodes/viewsettingstab.cpp:84
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Large"
+msgstr "велика"
+
+#: settings/viewmodes/viewsettingstab.cpp:85
+#, kde-format
+msgctxt "@item:inlistbox Label width"
+msgid "Huge"
+msgstr "величезна"
+
+#: settings/viewmodes/viewsettingstab.cpp:86
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Label width:"
+msgstr "Ширина мітки:"
+
+#: settings/viewmodes/viewsettingstab.cpp:89
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "Unlimited"
+msgstr "без обмежень"
+
+#: settings/viewmodes/viewsettingstab.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "1"
+msgstr "1"
+
+#: settings/viewmodes/viewsettingstab.cpp:91
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "2"
+msgstr "2"
+
+#: settings/viewmodes/viewsettingstab.cpp:92
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "3"
+msgstr "3"
+
+#: settings/viewmodes/viewsettingstab.cpp:93
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "4"
+msgstr "4"
+
+#: settings/viewmodes/viewsettingstab.cpp:94
+#, kde-format
+msgctxt "@item:inlistbox Maximum lines"
+msgid "5"
+msgstr "5"
+
+#: settings/viewmodes/viewsettingstab.cpp:95
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Maximum lines:"
+msgstr "Максимальна кількість рядків:"
+
+#: settings/viewmodes/viewsettingstab.cpp:100
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Unlimited"
+msgstr "без обмежень"
+
+#: settings/viewmodes/viewsettingstab.cpp:101
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Small"
+msgstr "мала"
+
+#: settings/viewmodes/viewsettingstab.cpp:102
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Medium"
+msgstr "середня"
+
+#: settings/viewmodes/viewsettingstab.cpp:103
+#, kde-format
+msgctxt "@item:inlistbox Maximum width"
+msgid "Large"
+msgstr "велика"
+
+#: settings/viewmodes/viewsettingstab.cpp:104
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Maximum width:"
+msgstr "Максимальна ширина:"
+
+#: settings/viewmodes/viewsettingstab.cpp:108
+#, kde-format
+msgctxt "@option:check"
+msgid "Expandable"
+msgstr "З розгортанням"
+
+#: settings/viewmodes/viewsettingstab.cpp:109
+#, kde-format
+msgctxt "@label:checkbox"
+msgid "Folders:"
+msgstr "Теки:"
+
+#: settings/viewmodes/viewsettingstab.cpp:258
+#: statusbar/dolphinstatusbar.cpp:323
+#, kde-format
+msgctxt "@info:tooltip"
+msgid "Size: 1 pixel"
+msgid_plural "Size: %1 pixels"
+msgstr[0] "Розмір: %1 піксель"
+msgstr[1] "Розмір: %1 пікселі"
+msgstr[2] "Розмір: %1 пікселів"
+msgstr[3] "Розмір: 1 піксель"
+
+#: settings/viewpropertiesdialog.cpp:71
+#, kde-format
+msgctxt "@title:window"
+msgid "View Properties"
+msgstr "Властивості перегляду"
+
+#: settings/viewpropertiesdialog.cpp:84
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Icons"
+msgstr "Піктограми"
+
+#: settings/viewpropertiesdialog.cpp:85
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Compact"
+msgstr "Компактний"
+
+#: settings/viewpropertiesdialog.cpp:86
+#, kde-format
+msgctxt "@item:inlistbox"
+msgid "Details"
+msgstr "Подробиці"
+
+#: settings/viewpropertiesdialog.cpp:89
+#, kde-format
+msgctxt "@item:inlistbox Sort"
+msgid "Ascending"
+msgstr "За зростанням"
+
+#: settings/viewpropertiesdialog.cpp:90
+#, kde-format
+msgctxt "@item:inlistbox Sort"
+msgid "Descending"
+msgstr "За спаданням"
+
+#: settings/viewpropertiesdialog.cpp:98
+#, kde-format
+msgctxt "@option:check"
+msgid "Show folders first"
+msgstr "Показувати теки першими"
+
+#: settings/viewpropertiesdialog.cpp:99
+#, kde-format
+msgctxt "@option:check"
+msgid "Show preview"
+msgstr "Показати перегляд"
+
+#: settings/viewpropertiesdialog.cpp:100
+#, kde-format
+msgctxt "@option:check"
+msgid "Show in groups"
+msgstr "Показати групами"
+
+#: settings/viewpropertiesdialog.cpp:101
+#, kde-format
+msgctxt "@option:check"
+msgid "Show hidden files"
+msgstr "Показати приховані файли"
+
+#: settings/viewpropertiesdialog.cpp:104
+#, kde-format
+msgctxt "@title:group"
+msgid "Additional Information"
+msgstr "Додаткові відомості"
+
+#: settings/viewpropertiesdialog.cpp:144
+#, kde-format
+msgid "Choose what to see on each file or folder:"
+msgstr "Виберіть, що буде показано для кожного файла або теки:"
+
+#: settings/viewpropertiesdialog.cpp:156
+#, kde-format
+msgctxt "@label:listbox"
+msgid "View mode:"
+msgstr "Режим перегляду:"
+
+#: settings/viewpropertiesdialog.cpp:157
+#, kde-format
+msgctxt "@label:listbox"
+msgid "Sorting:"
+msgstr "Впорядкування:"
+
+#: settings/viewpropertiesdialog.cpp:161
+#, kde-format
+msgid "View options:"
+msgstr "Параметри перегляду:"
+
+#: settings/viewpropertiesdialog.cpp:186
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "Current folder"
+msgstr "Поточна тека"
+
+#: settings/viewpropertiesdialog.cpp:189
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "Current folder and sub-folders"
+msgstr "Поточна тека і підтеки"
+
+#: settings/viewpropertiesdialog.cpp:191
+#, kde-format
+msgctxt "@option:radio Apply View Properties To"
+msgid "All folders"
+msgstr "Всі теки"
+
+#: settings/viewpropertiesdialog.cpp:200
+#, kde-format
+msgctxt "@title:group"
+msgid "Apply to:"
+msgstr "Застосувати до:"
+
+#: settings/viewpropertiesdialog.cpp:205
+#, kde-format
+msgctxt "@option:check"
+msgid "Use as default view settings"
+msgstr "Використовувати як типові параметри перегляду"
+
+#: settings/viewpropertiesdialog.cpp:354
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The view properties of all sub-folders will be changed. Do you want to "
+"continue?"
+msgstr "Буде змінено параметри перегляду для всіх підтек. Продовжити?"
+
+#: settings/viewpropertiesdialog.cpp:386
+#, kde-format
+msgctxt "@info"
+msgid ""
+"The view properties of all folders will be changed. Do you want to continue?"
+msgstr "Буде змінено параметри перегляду для всіх тек. Продовжити?"
+
+#: settings/viewpropsprogressinfo.cpp:50
+#, kde-format
+msgctxt "@title:window"
+msgid "Applying View Properties"
+msgstr "Застосування властивостей перегляду"
+
+#: settings/viewpropsprogressinfo.cpp:63 settings/viewpropsprogressinfo.cpp:127
+#, kde-format
+msgctxt "@info:progress"
+msgid "Counting folders: %1"
+msgstr "Підрахування тек: %1"
+
+#: settings/viewpropsprogressinfo.cpp:143
+#, kde-format
+msgctxt "@info:progress"
+msgid "Folders: %1"
+msgstr "Теки: %1"
+
+#: statusbar/dolphinstatusbar.cpp:66
+#, kde-format
+msgid "Zoom"
+msgstr "Масштаб"
+
+#: statusbar/dolphinstatusbar.cpp:67
+#, kde-format
+msgctxt "Description for zoom-slider (accessibility)"
+msgid "Sets the size of the file icons."
+msgstr "Встановити розмір піктограм файлів."
+
+#: statusbar/dolphinstatusbar.cpp:81
+#, kde-format
+msgid "Stop"
+msgstr "Зупинити"
+
+#: statusbar/dolphinstatusbar.cpp:83
+#, kde-format
+msgctxt "@tooltip"
+msgid "Stop loading"
+msgstr "Зупинити завантаження"
+
+#: statusbar/dolphinstatusbar.cpp:261
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Zoom Slider"
+msgstr "Показувати повзунок масштабу"
+
+#: statusbar/dolphinstatusbar.cpp:265
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Show Space Information"
+msgstr "Показувати відомості про об’єм"
+
+#: statusbar/statusbarspaceinfo.cpp:93
+#, kde-format
+msgctxt "@info:status"
+msgid "Unknown size"
+msgstr "Невідомий розмір"
+
+#: statusbar/statusbarspaceinfo.cpp:101
+#, kde-format
+msgctxt "@info:status Free disk space"
+msgid "%1 free"
+msgstr "%1 вільно"
+
+#: views/dolphinremoteencoding.cpp:51
+#, kde-format
+msgid "Select Remote Charset"
+msgstr "Вибрати кодування на віддаленій стороні"
+
+#: views/dolphinremoteencoding.cpp:115
+#, kde-format
+msgid "Reload"
+msgstr "Перезавантажити"
+
+#: views/dolphinremoteencoding.cpp:116
+#, kde-format
+msgid "Default"
+msgstr "Типове"
+
+#: views/dolphinview.cpp:534
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder selected"
+msgid_plural "%1 Folders selected"
+msgstr[0] "Позначено %1 теку"
+msgstr[1] "Позначено %1 теки"
+msgstr[2] "Позначено %1 тек"
+msgstr[3] "Позначено одну теку"
+
+#: views/dolphinview.cpp:535
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File selected"
+msgid_plural "%1 Files selected"
+msgstr[0] "Позначено %1 файл"
+msgstr[1] "Позначено %1 файли"
+msgstr[2] "Позначено %1 файлів"
+msgstr[3] "Позначено один файл"
+
+#: views/dolphinview.cpp:539
+#, kde-format
+msgctxt "@info:status"
+msgid "1 Folder"
+msgid_plural "%1 Folders"
+msgstr[0] "%1 тека"
+msgstr[1] "%1 теки"
+msgstr[2] "%1 тек"
+msgstr[3] "Одна тека"
+
+#: views/dolphinview.cpp:540
+#, kde-format
+msgctxt "@info:status"
+msgid "1 File"
+msgid_plural "%1 Files"
+msgstr[0] "%1 файл"
+msgstr[1] "%1 файли"
+msgstr[2] "%1 файлів"
+msgstr[3] "Один файл"
+
+#: views/dolphinview.cpp:544
+#, kde-format
+msgctxt "@info:status folders, files (size)"
+msgid "%1, %2 (%3)"
+msgstr "%1, %2 (%3)"
+
+#: views/dolphinview.cpp:548
+#, kde-format
+msgctxt "@info:status files (size)"
+msgid "%1 (%2)"
+msgstr "%1 (%2)"
+
+#: views/dolphinview.cpp:554
+#, kde-format
+msgctxt "@info:status"
+msgid "0 Folders, 0 Files"
+msgstr "0 тек, 0 файлів"
+
+#: views/dolphinview.cpp:834
+#, kde-format
+msgid "Are you sure you want to open 1 item?"
+msgid_plural "Are you sure you want to open %1 items?"
+msgstr[0] "Ви справді хочете відкрити %1 об’єкт?"
+msgstr[1] "Ви справді хочете відкрити %1 об’єкти?"
+msgstr[2] "Ви справді хочете відкрити %1 об’єктів?"
+msgstr[3] "Ви справді хочете відкрити один об’єкт?"
+
+#: views/dolphinview.cpp:944
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Automatic Column Widths"
+msgstr "Автоматична ширина колонок"
+
+#: views/dolphinview.cpp:949
+#, kde-format
+msgctxt "@action:inmenu"
+msgid "Custom Column Widths"
+msgstr "Нетипова ширина колонок"
+
+#: views/dolphinview.cpp:1450
+#, kde-format
+msgctxt "@info:status"
+msgid "Trash operation completed."
+msgstr "Дію пересування до смітника завершено."
+
+#: views/dolphinview.cpp:1459
+#, kde-format
+msgctxt "@info:status"
+msgid "Delete operation completed."
+msgstr "Дію вилучення завершено."
+
+#: views/dolphinview.cpp:1604
+#, kde-format
+msgctxt "@info:status"
+msgid "The location is empty."
+msgstr "Адреса порожня."
+
+#: views/dolphinview.cpp:1606
+#, kde-format
+msgctxt "@info:status"
+msgid "The location '%1' is invalid."
+msgstr "Адреса «%1» — некоректна."
+
+#: views/dolphinviewactionhandler.cpp:94
+#, kde-format
+msgctxt "@action"
+msgid "Create Folder..."
+msgstr "Створити теку…"
+
+#: views/dolphinviewactionhandler.cpp:124
+#, kde-format
+msgctxt "@action \"Move to Trash\" for non-local files, etc."
+msgid "Delete (using shortcut for Trash)"
+msgstr "Вилучити (за допомогою скорочення для Смітника)"
+
+#: views/dolphinviewactionhandler.cpp:131
+#, kde-format
+msgctxt "@action:inmenu File"
+msgid "Properties"
+msgstr "Властивості"
+
+#: views/dolphinviewactionhandler.cpp:142
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "View Mode"
+msgstr "Режим перегляду"
+
+#: views/dolphinviewactionhandler.cpp:158
+#, kde-format
+msgctxt "@action:intoolbar"
+msgid "Preview"
+msgstr "Перегляд"
+
+#: views/dolphinviewactionhandler.cpp:159
+#, kde-format
+msgctxt "@info"
+msgid "Show preview of files and folders"
+msgstr "Показувати попередній перегляд вмісту файлів і тек"
+
+#: views/dolphinviewactionhandler.cpp:164
+#, kde-format
+msgctxt "@action:inmenu Sort"
+msgid "Descending"
+msgstr "За спаданням"
+
+#: views/dolphinviewactionhandler.cpp:168
+#, kde-format
+msgctxt "@action:inmenu Sort"
+msgid "Folders First"
+msgstr "Теки спочатку"
+
+#: views/dolphinviewactionhandler.cpp:175
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Sort By"
+msgstr "Критерій впорядкування"
+
+#: views/dolphinviewactionhandler.cpp:189
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Additional Information"
+msgstr "Додаткова інформація"
+
+#: views/dolphinviewactionhandler.cpp:198
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Show in Groups"
+msgstr "Показати групами"
+
+#: views/dolphinviewactionhandler.cpp:202
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Hidden Files"
+msgstr "Приховані файли"
+
+#: views/dolphinviewactionhandler.cpp:203
+#, kde-format
+msgctxt "@info"
+msgid "Visibility of hidden files and folders"
+msgstr "Видимість прихованих файлів та тек"
+
+#: views/dolphinviewactionhandler.cpp:208
+#, kde-format
+msgctxt "@action:inmenu View"
+msgid "Adjust View Properties..."
+msgstr "Налаштувати властивості перегляду…"
+
+#: views/dolphinviewactionhandler.cpp:492
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Icons"
+msgstr "Піктограми"
+
+#: views/dolphinviewactionhandler.cpp:493
+#, kde-format
+msgctxt "@info"
+msgid "Icons view mode"
+msgstr "Режим перегляду піктограм"
+
+#: views/dolphinviewactionhandler.cpp:503
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Compact"
+msgstr "Компактний"
+
+#: views/dolphinviewactionhandler.cpp:504
+#, kde-format
+msgctxt "@info"
+msgid "Compact view mode"
+msgstr "Компактний режим перегляду"
+
+#: views/dolphinviewactionhandler.cpp:514
+#, kde-format
+msgctxt "@action:inmenu View Mode"
+msgid "Details"
+msgstr "Подробиці"
+
+#: views/dolphinviewactionhandler.cpp:515
+#, kde-format
+msgctxt "@info"
+msgid "Details view mode"
+msgstr "Режим докладного перегляду"
+
+#: views/renamedialog.cpp:55
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Item"
+msgstr "Перейменування об’єкта"
+
+#: views/renamedialog.cpp:56
+#, kde-format
+msgctxt "@title:window"
+msgid "Rename Items"
+msgstr "Перейменування об’єктів"
+
+#: views/renamedialog.cpp:68
+#, kde-format
+msgctxt "@action:button"
+msgid "&Rename"
+msgstr "П&ерейменувати"
+
+#: views/renamedialog.cpp:79
+#, kde-kuit-format
+msgctxt "@label:textbox"
+msgid "Rename the item <filename>%1</filename> to:"
+msgstr "Перейменувати об’єкт <filename>%1</filename> на:"
+
+#: views/renamedialog.cpp:83
+#, kde-format
+msgctxt "@info:status"
+msgid "New name #"
+msgstr "Нова назва #"
+
+#: views/renamedialog.cpp:85
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Rename the %1 selected item to:"
+msgid_plural "Rename the %1 selected items to:"
+msgstr[0] "Перейменувати %1 позначений об’єкт на:"
+msgstr[1] "Перейменувати %1 позначені об’єкти на:"
+msgstr[2] "Перейменувати %1 позначених об’єктів на:"
+msgstr[3] "Перейменувати позначений об’єкт на:"
+
+#: views/renamedialog.cpp:130
+#, kde-format
+msgctxt "@info"
+msgid "# will be replaced by ascending numbers starting with:"
+msgstr "# буде замінено на зростаючі числа, починаючи з:"
+
+#: views/versioncontrol/versioncontrolobserver.cpp:212
+#, kde-format
+msgctxt "@info:status"
+msgid "Updating version information..."
+msgstr "Оновлення даних щодо версії…"
+
+#~ msgctxt "@title:group"
+#~ msgid "Properties"
+#~ msgstr "Властивості"
+
+#~ msgctxt "@title:group"
+#~ msgid "Additional Information Shown"
+#~ msgstr "Показана додаткова інформація"
+
+#~ msgctxt "@title:group"
+#~ msgid "Apply View Properties To"
+#~ msgstr "Об'єкт застосування нових властивостей"
+
+#~ msgctxt "@option:check"
+#~ msgid "Use these view properties as default"
+#~ msgstr "Використовувати ці властивості перегляду як типові"
+
+#~ msgctxt "option:check"
+#~ msgid "Use tab for switching between right and left split view"
+#~ msgstr ""
+#~ "Вкладки для перемикання між правою і лівою панелями розділеного перегляду"
+
+#~ msgctxt "@title:group"
+#~ msgid "Home Folder"
+#~ msgstr "Домівка"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Location:"
+#~ msgstr "Адреса:"
+
+#~ msgctxt "@title:group"
+#~ msgid "Icon Size"
+#~ msgstr "Розмір піктограм"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Preview:"
+#~ msgstr "Перегляд:"
+
+#~ msgctxt "@title:group"
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Font:"
+#~ msgstr "Шрифт:"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Width:"
+#~ msgstr "Ширина:"
+
+#~ msgctxt "@item:inlistbox Text width"
+#~ msgid "Small"
+#~ msgstr "мала"
+
+#~ msgctxt "@item:inlistbox Text width"
+#~ msgid "Medium"
+#~ msgstr "середня"
+
+#~ msgctxt "@option:check"
+#~ msgid "Expandable folders"
+#~ msgstr "Теки з розгортанням"
+
+#~ msgctxt "@label"
+#~ msgid "Select which additional information should be shown:"
+#~ msgstr "Вкажіть, які додаткові дані має бути показано:"
+
+#~ msgctxt "@action:button"
+#~ msgid "Additional Information"
+#~ msgstr "Додаткова інформація"
+
+#~ msgctxt "@action:inmenu Edit"
+#~ msgid "Select All"
+#~ msgstr "Вибрати все"
+
+#~ msgctxt "@action:inmenu View"
+#~ msgid "Reload"
+#~ msgstr "Перезавантажити"
+
+#~ msgctxt "@label"
+#~ msgid "Image Size"
+#~ msgstr "Розмір зображення"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Show Original"
+#~ msgstr "Показати оригінал"
+
+#~ msgid "Could not access \"%1\"."
+#~ msgstr "Не вдалося отримати доступ до «%1»."
+
+#~ msgctxt "@item"
+#~ msgid "Places"
+#~ msgstr "Місця"
+
+#~ msgctxt "@item"
+#~ msgid "Recently Saved"
+#~ msgstr "Останні збережені"
+
+#~ msgctxt "@item"
+#~ msgid "Search For"
+#~ msgstr "Об’єкти пошуку"
+
+#~ msgctxt "@item"
+#~ msgid "Devices"
+#~ msgstr "Пристрої"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Home"
+#~ msgstr "Домівка"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Network"
+#~ msgstr "Мережа"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Root"
+#~ msgstr "Корінь"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Trash"
+#~ msgstr "Смітник"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Today"
+#~ msgstr "Сьогодні"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Yesterday"
+#~ msgstr "Вчора"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "This Month"
+#~ msgstr "Цього місяця"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Last Month"
+#~ msgstr "Попереднього місяця"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Documents"
+#~ msgstr "Документи"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Images"
+#~ msgstr "Зображення"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Audio Files"
+#~ msgstr "Звукові файли"
+
+#~ msgctxt "KFile System Bookmarks"
+#~ msgid "Videos"
+#~ msgstr "Відео"
+
+#~ msgid "Empty Search"
+#~ msgstr "Спорожнити поле пошуку"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Delete"
+#~ msgstr "Ви&лучити"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "&Move to Trash"
+#~ msgstr "&Пересунути до смітника"
+
+#~ msgctxt "@action:inmenu File"
+#~ msgid "Rename..."
+#~ msgstr "Перейменувати…"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Help"
+#~ msgstr "Довідка"
+
+#~ msgctxt "@action:inmenu File"
+#~ msgid "Move to Trash"
+#~ msgstr "Пересунути до смітника"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Open '%1' in New Tab"
+#~ msgstr "Відкрити «%1» у новій вкладці"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Remove '%1'"
+#~ msgstr "Вилучити «%1»"
+
+#~ msgctxt "@action:inmenu File"
+#~ msgid "Delete"
+#~ msgstr "Вилучити"
+
+#~ msgctxt "@label"
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgctxt "option:check"
+#~ msgid "Natural sorting of items"
+#~ msgstr "Природне впорядкування об’єктів"
+
+#~ msgctxt "@action:inmenu %1 service name"
+#~ msgid "%1 - current folder"
+#~ msgstr "%1 — поточна тека"
+
+#~ msgctxt "@action:inmenu %1 service name"
+#~ msgid "%1 - current device"
+#~ msgstr "%1 — поточний пристрій"
+
+#~ msgctxt "@action:inmenu %1 service name"
+#~ msgid "%1 - all devices"
+#~ msgstr "%1 — усі пристрої"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Filelight [not installed]"
+#~ msgstr "Filelight [не встановлено]"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "KDiskFree [not installed]"
+#~ msgstr "KDiskFree [не встановлено]"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste Into Folder"
+#~ msgstr "Вставити в теку"
+
+#~ msgctxt "@title:group The week day name: %A"
+#~ msgid "%A"
+#~ msgstr "%A"
+
+#~ msgctxt ""
+#~ "@title:group The week day name: %A, %B is full month name in current "
+#~ "locale, and %Y is full year number"
+#~ msgid "%A (%B, %Y)"
+#~ msgstr "%A (%B, %Y)"
+
+#~ msgctxt ""
+#~ "@title:group The month and year: %B is full month name in current locale, "
+#~ "and %Y is full year number"
+#~ msgid "%B, %Y"
+#~ msgstr "%B, %Y"
+
+#~ msgctxt "@info"
+#~ msgid "Do you really want to empty the Trash? All items will be deleted."
+#~ msgstr "Ви дійсно хочете спорожнити смітник? Всі об’єкти буде вилучено."
+
+#~ msgctxt "@title:group"
+#~ msgid "Mouse"
+#~ msgstr "Миша"
+
+#~ msgctxt "@option:check Mouse Settings"
+#~ msgid "Double-click to open files and folders"
+#~ msgstr "Подвійне клацання відкриває файли і теки"
+
+#~ msgctxt "@info:status"
+#~ msgid "A folder cannot be dropped into itself"
+#~ msgstr "Теку не можна скидати на саму себе"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Paste"
+#~ msgstr "Вставити"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Find:"
+#~ msgstr "Знайти:"
+
+#~ msgctxt "@info:status"
+#~ msgid "Update of version information failed."
+#~ msgstr "Спроба оновлення даних щодо версії зазнала невдачі."
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Copy Text"
+#~ msgstr "Копіювати текст"
+
+#~ msgctxt "@info:status"
+#~ msgid "<filename>%1</filename> selected"
+#~ msgstr "Позначено <filename>%1</filename>"
+
+#~ msgctxt "@title:group Date"
+#~ msgid "Last Week"
+#~ msgstr "Минулого тижня"
+
+#~ msgctxt ""
+#~ "@title:group Date: %B is full month name in current locale, and %Y is "
+#~ "full year number"
+#~ msgid "Last Week (%B, %Y)"
+#~ msgstr "Минулого тижня (%B, %Y)"
+
+#~ msgid "Zoom slider"
+#~ msgstr "Повзунок масштабування"
+
+#~ msgctxt "@item Recently Accessed"
+#~ msgid "Today"
+#~ msgstr "Сьогодні"
+
+#~ msgctxt "@item Recently Accessed"
+#~ msgid "Yesterday"
+#~ msgstr "Вчора"
+
+#~ msgctxt "@label"
+#~ msgid "Trash"
+#~ msgstr "Смітник"
+
+#~ msgctxt "@option:option"
+#~ msgid "Maximum Rating"
+#~ msgstr "Максимальна оцінка"
+
+#~ msgctxt "@label"
+#~ msgid "Music"
+#~ msgstr "Музика"
+
+#~ msgctxt "@item Commonly Accessed"
+#~ msgid "Music"
+#~ msgstr "Музика"
+
+#~ msgctxt "option:check Refers to a filter on image size"
+#~ msgid "Small"
+#~ msgstr "Малі"
+
+#~ msgctxt "option:check Refers to a filter on image size"
+#~ msgid "Medium"
+#~ msgstr "Середні"
+
+#~ msgctxt "option:check Refers to a filter on image size"
+#~ msgid "Large"
+#~ msgstr "Великі"
+
+#~ msgctxt "@label"
+#~ msgid "View properties:"
+#~ msgstr "Властивості перегляду:"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Copy Information Message"
+#~ msgstr "Копіювати інформаційне повідомлення"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Copy Error Message"
+#~ msgstr "Копіювати повідомлення про помилку"
+
+#~ msgctxt "@item:intable"
+#~ msgid "No destination"
+#~ msgstr "Немає призначення"
+
+#~ msgctxt "@title:tab Context Menu settings"
+#~ msgid "Context Menu"
+#~ msgstr "Контекстне меню"
+
+#~ msgctxt "@option:check"
+#~ msgid "Show 'Delete' command"
+#~ msgstr "Показувати команду «Вилучити»"
+
+#~ msgctxt "@title:group"
+#~ msgid "Do not create previews for"
+#~ msgstr "Не створювати мініатюр для"
+
+#~ msgctxt "@label Don't create previews for: <Local files above:> XX MByte"
+#~ msgid "Local files above:"
+#~ msgstr "Локальних файлів, більші за:"
+
+#~ msgctxt "@title:group"
+#~ msgid "Version Control Systems"
+#~ msgstr "Системи керування версіями"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Configure and control Dolphin"
+#~ msgstr "Налаштування і керування Dolphin"
+
+#~ msgctxt "@item:intable"
+#~ msgid "items"
+#~ msgstr "об’єкти"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Name"
+#~ msgstr "Назва"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Size"
+#~ msgstr "Розмір"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Permissions"
+#~ msgstr "Права доступу"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Owner"
+#~ msgstr "Власник"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Group"
+#~ msgstr "Група"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Destination"
+#~ msgstr "Призначення"
+
+#~ msgctxt "@item:intable"
+#~ msgid "Path"
+#~ msgstr "Шлях"
+
+#~ msgctxt "@item:inlistbox Sort"
+#~ msgid "By Name"
+#~ msgstr "За назвою"
+
+#~ msgctxt "@item:inlistbox Sort"
+#~ msgid "By Size"
+#~ msgstr "За розміром"
+
+#~ msgctxt "@item:inlistbox Sort"
+#~ msgid "By Date"
+#~ msgstr "За датою"
+
+#~ msgctxt "@item:inlistbox Sort"
+#~ msgid "By Permissions"
+#~ msgstr "За правами доступу"
+
+#~ msgctxt "@item:inlistbox Sort"
+#~ msgid "By Owner"
+#~ msgstr "За власником"
+
+#~ msgctxt "@item:inlistbox Sort"
+#~ msgid "By Group"
+#~ msgstr "За групою"
+
+#~ msgctxt "@item:inlistbox Sort"
+#~ msgid "By Type"
+#~ msgstr "За типом"
+
+#~ msgctxt "@item:inlistbox Sort"
+#~ msgid "By Link Destination"
+#~ msgstr "За призначенням посилань"
+
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "Name"
+#~ msgstr "Назва"
+
+#~ msgctxt "@label"
+#~ msgid "Additional information"
+#~ msgstr "Додаткова інформація"
+
+#~ msgctxt "@info:status filename (type)"
+#~ msgid "%1 (%2)"
+#~ msgstr "%1 (%2)"
+
+#~ msgctxt "@option:check"
+#~ msgid "Rename inline"
+#~ msgstr "Перейменувати без відкриття нового вікна"
+
+#~ msgctxt "@info:status"
+#~ msgid "<filename>%1</filename> selected (%2)"
+#~ msgstr "Позначено <filename>%1</filename> (%2)"
+
+#~ msgctxt "@title:group"
+#~ msgid "Numerics"
+#~ msgstr "Числові дані"
+
+#~ msgid ""
+#~ "Is the application started the first time (internal setting not shown in "
+#~ "the UI)"
+#~ msgstr ""
+#~ "Чи програму запущено вперше (внутрішній параметри, який не буде показано "
+#~ "у графічному інтерфейсі)"
+
+#~ msgctxt "@title:tab"
+#~ msgid "Column"
+#~ msgstr "Колонка"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Number of lines:"
+#~ msgstr "Кількість рядків:"
+
+#~ msgctxt "@title:group"
+#~ msgid "Grid"
+#~ msgstr "Ґратка"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Arrangement:"
+#~ msgstr "Розташування:"
+
+#~ msgctxt "@item:inlistbox Arrangement"
+#~ msgid "Columns"
+#~ msgstr "Стовпчики"
+
+#~ msgctxt "@item:inlistbox Arrangement"
+#~ msgid "Rows"
+#~ msgstr "Рядки"
+
+#~ msgctxt "@label:listbox"
+#~ msgid "Grid spacing:"
+#~ msgstr "Інтервал ґратки:"
+
+#~ msgctxt "@item:inlistbox Grid spacing"
+#~ msgid "None"
+#~ msgstr "Немає"
+
+#~ msgctxt "@item:inlistbox Grid spacing"
+#~ msgid "Small"
+#~ msgstr "Малий"
+
+#~ msgctxt "@item:inlistbox Grid spacing"
+#~ msgid "Medium"
+#~ msgstr "Середній"
+
+#~ msgctxt "@item:inlistbox Grid spacing"
+#~ msgid "Large"
+#~ msgstr "Великий"
+
+#~ msgctxt "@item:inlistbox"
+#~ msgid "Column"
+#~ msgstr "Колонка"
+
+#~ msgctxt "@option:check"
+#~ msgid "Expandable Folders"
+#~ msgstr "Теки з розгортанням"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Columns"
+#~ msgstr "Колонки"
+
+#~ msgctxt "@action:inmenu View Mode"
+#~ msgid "Columns"
+#~ msgstr "Колонки"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Resize column"
+#~ msgstr "Змінити розмір колонки"
+
+#~ msgctxt "@title::column"
+#~ msgid "Link Destination"
+#~ msgstr "Призначення посилання"
+
+#~ msgctxt "@title::column"
+#~ msgid "Path"
+#~ msgstr "Шлях"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Deselect Item"
+#~ msgstr "Cкасувати вибір об’єкта"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Select Item"
+#~ msgstr "Позначити об’єкт"
+
+#~ msgid "Show preview"
+#~ msgstr "Показати перегляд"
+
+#~ msgctxt "@label"
+#~ msgid "Show hidden files"
+#~ msgstr "Показувати приховані файли"
+
+#~ msgctxt "@label"
+#~ msgid "Show preview"
+#~ msgstr "Показати перегляд"
+
+#~ msgctxt "@label"
+#~ msgid "Additional information (deprecated, use AdditionInfoV2 instead)"
+#~ msgstr "Додаткова інформація (застаріла, використовуйте AdditionInfoV2)"
+
+#~ msgid "Arrangement"
+#~ msgstr "Розташування"
+
+#~ msgid "Item height"
+#~ msgstr "Висота об’єктів"
+
+#~ msgid "Item width"
+#~ msgstr "Ширина об’єктів"
+
+#~ msgid "Grid spacing"
+#~ msgstr "Інтервал ґратки"
+
+#~ msgid "Number of textlines"
+#~ msgstr "Кількість рядків тексту"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Settings"
+#~ msgstr "Параметри"
+
+#~ msgctxt "@title:window"
+#~ msgid "Filter"
+#~ msgstr "Фільтрування"
+
+#~ msgctxt "@action:button"
+#~ msgid "Configure..."
+#~ msgstr "Налаштувати…"
+
+#~ msgctxt "@label::textbox"
+#~ msgid "Select which data should be shown in the tooltip:"
+#~ msgstr "Вкажіть дані, які слід показувати на панелі підказки:"
+
+#~ msgid "Remove folder restriction"
+#~ msgstr "Вилучити обмеження теки"
+
+#~ msgctxt "@title:group"
+#~ msgid "Tag"
+#~ msgstr "Мітка"
+
+#~ msgctxt "@action:button"
+#~ msgid "Today"
+#~ msgstr "Сьогодні"
+
+#~ msgctxt "@action:button"
+#~ msgid "Yesterday"
+#~ msgstr "Вчора"
+
+#~ msgctxt "@title:group"
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Open Parent Folder in New Window"
+#~ msgstr "Відкрити батьківську теку у новому вікні"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Open Parent Folder in New Tab"
+#~ msgstr "Відкрити батьківську теку у новій вкладці"
+
+#~ msgctxt "@info:status"
+#~ msgid ""
+#~ "The new name is empty. A name with at least one character must be entered."
+#~ msgstr ""
+#~ "Нова назва порожня. Треба ввести назву, яка складається принаймні з "
+#~ "одного символу."
+
+#~ msgctxt "@info:status"
+#~ msgid "The name must contain at least one # character."
+#~ msgstr "Назва мусить містити принаймні один символ #."
+
+#~ msgctxt "@info"
+#~ msgid "Close"
+#~ msgstr "Закрити"
+
+#~ msgctxt "@title:menu"
+#~ msgid "View Mode"
+#~ msgstr "Режим перегляду"
+
+#~ msgctxt "@info:credit"
+#~ msgid "Copyright © 2006–2011 Dolphin authors"
+#~ msgstr "© Автори Dolphin, 2006–2011"
+
+#~ msgctxt "@label"
+#~ msgid "No Tags Available"
+#~ msgstr "Жодних міток"
+
+#~ msgctxt "@label"
+#~ msgid "Byte"
+#~ msgstr "байт"
+
+#~ msgctxt "@label"
+#~ msgid "KByte"
+#~ msgstr "кбайт"
+
+#~ msgctxt "@label"
+#~ msgid "MByte"
+#~ msgstr "Мбайт"
+
+#~ msgctxt "@label"
+#~ msgid "GByte"
+#~ msgstr "Гбайт"
+
+#~ msgctxt "@label"
+#~ msgid "All"
+#~ msgstr "Все"
+
+#~ msgctxt "@label"
+#~ msgid "Text"
+#~ msgstr "Текст"
+
+#~ msgctxt "@label"
+#~ msgid "Filenames"
+#~ msgstr "Назви файлів"
+
+#~ msgctxt "@label"
+#~ msgid "Search:"
+#~ msgstr "Пошук:"
+
+#~ msgctxt "@label"
+#~ msgid "What:"
+#~ msgstr "Що:"
+
+#~ msgctxt "@info"
+#~ msgid "Add search option"
+#~ msgstr "Додати параметр пошуку"
+
+#~ msgctxt "@action:button"
+#~ msgid "Save"
+#~ msgstr "Зберегти"
+
+#~ msgctxt "@info"
+#~ msgid "Save search options"
+#~ msgstr "Зберегти параметри пошуку"
+
+#~ msgctxt "@action:button"
+#~ msgid "Close"
+#~ msgstr "Закрити"
+
+#~ msgctxt "@info"
+#~ msgid "Close search options"
+#~ msgstr "Закрити вікно параметрів пошуку"
+
+#~ msgctxt "@label"
+#~ msgid "Greater Than"
+#~ msgstr "більше, ніж"
+
+#~ msgctxt "@label"
+#~ msgid "Greater Than or Equal to"
+#~ msgstr "більше ніж або дорівнює"
+
+#~ msgctxt "@label"
+#~ msgid "Less Than"
+#~ msgstr "менше, ніж"
+
+#~ msgctxt "@label"
+#~ msgid "Less Than or Equal to"
+#~ msgstr "менше ніж або дорівнює"
+
+#~ msgctxt "@label"
+#~ msgid "Date:"
+#~ msgstr "Дата:"
+
+#~ msgctxt "@label"
+#~ msgid "Size:"
+#~ msgstr "Розмір:"
+
+#~ msgctxt "@label All (tags)"
+#~ msgid "All"
+#~ msgstr "Всі"
+
+#~ msgctxt "@label"
+#~ msgid "Equal to"
+#~ msgstr "Дорівнює"
+
+#~ msgctxt "@label"
+#~ msgid "Not Equal to"
+#~ msgstr "Не дорівнює"
+
+#~ msgctxt "@label"
+#~ msgid "Tag:"
+#~ msgstr "Мітка:"
+
+#~ msgctxt "@label Any (rating)"
+#~ msgid "Any"
+#~ msgstr "Будь-яка"
+
+#~ msgctxt "@label"
+#~ msgid "Rating:"
+#~ msgstr "Оцінка:"
+
+#~ msgctxt "@label"
+#~ msgid "Name:"
+#~ msgstr "Назва:"
+
+#~ msgctxt "@title:window"
+#~ msgid "Save Search Options"
+#~ msgstr "Збереження параметрів пошуку"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Search..."
+#~ msgstr "Пошук..."
+
+#~ msgctxt "@action:inmenu Tools"
+#~ msgid "Show Search Bar"
+#~ msgstr "Показувати панель пошуку"
+
+#~ msgid "Criteria"
+#~ msgstr "Критерії"
+
+#~ msgctxt "@option:check Additional Information"
+#~ msgid "Size"
+#~ msgstr "Розмір"
+
+#~ msgctxt "@option:check Additional Information"
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgctxt "@option:check Additional Information"
+#~ msgid "Permissions"
+#~ msgstr "Права доступу"
+
+#~ msgctxt "@option:check Additional Information"
+#~ msgid "Owner"
+#~ msgstr "Власник"
+
+#~ msgctxt "@option:check Additional Information"
+#~ msgid "Group"
+#~ msgstr "Група"
+
+#~ msgctxt "@option:check Additional Information"
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgctxt "@item::intable"
+#~ msgid "Normal"
+#~ msgstr "Звичайний"
+
+#~ msgctxt "@item::intable"
+#~ msgid "Update required"
+#~ msgstr "Потрібне оновлення"
+
+#~ msgctxt "@item::intable"
+#~ msgid "Locally modified"
+#~ msgstr "Змінений локально"
+
+#~ msgctxt "@item::intable"
+#~ msgid "Added"
+#~ msgstr "Додано"
+
+#~ msgctxt "@item::intable"
+#~ msgid "Conflicting"
+#~ msgstr "Конфлікт"
+
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "Size"
+#~ msgstr "Розмір"
+
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "Permissions"
+#~ msgstr "Права доступу"
+
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "Owner"
+#~ msgstr "Власник"
+
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "Group"
+#~ msgstr "Група"
+
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "Size"
+#~ msgstr "Розміром"
+
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "Date"
+#~ msgstr "Датою"
+
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "Permissions"
+#~ msgstr "Правами доступу"
+
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "Owner"
+#~ msgstr "Власником"
+
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "Group"
+#~ msgstr "Групою"
+
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "Type"
+#~ msgstr "Типом"
+
+#~ msgctxt "@title:menu"
+#~ msgid "Additional Information"
+#~ msgstr "Додаткова інформація"
+
+#~ msgctxt "@option:check"
+#~ msgid "Use thumbnails embedded in files"
+#~ msgstr "Використовувати мініатюри вбудовані в файли"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "SVN Update"
+#~ msgstr "SVN-оновлення"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "Show Local SVN Changes"
+#~ msgstr "Показати локальні зміни у SVN"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "SVN Commit..."
+#~ msgstr "SVN-передання..."
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "SVN Add"
+#~ msgstr "SVN-додавання"
+
+#~ msgctxt "@item:inmenu"
+#~ msgid "SVN Delete"
+#~ msgstr "SVN-вилучення"
+
+#~ msgctxt "@info:status"
+#~ msgid "Updating SVN repository..."
+#~ msgstr "Оновлення сховища SVN..."
+
+#~ msgctxt "@info:status"
+#~ msgid "Update of SVN repository failed."
+#~ msgstr "Спроба оновлення сховища SVN зазнала невдачі."
+
+#~ msgctxt "@info:status"
+#~ msgid "Updated SVN repository."
+#~ msgstr "Оновлено сховище SVN."
+
+#~ msgctxt "@label"
+#~ msgid "Description:"
+#~ msgstr "Опис:"
+
+#~ msgctxt "@title:window"
+#~ msgid "SVN Commit"
+#~ msgstr "SVN-передання"
+
+#~ msgctxt "@action:button"
+#~ msgid "Commit"
+#~ msgstr "Передати"
+
+#~ msgctxt "@info:status"
+#~ msgid "Commit of SVN changes failed."
+#~ msgstr "Спроба надсилання змін до SVN зазнала невдачі."
+
+#~ msgctxt "@info:status"
+#~ msgid "Committing SVN changes..."
+#~ msgstr "Надсилання змін до SVN..."
+
+#~ msgctxt "@info:status"
+#~ msgid "Committed SVN changes."
+#~ msgstr "Надіслано зміни до SVN."
+
+#~ msgctxt "@info:status"
+#~ msgid "Adding files to SVN repository..."
+#~ msgstr "Додавання файлів до сховища SVN..."
+
+#~ msgctxt "@info:status"
+#~ msgid "Adding of files to SVN repository failed."
+#~ msgstr "Спроба додавання файлів до сховища SVN зазнала невдачі."
+
+#~ msgctxt "@info:status"
+#~ msgid "Added files to SVN repository."
+#~ msgstr "Додано файли до сховища сховища SVN."
+
+#~ msgctxt "@info:status"
+#~ msgid "Removing files from SVN repository..."
+#~ msgstr "Вилучення файлів зі сховища SVN..."
+
+#~ msgctxt "@info:status"
+#~ msgid "Removing of files from SVN repository failed."
+#~ msgstr "Спроба вилучення файлів зі сховища SVN зазнала невдачі."
+
+#~ msgctxt "@info:status"
+#~ msgid "Removed files from SVN repository."
+#~ msgstr "Вилучено файли зі сховища SVN."
+
+#~ msgctxt "@label"
+#~ msgid "Total Size:"
+#~ msgstr "Загальний розмір:"
+
+#~ msgctxt "@label file type"
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgctxt "@title:window"
+#~ msgid "Change Tags"
+#~ msgstr "Зміна міток"
+
+#~ msgctxt "@title:window"
+#~ msgid "Add Tags"
+#~ msgstr "Додавання міток"
+
+#~ msgctxt "@label:textbox"
+#~ msgid "Configure which tags should be applied."
+#~ msgstr "Вкажіть мітки, які слід застосувати."
+
+#~ msgctxt "@label"
+#~ msgid "Create new tag:"
+#~ msgstr "Створити нову мітку:"
+
+#~ msgctxt "@info"
+#~ msgid "Delete tag"
+#~ msgstr "Вилучити мітку"
+
+#~ msgctxt "@info"
+#~ msgid ""
+#~ "Should the tag <resource>%1</resource> really be deleted for all files?"
+#~ msgstr "Вилучити мітку <resource>%1</resource> для всіх файлів?"
+
+#~ msgctxt "@title"
+#~ msgid "Delete tag"
+#~ msgstr "Вилучення мітки"
+
+#~ msgctxt "@action:button"
+#~ msgid "Delete"
+#~ msgstr "Вилучити"
+
+#~ msgctxt "@action:button"
+#~ msgid "Cancel"
+#~ msgstr "Скасувати"
+
+#~ msgctxt "@label"
+#~ msgid "Add Tags..."
+#~ msgstr "Додати мітки..."
+
+#~ msgctxt "@label"
+#~ msgid "Change..."
+#~ msgstr "Змінити..."
+
+#~ msgctxt "@info:progress"
+#~ msgid "Changing annotations"
+#~ msgstr "Зміна анотацій"
+
+#~ msgctxt "@item::inlistbox"
+#~ msgid "Type"
+#~ msgstr "Тип"
+
+#~ msgctxt "@item::inlistbox"
+#~ msgid "Size"
+#~ msgstr "Розмір"
+
+#~ msgctxt "@item::inlistbox"
+#~ msgid "Modified"
+#~ msgstr "Змінено"
+
+#~ msgctxt "@item::inlistbox"
+#~ msgid "Owner"
+#~ msgstr "Власник"
+
+#~ msgctxt "@item::inlistbox"
+#~ msgid "Permissions"
+#~ msgstr "Права доступу"
+
+#~ msgctxt "@title:window"
+#~ msgid "Change Comment"
+#~ msgstr "Змінити коментар"
+
+#~ msgctxt "@title:window"
+#~ msgid "Add Comment"
+#~ msgstr "Додати коментар"
+
+#~ msgctxt "@label file content size"
+#~ msgid "Size"
+#~ msgstr "Розмір"
+
+#~ msgctxt "@label file depends from"
+#~ msgid "Depends"
+#~ msgstr "Залежить"
+
+#~ msgctxt "@label parent directory"
+#~ msgid "Part of"
+#~ msgstr "Є частиною"
+
+#~ msgctxt "@label modified date of file"
+#~ msgid "Modified"
+#~ msgstr "Дата зміни"
+
+#~ msgctxt "@label"
+#~ msgid "MIME Type"
+#~ msgstr "Тип MIME"
+
+#~ msgctxt "@label file URL"
+#~ msgid "Location"
+#~ msgstr "Адреса"
+
+#~ msgctxt "@label"
+#~ msgid "Creator"
+#~ msgstr "Автор"
+
+#~ msgctxt "@label"
+#~ msgid "Channels"
+#~ msgstr "Канали"
+
+#~ msgctxt "@label number of characters"
+#~ msgid "Characters"
+#~ msgstr "К-ть символів"
+
+#~ msgctxt "@label"
+#~ msgid "Codec"
+#~ msgstr "Кодек"
+
+#~ msgctxt "@label"
+#~ msgid "Color Depth"
+#~ msgstr "Глибина кольору"
+
+#~ msgctxt "@label"
+#~ msgid "Interlace Mode"
+#~ msgstr "Режим переплетення"
+
+#~ msgctxt "@label number of lines"
+#~ msgid "Lines"
+#~ msgstr "К-ть рядків"
+
+#~ msgctxt "@label"
+#~ msgid "Programming Language"
+#~ msgstr "Мова програмування"
+
+#~ msgctxt "@label"
+#~ msgid "Sample Rate"
+#~ msgstr "Частота дискретизації"
+
+#~ msgctxt "@label number of words"
+#~ msgid "Words"
+#~ msgstr "К-ть слів"
+
+#~ msgctxt "@label EXIF aperture value"
+#~ msgid "Aperture"
+#~ msgstr "Апертура"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Exposure Bias Value"
+#~ msgstr "Значення ухилу експозиції"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Exposure Time"
+#~ msgstr "Час експозиції"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Flash"
+#~ msgstr "Спалах"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Focal Length"
+#~ msgstr "Фокальна відстань"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Focal Length 35 mm"
+#~ msgstr "Фокальна відстань 35 мм"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "ISO Speed Ratings"
+#~ msgstr "Світлочутливість ISO"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Make"
+#~ msgstr "Виробник"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "Model"
+#~ msgstr "Модель"
+
+#~ msgctxt "@label EXIF"
+#~ msgid "White Balance"
+#~ msgstr "Баланс білого"
+
+#~ msgctxt "@label image width and height"
+#~ msgid "Width x Height"
+#~ msgstr "Ширина ⨯ Висота"
+
+#~ msgctxt "@item::inlistbox"
+#~ msgid "Rating"
+#~ msgstr "Оцінка"
+
+#~ msgctxt "@item::inlistbox"
+#~ msgid "Tags"
+#~ msgstr "Мітки"
+
+#~ msgctxt "@item::inlistbox"
+#~ msgid "Comment"
+#~ msgstr "Коментар"
+
+#~ msgctxt "@label"
+#~ msgid "File Name"
+#~ msgstr "Назва файла"
+
+#~ msgctxt "@label"
+#~ msgid "Type:"
+#~ msgstr "Тип:"
+
+#~ msgctxt "@label"
+#~ msgid "Modified:"
+#~ msgstr "Змінено:"
+
+#~ msgctxt "@label"
+#~ msgid "Owner:"
+#~ msgstr "Власник:"
+
+#~ msgctxt "@label"
+#~ msgid "Permissions:"
+#~ msgstr "Права доступу:"
+
+#~ msgctxt "@label"
+#~ msgid "Tags:"
+#~ msgstr "Мітки:"
+
+#~ msgctxt "@label"
+#~ msgid "Comment:"
+#~ msgstr "Коментар:"
+
+#~ msgctxt "@action:inmenu Settings"
+#~ msgid "Get Service Menu..."
+#~ msgstr "Отримати службове меню..."
+
+#~ msgctxt "@title:menu"
+#~ msgid "Navigation Bar"
+#~ msgstr "Панель навігації"
+
+#~ msgctxt "@info:tooltip"
+#~ msgid "Click to begin the search"
+#~ msgstr "Натисніть, щоб розпочати пошук"
+
+#~ msgctxt "@label"
+#~ msgid "Date Modified"
+#~ msgstr "Дата зміни"
+
+#~ msgctxt "@info:status"
+#~ msgid "Copy operation completed."
+#~ msgstr "Дію копіювання завершено."
+
+#~ msgctxt "@info:status"
+#~ msgid "Move operation completed."
+#~ msgstr "Дію пересування завершено."
+
+#~ msgctxt "@info:status"
+#~ msgid "Link operation completed."
+#~ msgstr "Дію створення посилання завершено."
+
+#~ msgctxt "@info:status"
+#~ msgid "Renaming operation completed."
+#~ msgstr "Дію перейменування завершено."
+
+#~ msgctxt "label"
+#~ msgid "Texts"
+#~ msgstr "Тексти"
+
+#~ msgid "Show comment"
+#~ msgstr "Показати коментар"
+
+#~ msgctxt "@title:window subtitle to previous message"
+#~ msgid "with optional icon and description"
+#~ msgstr "з додатковою піктограмою та описом"
+
+#~ msgctxt "@label Indicator when no tags defined"
+#~ msgid "No Tags"
+#~ msgstr "Без міток"
+
+#~ msgid "Do you really want to delete tag '%1'?"
+#~ msgstr "Ви справді бажаєте вилучити мітку «%1»?"
+
+#~ msgctxt "@label"
+#~ msgid "Detailed description (optional):"
+#~ msgstr "Докладний опис (необов’язковий):"
+
+#~ msgctxt "and ss in a logic operator to connect search terms"
+#~ msgid "and"
+#~ msgstr "та"
+
+#~ msgctxt "or as in a logic operator to connect search terms"
+#~ msgid "or"
+#~ msgstr "або"
+
+#~ msgctxt "not as in a logic operator to connect search terms"
+#~ msgid "not"
+#~ msgstr "не"
+
+#~ msgctxt "@item::intable"
+#~ msgid "Latest"
+#~ msgstr "Попередні"
+
+#~ msgctxt "@item::intable"
+#~ msgid "Editing"
+#~ msgstr "Редагування"
+
+#~ msgctxt "@item::intable"
+#~ msgid "Local"
+#~ msgstr "Локальні"
+
+#~ msgctxt "@title:group Tags"
+#~ msgid "Not yet tagged"
+#~ msgstr "Ще не позначено"
+
+#~ msgctxt "@action:inmenu"
+#~ msgid "Move To Trash"
+#~ msgstr "Пересунути в смітник"
+
+#~| msgctxt "@action:inmenu File"
+#~| msgid "Rename..."
+#~ msgctxt "@action:inmenu File"
+#~ msgid "&Rename..."
+#~ msgstr "&Перейменувати..."
+
+#~| msgctxt "@action:inmenu File"
+#~| msgid "Properties"
+#~ msgctxt "@action:inmenu File"
+#~ msgid "&Properties"
+#~ msgstr "В&ластивості"
+
+#~| msgctxt "@action:intoolbar"
+#~| msgid "Preview"
+#~ msgctxt "@action:intoolbar"
+#~ msgid "P&review"
+#~ msgstr "Пе&регляд"
+
+#~| msgctxt "@action:inmenu Sort"
+#~| msgid "Descending"
+#~ msgctxt "@action:inmenu Sort"
+#~ msgid "Des&cending"
+#~ msgstr "За сп&аданням"
+
+#~| msgctxt "@action:inmenu View"
+#~| msgid "Show Hidden Files"
+#~ msgctxt "@action:inmenu View"
+#~ msgid "Show &Hidden Files"
+#~ msgstr "Показувати при&ховані файли"
+
+#~| msgctxt "@action:inmenu Additional information"
+#~| msgid "Size"
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "&Size"
+#~ msgstr "&Розмір"
+
+#~| msgctxt "@action:inmenu Additional information"
+#~| msgid "Date"
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "D&ate"
+#~ msgstr "&Дата"
+
+#~| msgctxt "@action:inmenu Additional information"
+#~| msgid "Permissions"
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "Pe&rmissions"
+#~ msgstr "Права д&оступу"
+
+#~| msgctxt "@action:inmenu Additional information"
+#~| msgid "Owner"
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "&Owner"
+#~ msgstr "Вла&сник"
+
+#~| msgctxt "@action:inmenu Additional information"
+#~| msgid "Group"
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "Gro&up"
+#~ msgstr "Гр&упа"
+
+#~| msgctxt "@action:inmenu Additional information"
+#~| msgid "Type"
+#~ msgctxt "@action:inmenu Additional information"
+#~ msgid "&Type"
+#~ msgstr "&Тип"
+
+#~| msgctxt "@action:inmenu Sort By"
+#~| msgid "Size"
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "&Size"
+#~ msgstr "&Розміром"
+
+#~| msgctxt "@action:inmenu Sort By"
+#~| msgid "Date"
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "&Date"
+#~ msgstr "&Датою"
+
+#~| msgctxt "@action:inmenu Sort By"
+#~| msgid "Permissions"
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "Pe&rmissions"
+#~ msgstr "П&равами доступу"
+
+#~| msgctxt "@action:inmenu Sort By"
+#~| msgid "Owner"
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "&Owner"
+#~ msgstr "В&ласником"
+
+#~| msgctxt "@action:inmenu Sort By"
+#~| msgid "Group"
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "&Group"
+#~ msgstr "Гр&упою"
+
+#~| msgctxt "@action:inmenu Sort By"
+#~| msgid "Type"
+#~ msgctxt "@action:inmenu Sort By"
+#~ msgid "&Type"
+#~ msgstr "&Типом"
+
+#~| msgctxt "@action:inmenu View Mode"
+#~| msgid "Icons"
+#~ msgctxt "@action:inmenu View Mode"
+#~ msgid "&Icons"
+#~ msgstr "П&іктограми"
+
+#~| msgctxt "@action:inmenu View Mode"
+#~| msgid "Details"
+#~ msgctxt "@action:inmenu View Mode"
+#~ msgid "Det&ails"
+#~ msgstr "П&одробиці"
+
+#~| msgctxt "@action:inmenu View Mode"
+#~| msgid "Columns"
+#~ msgctxt "@action:inmenu View Mode"
+#~ msgid "Col&umns"
+#~ msgstr "Ко&лонки"
